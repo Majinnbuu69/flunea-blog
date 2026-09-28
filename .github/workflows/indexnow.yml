@@ -1,0 +1,89 @@
+# Prévient Bing (et Yandex, Seznam, Naver…) via IndexNow dès qu'un article est
+# RÉELLEMENT en ligne sur flunea.fr. ChatGPT Search s'appuie en grande partie sur
+# l'index de Bing : un article indexé en minutes plutôt qu'en jours y apparaît
+# d'autant plus vite.
+#
+# Déclenchement :
+#  - push sur main touchant articles/ (le robot n8n commit ici) : URLs ajoutées ou modifiées ;
+#  - manuel (Actions > IndexNow > Run workflow) : toutes les URLs du blog.
+#
+# On attend que l'URL figure dans https://flunea.fr/sitemap.xml : le site renvoie
+# 200 sur n'importe quelle URL (application monopage), seul le sitemap prouve que
+# le build qui contient l'article est déployé.
+name: IndexNow
+
+on:
+  push:
+    branches: [main]
+    paths: ["articles/**.md"]
+  workflow_dispatch:
+
+concurrency:
+  group: indexnow
+  cancel-in-progress: false
+
+env:
+  SITE: https://flunea.fr
+  # Clé publique par conception : Bing la vérifie en lisant $SITE/<clé>.txt.
+  INDEXNOW_KEY: 9cf468e40554a32e68d5ea1219dce3de
+
+jobs:
+  ping:
+    runs-on: ubuntu-latest
+    timeout-minutes: 30
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          fetch-depth: 2
+
+      - name: URLs à signaler
+        id: urls
+        run: |
+          if [ "${{ github.event_name }}" = "workflow_dispatch" ] || ! git rev-parse -q --verify HEAD~1 >/dev/null; then
+            files=$(ls articles/*.md)
+            extra="$SITE/ $SITE/blog"
+          else
+            files=$(git diff --name-only --diff-filter=AM HEAD~1 HEAD -- 'articles/*.md')
+            extra="$SITE/blog"
+          fi
+          if [ -z "$files" ]; then echo "Aucun article ajouté ou modifié."; echo "list=" >> "$GITHUB_OUTPUT"; exit 0; fi
+          urls=$(for f in $files; do echo "$SITE/blog/$(basename "$f" .md)"; done)
+          echo "$urls"
+          echo "list=$(echo $urls $extra)" >> "$GITHUB_OUTPUT"
+          echo "check=$(echo $urls)" >> "$GITHUB_OUTPUT"
+
+      - name: Attendre la mise en ligne (sitemap)
+        if: steps.urls.outputs.list != ''
+        run: |
+          for i in $(seq 1 40); do
+            sitemap=$(curl -fsS "$SITE/sitemap.xml" || true)
+            missing=""
+            for u in ${{ steps.urls.outputs.check }}; do
+              echo "$sitemap" | grep -q "<loc>$u</loc>" || missing="$missing $u"
+            done
+            if [ -z "$missing" ]; then echo "En ligne."; exit 0; fi
+            echo "Pas encore en ligne :$missing (essai $i/40)"; sleep 30
+          done
+          echo "::error::Articles absents du sitemap après 20 min : le déploiement a-t-il échoué ?"; exit 1
+
+      - name: Vérifier la clé servie par le site
+        if: steps.urls.outputs.list != ''
+        run: |
+          served=$(curl -fsS "$SITE/$INDEXNOW_KEY.txt")
+          [ "$served" = "$INDEXNOW_KEY" ] || { echo "::error::$SITE/$INDEXNOW_KEY.txt ne renvoie pas la clé"; exit 1; }
+
+      - name: Envoyer à IndexNow
+        if: steps.urls.outputs.list != ''
+        run: |
+          body=$(python3 - <<PY
+          import json
+          urls = "${{ steps.urls.outputs.list }}".split()
+          print(json.dumps({"host": "flunea.fr", "key": "$INDEXNOW_KEY",
+                            "keyLocation": "$SITE/$INDEXNOW_KEY.txt", "urlList": urls}))
+          PY
+          )
+          echo "$body"
+          code=$(curl -sS -o /tmp/r.txt -w '%{http_code}' -X POST https://api.indexnow.org/indexnow \
+            -H 'Content-Type: application/json; charset=utf-8' --data "$body")
+          cat /tmp/r.txt; echo; echo "HTTP $code"
+          case "$code" in 200|202) echo "IndexNow a accepté les URLs." ;; *) exit 1 ;; esac
