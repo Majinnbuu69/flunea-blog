@@ -7,8 +7,7 @@
       "intention": "info",
       "angle": "La procédure de recouvrement des créances commerciales non contestées annoncée en 2026 : ce qui change pour une TPE, ce qu'il faut attendre (décret d'application), et quoi faire en attendant.",
       "priorite": 12,
-      "statut": "a_revoir",
-      "note": "Non traité le 2026-09-28 : tous les domaines de sources autorisés (legifrance.gouv.fr, service-public.gouv.fr, economie.gouv.fr, banque-france.fr, urssaf.fr, cci.fr, bpifrance-creation.fr) étaient bloqués par le proxy réseau de la session (EGRESS_BLOCKED sur chaque WebFetch), donc aucune page officielle n'a pu être ouverte pendant cette exécution. Le seul fait déjà vérifié dans sources/faits-verifies.md (création le 25/04/2026, décret d'application en attente) est insuffisant pour traiter l'angle (rôle du commissaire de justice, étapes de la procédure, seuils, différence avec l'injonction de payer) sans inventer de détails. À retenter quand l'accès réseau aux domaines autorisés fonctionne."
+      "statut": "a_faire"
     },
     {
       "slug": "facturation-electronique-tpe-2027",
