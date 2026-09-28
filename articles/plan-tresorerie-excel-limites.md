@@ -3,7 +3,7 @@ title: "Plan de trésorerie sur Excel : 5 limites qui coûtent cher"
 description: "Excel reste l'outil de trésorerie le plus utilisé en TPE. Voici les cinq limites qui font perdre du temps et de l'argent, et comment y remédier concrètement."
 slug: "plan-tresorerie-excel-limites"
 date: "2026-09-12"
-updated: "2026-09-12"
+updated: "2026-09-28"
 author: "L'équipe Flunea"
 keywords:
   - "plan de trésorerie Excel"
@@ -83,3 +83,17 @@ Pour savoir si votre plan de trésorerie Excel vous coûte plus qu'il vous rappo
 Flunea part de vos comptes bancaires, pas d'une feuille blanche : les opérations arrivent automatiquement en lecture seule, les charges récurrentes sont reconnues, vos factures et échéances viennent nourrir la projection, et le point bas est affiché en permanence avec sa date.
 
 Vous gardez la main sur les hypothèses — c'est votre entreprise, pas un modèle standard. Mais vous n'écrivez plus une seule formule, et vous n'oubliez plus une seule échéance.
+
+## Questions fréquentes
+
+### Peut-on faire un plan de trésorerie gratuit sur Excel ?
+
+Oui, et c'est souvent le bon point de départ. Un tableau avec, par semaine, le solde de début, les encaissements, les décaissements et le solde de fin suffit. La limite arrive quand le fichier devient hebdomadaire : la saisie manuelle prend plusieurs heures par mois et les erreurs de formule passent inaperçues.
+
+### Combien de temps prend la mise à jour d'un plan de trésorerie Excel ?
+
+Comptez trois à quatre heures par mois pour deux comptes bancaires : export des relevés, copier-coller, reclassement des libellés, vérification des cumuls. Au-delà de deux heures mensuelles, un outil connecté à la banque devient rentable dès le premier mois, puisque ce temps est pris sur votre activité.
+
+### Quand faut-il abandonner Excel pour un logiciel de trésorerie ?
+
+Quand le fichier devient récurrent. S'il faut le rouvrir chaque semaine, qu'il couvre plus de deux comptes bancaires ou qu'il circule entre plusieurs personnes, le risque de travailler sur une version fausse devient réel. Excel reste imbattable pour une simulation ponctuelle, par exemple avant un rendez-vous bancaire.

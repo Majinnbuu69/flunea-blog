@@ -3,7 +3,7 @@ title: "Prévision de trésorerie en TPE : la méthode simple"
 description: "La méthode en 5 étapes pour construire une prévision de trésorerie fiable quand on dirige une TPE, sans être comptable et sans y passer ses dimanches."
 slug: "prevision-tresorerie-tpe"
 date: "2026-09-10"
-updated: "2026-09-10"
+updated: "2026-09-28"
 author: "L'équipe Flunea"
 keywords:
   - "prévision de trésorerie"
@@ -103,3 +103,21 @@ La première construction demande une à deux heures, surtout pour recenser les 
 Le reste est mécanique — et c'est précisément ce qu'un outil doit faire à votre place : récupérer les opérations bancaires, reconnaître les charges récurrentes, tenir les dates à jour et vous alerter avant le point bas, pas après.
 
 C'est ce que nous construisons avec Flunea : une trésorerie prévisionnelle qui se met à jour toute seule, sans tableur à maintenir et sans jargon comptable.
+
+## Questions fréquentes
+
+### Sur combien de temps faire une prévision de trésorerie ?
+
+Sur 3 à 6 mois pour une TPE : semaine par semaine sur les 4 à 6 premières semaines, là où se jouent les tensions, puis mois par mois. Au-delà de 6 mois, l'exercice relève du budget : les hypothèses deviennent trop fragiles pour décider d'un achat ou d'une embauche.
+
+### Quel seuil de sécurité de trésorerie viser ?
+
+Un mois de charges fixes est un bon repère pour une TPE : salaires, charges sociales, loyer, échéances de prêt et abonnements. Si ces sorties atteignent 12 000 € par mois, votre point bas prévisionnel ne devrait jamais descendre sous 12 000 €. En dessous, il faut agir sur le calendrier des encaissements.
+
+### Faut-il intégrer les devis dans la prévision de trésorerie ?
+
+Non, pas dans la prévision de référence. Un devis n'est pas un encaissement tant qu'il n'est pas signé, facturé et daté. Placez les devis probables dans un scénario séparé : vous voyez ce que devient votre trésorerie s'ils se concrétisent, sans fausser le point bas réel.
+
+### À quelle fréquence mettre à jour sa prévision de trésorerie ?
+
+Chaque semaine, idéalement le lundi. Vingt minutes suffisent : rapprocher les opérations bancaires réellement passées, décaler les dates des factures clients en retard, relire le point bas. Une prévision mise à jour deux fois par an ne sert plus à décider, seulement à constater.

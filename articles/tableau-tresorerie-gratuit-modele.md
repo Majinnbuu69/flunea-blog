@@ -3,7 +3,7 @@ title: "Tableau de trésorerie gratuit : le modèle à recopier et ses limites
 description: "Découvrez un modèle gratuit de tableau de trésorerie, les colonnes essentielles et pourquoi un fichier statique perd rapidement le réalisme."
 slug: "tableau-tresorerie-gratuit-modele"
 date: "2026-09-16"
-updated: "2026-09-16"
+updated: "2026-09-28"
 author: "L'equipe Flunea"
 keywords:
   - "tableau de trésorerie gratuit"
@@ -63,3 +63,17 @@ Lorsque la saisie manuelle devient un frein, la logique veut que vous automatisi
 En adoptant cet outil, vous éliminez les écarts de mise à jour, vous gagnez du temps sur la saisie et vous bénéficiez d’alertes dès qu’un solde menace de devenir négatif. La prévision devient dynamique : vous pouvez simuler l’impact d’un paiement différé ou d’un nouveau client et voir immédiatement comment votre trésorerie évolue.  
 
 Flunea propose exactement ce type de tableau de trésorerie gratuit, enrichi d’une synchronisation automatique qui garde vos données à jour sans que vous ayez à toucher à une cellule. Vous conservez la simplicité d’un tableau Excel tout en gagnant la fiabilité d’une solution connectée.
+
+## Questions fréquentes
+
+### Que doit contenir un tableau de trésorerie ?
+
+Au minimum, pour chaque période : le solde d'ouverture, les encaissements, les décaissements et le solde de clôture, qui devient le solde d'ouverture suivant. Ajoutez une colonne prévu et une colonne réel pour mesurer l'écart : c'est lui qui vous apprend à mieux prévoir le mois suivant.
+
+### Tableau de trésorerie ou compte de résultat : quelle différence ?
+
+Le compte de résultat mesure ce que l'entreprise gagne ; le tableau de trésorerie mesure l'argent réellement disponible, à la date où il bouge. Une facture de 5 000 € émise en juin compte dans le résultat de juin, mais n'entre dans la trésorerie qu'au jour du virement, parfois deux mois plus tard.
+
+### À quelle fréquence mettre à jour un tableau de trésorerie ?
+
+Chaque semaine si votre solde descend parfois sous un mois de charges fixes, chaque mois sinon. Un tableau mis à jour trop rarement accumule les écarts : un retard client de 15 jours non reporté suffit à fausser tout le mois suivant.

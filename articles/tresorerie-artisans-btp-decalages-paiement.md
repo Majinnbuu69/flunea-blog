@@ -3,7 +3,7 @@ title: "Trésorerie BTP : anticiper les décalages de paiement"
 description: "Retenue de garantie, situations mensuelles, sous-traitance : pourquoi la trésorerie du BTP se tend même quand les chantiers sont rentables, et comment l'anticiper."
 slug: "tresorerie-artisans-btp-decalages-paiement"
 date: "2026-09-14"
-updated: "2026-09-14"
+updated: "2026-09-28"
 author: "L'équipe Flunea"
 keywords:
   - "trésorerie BTP"
@@ -92,3 +92,17 @@ Il se prépare en septembre, pas en décembre : on constitue une réserve sur le
 Le bâtiment ne souffre pas d'un problème de marge, mais d'un problème de calendrier. Les décalages sont connus, récurrents et mesurables : ils peuvent donc être anticipés.
 
 C'est exactement ce que nous construisons avec Flunea : vos comptes synchronisés, vos échéances et vos retenues suivies, votre point bas affiché en permanence avec sa date — pour que vos décisions de chantier soient prises avec la trésorerie sous les yeux.
+
+## Questions fréquentes
+
+### Qu'est-ce que la retenue de garantie dans le BTP ?
+
+C'est une somme conservée par le client, au plus 5 % du montant des travaux, pour garantir la levée des réserves. Elle est libérée un an après la réception, sauf opposition motivée. Vous pouvez la remplacer par une caution bancaire et encaisser 100 % du marché, moyennant une commission.
+
+### Quel acompte demander pour des travaux ?
+
+Sur les marchés privés, 30 % à la commande est une pratique courante. Pour un chantier avec beaucoup de fournitures, calez plutôt l'acompte sur le coût des matériaux : il se justifie plus facilement auprès du client et correspond à votre besoin réel de trésorerie.
+
+### Comment éviter les problèmes de trésorerie dans le bâtiment ?
+
+En facturant par situation mensuelle le jour où l'avancement est constaté, en demandant un acompte à chaque commande et en suivant, chantier par chantier, le réalisé non facturé. Ce dernier chiffre représente souvent un mois et demi de chiffre d'affaires : c'est la trésorerie la plus rapide à récupérer.

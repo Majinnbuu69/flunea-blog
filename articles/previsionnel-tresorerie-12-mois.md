@@ -40,3 +40,17 @@ Lorsque le solde prévu devient négatif, Pierre identifie la cause immédiate :
 Le dernier conseil, c’est de laisser la technologie faire le travail de saisie. Des outils de connexion bancaire récupèrent automatiquement les mouvements, les classifient, et mettent à jour le prévisionnel sans copier‑coller. Pierre a testé plusieurs solutions, et il a choisi celle qui synchronise les données en temps réel, tout en restant accessible sur son smartphone. Le résultat : le tableau ne dépend plus d’une feuille Excel que l’on met à jour à la main, mais d’un tableau dynamique qui se rafraîchit dès que la banque envoie un nouveau flux.
 
 Un prévisionnel de trésorerie 12 mois ainsi construit, mis à jour en cinq minutes chaque semaine, donne à la petite entreprise la marge de manœuvre nécessaire pour anticiper les difficultés et saisir les opportunités, sans passer des heures sur des tableurs complexes. Flunea assure cette visibilité en se nourrissant directement des opérations bancaires, et garde le prévisionnel à jour sans effort supplémentaire.
+
+## Questions fréquentes
+
+### Pourquoi faire un prévisionnel de trésorerie sur 12 mois ?
+
+Pour voir les creux saisonniers avant qu'ils arrivent. Un artisan dont l'activité chute de 30 % l'été, ou un commerçant qui paie sa taxe foncière en octobre, ne voit pas ces tensions sur trois mois. Les 12 mois servent à préparer ; les six premières semaines, suivies à la semaine, servent à décider.
+
+### Quelle différence entre prévisionnel de trésorerie et budget ?
+
+Le budget raisonne en chiffre d'affaires et en charges, à la date où ils sont engagés. Le prévisionnel de trésorerie raisonne en argent qui entre et sort du compte, à la date où il bouge. Une facture de juin payée en août pèse sur le budget de juin et sur la trésorerie d'août.
+
+### Faut-il un prévisionnel de trésorerie pour obtenir un prêt ?
+
+Oui, la banque le demande presque toujours, sur 12 mois, avec les derniers comptes annuels. Un prévisionnel tenu à jour chaque semaine rassure davantage qu'un fichier construit la veille du rendez-vous : il montre que vous connaissez vos échéances, votre point bas et sa date.

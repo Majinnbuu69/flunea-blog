@@ -3,7 +3,7 @@ title: "Besoin en fonds de roulement TPE : calcul 10 min, exemple d’artisan"
 description: "Apprenez à calculer votre besoin en fonds de roulement TPE en moins de 10 minutes grâce à un cas concret d’artisan, et voyez l’impact sur votre trésorerie disponible."
 slug: "calculer-bfr-tpe"
 date: "2026-09-16"
-updated: "2026-09-16"
+updated: "2026-09-28"
 author: "L'equipe Flunea"
 keywords:
   - "besoin en fonds de roulement"
@@ -68,3 +68,21 @@ Le calcul du BFR n’est pas un exercice annuel. Chaque fois qu’un nouveau dev
 ## Flunea, le compagnon qui garde le BFR à jour
 
 Flunea se connecte à vos comptes bancaires, récupère automatiquement les mouvements de stock, factures et dettes, puis recalibre votre besoin en fonds de roulement à chaque transaction. Vous voyez en temps réel ce qui reste réellement disponible, sans devoir refaire le calcul à la main.
+
+## Questions fréquentes
+
+### Quelle est la formule du BFR ?
+
+BFR = stocks + créances clients − dettes fournisseurs, tous mesurés à la même date. On l'exprime aussi en jours de chiffre d'affaires : BFR divisé par le CA hors taxes annuel, multiplié par 365. Un BFR de 30 000 € pour 360 000 € de ventes annuelles représente 30 jours de chiffre d'affaires immobilisés.
+
+### Un BFR négatif, est-ce un problème ?
+
+Non, c'est plutôt une bonne nouvelle. Un BFR négatif signifie que vos clients vous paient avant que vous ne régliez vos fournisseurs : le cycle d'exploitation finance l'entreprise au lieu de la consommer. C'est courant dans le commerce de détail et la restauration, rare chez les artisans qui facturent après travaux.
+
+### Quelle différence entre BFR et trésorerie ?
+
+Le BFR est un besoin, la trésorerie est ce dont vous disposez pour le couvrir. Une entreprise rentable dont le BFR grossit plus vite que sa trésorerie finit à découvert. C'est le piège classique de la croissance : chaque nouveau chantier ajoute des achats et des créances avant d'ajouter du cash.
+
+### Comment réduire son BFR rapidement ?
+
+Trois leviers, dans cet ordre : encaisser plus tôt, avec un acompte à la commande et une facture émise dès la livraison ; payer plus tard, dans la limite légale de 60 jours ; acheter au plus près du besoin pour limiter le stock. L'acompte agit dès la semaine suivante, les délais fournisseurs au prochain renouvellement.

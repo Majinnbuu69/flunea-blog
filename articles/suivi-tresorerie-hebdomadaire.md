@@ -3,7 +3,7 @@ title: "Suivi de trésorerie hebdomadaire en 15 minutes chaque vendredi"
 description: "Découvrez la routine de vendredi qui, en 15 minutes, vous évite les mauvaises surprises de trésorerie. Suivez le guide pas à pas."
 slug: "suivi-tresorerie-hebdomadaire"
 date: "2026-09-18"
-updated: "2026-09-18"
+updated: "2026-09-28"
 author: "L'equipe Flunea"
 keywords:
   - "suivi trésorerie"
@@ -40,3 +40,17 @@ Ces trois gestes, réalisés en moins de deux minutes, résolvent souvent plus d
 Le suivi de trésorerie hebdomadaire n’est pas une contrainte, c’est un bouclier. En 15 minutes chaque vendredi, vous avez un tableau qui reflète la réalité de votre cash, vous savez exactement où intervient chaque euro et vous avez déjà planifié les réponses aux écarts. Cette discipline, adoptée par les artisans, les commerçants et les petites PME, transforme la gestion financière en une tâche prévisible et maîtrisée.
 
 Flunea automatise ce tableau : chaque opération bancaire alimente le suivi, les prévisions se recalculent seules, et le tableau de vendredi se met à jour sans effort.
+
+## Questions fréquentes
+
+### Combien de temps prend un suivi de trésorerie hebdomadaire ?
+
+Quinze minutes par semaine une fois la routine installée : rassembler les opérations des sept derniers jours, vérifier ce qui est entré, contrôler ce qui va sortir, recalculer le solde projeté et décider des relances. La première séance prend plus longtemps, le temps de lister les charges récurrentes.
+
+### Quel jour faire son point de trésorerie ?
+
+Le vendredi ou le lundi. Le vendredi permet de relancer les clients avant le week-end et de préparer les paiements de la semaine suivante ; le lundi colle aux prélèvements qui tombent en début de semaine. Le bon jour reste celui que vous tiendrez chaque semaine, sans exception.
+
+### Quels indicateurs regarder chaque semaine ?
+
+Trois suffisent : le solde bancaire du jour, le solde projeté à quatre semaines avec son point le plus bas, et la liste des factures clients en retard. Si le point bas passe sous votre seuil de sécurité, la réponse se trouve presque toujours dans ces factures en retard.

@@ -3,7 +3,7 @@ title: "Relance client impayé : séquence J+1, J+8, J+30 + modèles de mail"
 description: "Découvrez la séquence de relance client impayé qui fait payer : J+1, J+8, J+30, avec trois modèles de mail prêts à copier, ton ferme mais professionnel."
 slug: "relance-client-impaye-modele"
 date: "2026-09-22"
-updated: "2026-09-22"
+updated: "2026-09-28"
 author: "L'equipe Flunea"
 keywords:
   - "relance client"
@@ -70,4 +70,20 @@ Un tableau Excel suffit à consigner les dates d’envoi, mais il faut du temps 
 
 Flunea propose exactement cela : la trésorerie prévisionnelle qui se met à jour seule à partir des opérations bancaires, et qui vous rappelle quand envoyer chaque mail de relance.
 
-===END===
+## Questions fréquentes
+
+### Quels sont les délais de paiement légaux entre professionnels ?
+
+En France, 60 jours maximum à compter de la date d'émission de la facture, ou 45 jours fin de mois si le contrat le prévoit. Sans mention dans vos conditions, le délai est de 30 jours après la livraison ou l'exécution de la prestation. Au-delà, les pénalités de retard courent automatiquement.
+
+### Quelles pénalités appliquer à une facture impayée ?
+
+Deux montants s'ajoutent, sans rappel préalable : des pénalités de retard au taux prévu par vos conditions générales, au minimum trois fois le taux d'intérêt légal, et une indemnité forfaitaire de 40 € par facture pour frais de recouvrement. Ces deux mentions doivent figurer sur la facture elle-même.
+
+### Quand envoyer une mise en demeure pour un impayé ?
+
+Après deux relances restées sans réponse, en général vers 30 jours de retard. La mise en demeure part en lettre recommandée avec accusé de réception et fixe un dernier délai, souvent 8 jours. Elle prépare la suite : une injonction de payer, procédure simple et peu coûteuse pour une créance entre professionnels.
+
+### Faut-il relancer par mail ou par téléphone ?
+
+Les deux, dans cet ordre. Le mail laisse une trace datée, indispensable en cas de contentieux ; l'appel, passé le lendemain, vérifie que le message a été lu et obtient une date de règlement précise. Notez cette date : c'est elle, et non l'échéance d'origine, qui doit alimenter votre prévision de trésorerie.
