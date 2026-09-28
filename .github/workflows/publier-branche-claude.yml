@@ -1,0 +1,72 @@
+# Publie sur main un article rédigé par la routine Claude.
+#
+# Les sessions Claude Code dans le cloud poussent sur une branche « claude/… ».
+# Ce workflow la recopie sur main, avec deux garde-fous :
+#  - seuls articles/*.md, sujets.json et sources/faits-verifies.md peuvent changer ;
+#  - chaque article ajouté ou modifié doit passer outils/verifier-article.mjs.
+# Puis il déclenche IndexNow. (Un push fait avec GITHUB_TOKEN ne relance pas les
+# autres workflows : IndexNow est donc appelé ici directement.)
+# Le site, lui, est reconstruit par le serveur flunea-01, qui surveille main.
+name: Publier la branche Claude
+
+on:
+  push:
+    branches: ["claude/**"]
+
+permissions:
+  contents: write
+
+concurrency:
+  group: publier-main
+  cancel-in-progress: false
+
+jobs:
+  publier:
+    runs-on: ubuntu-latest
+    outputs:
+      articles: ${{ steps.publier.outputs.articles }}
+    steps:
+      - uses: actions/checkout@v5
+        with:
+          fetch-depth: 0
+
+      - uses: actions/setup-node@v5
+        with:
+          node-version: 22
+
+      - name: Contrôler et recopier sur main
+        id: publier
+        env:
+          BRANCHE: ${{ github.ref_name }}
+        run: |
+          set -euo pipefail
+          git fetch origin main
+          changes=$(git diff --name-only --diff-filter=AMR origin/main...HEAD)
+          supprimes=$(git diff --name-only --diff-filter=D origin/main...HEAD)
+          echo "Fichiers modifiés :"; echo "$changes"
+          [ -z "$supprimes" ] || { echo "::error::Suppression de fichiers refusée : $supprimes"; exit 1; }
+          [ -n "$changes" ] || { echo "Rien à publier."; echo "articles=" >> "$GITHUB_OUTPUT"; exit 0; }
+          articles=""
+          for f in $changes; do
+            case "$f" in
+              articles/*.md) node outils/verifier-article.mjs "$f"; articles="$articles $f" ;;
+              sujets.json|sources/faits-verifies.md) ;;
+              *) echo "::error::Fichier hors périmètre : $f (seuls articles/, sujets.json et sources/faits-verifies.md sont acceptés)"; exit 1 ;;
+            esac
+          done
+          node -e 'JSON.parse(require("fs").readFileSync("sujets.json","utf8"))'
+          git config user.name "flunea-blog-bot"
+          git config user.email "flunea-blog-bot@users.noreply.github.com"
+          git checkout -B main origin/main
+          git checkout "origin/$BRANCHE" -- $changes
+          git commit -m "$(git log -1 --format=%s "origin/$BRANCHE")" -m "Publié depuis la branche $BRANCHE."
+          git push origin main
+          git push origin --delete "$BRANCHE" || true
+          echo "articles=$(echo $articles)" >> "$GITHUB_OUTPUT"
+
+  indexnow:
+    needs: publier
+    if: needs.publier.outputs.articles != ''
+    uses: ./.github/workflows/indexnow.yml
+    with:
+      articles: ${{ needs.publier.outputs.articles }}

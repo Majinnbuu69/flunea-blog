@@ -17,6 +17,15 @@ on:
     branches: [main]
     paths: ["articles/**.md"]
   workflow_dispatch:
+  # Appelé par « Publier la branche Claude » (un push fait avec GITHUB_TOKEN
+  # ne déclenche pas le push ci-dessus).
+  workflow_call:
+    inputs:
+      articles:
+        description: "Chemins des articles publiés, séparés par des espaces"
+        type: string
+        required: false
+        default: ""
 
 concurrency:
   group: indexnow
@@ -30,7 +39,7 @@ env:
 jobs:
   ping:
     runs-on: ubuntu-latest
-    timeout-minutes: 30
+    timeout-minutes: 45
     steps:
       - uses: actions/checkout@v5
         with:
@@ -39,7 +48,10 @@ jobs:
       - name: URLs à signaler
         id: urls
         run: |
-          if [ "${{ github.event_name }}" = "workflow_dispatch" ] || ! git rev-parse -q --verify HEAD~1 >/dev/null; then
+          if [ -n "${{ inputs.articles }}" ]; then
+            files="${{ inputs.articles }}"
+            extra="$SITE/blog"
+          elif [ "${{ github.event_name }}" = "workflow_dispatch" ] || ! git rev-parse -q --verify HEAD~1 >/dev/null; then
             files=$(ls articles/*.md)
             extra="$SITE/ $SITE/blog"
           else
@@ -55,16 +67,17 @@ jobs:
       - name: Attendre la mise en ligne (sitemap)
         if: steps.urls.outputs.list != ''
         run: |
-          for i in $(seq 1 40); do
+          # Le serveur surveille main toutes les 5 min, puis reconstruit (~2 min).
+          for i in $(seq 1 60); do
             sitemap=$(curl -fsS "$SITE/sitemap.xml" || true)
             missing=""
             for u in ${{ steps.urls.outputs.check }}; do
               echo "$sitemap" | grep -q "<loc>$u</loc>" || missing="$missing $u"
             done
             if [ -z "$missing" ]; then echo "En ligne."; exit 0; fi
-            echo "Pas encore en ligne :$missing (essai $i/40)"; sleep 30
+            echo "Pas encore en ligne :$missing (essai $i/60)"; sleep 30
           done
-          echo "::error::Articles absents du sitemap après 20 min : le déploiement a-t-il échoué ?"; exit 1
+          echo "::error::Articles absents du sitemap après 30 min : le déploiement a-t-il échoué ?"; exit 1
 
       - name: Vérifier la clé servie par le site
         if: steps.urls.outputs.list != ''

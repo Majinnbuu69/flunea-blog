@@ -1,0 +1,174 @@
+{
+  "_doc": "File des sujets du blog. La routine prend le premier statut=a_faire (priorite la plus basse), puis le passe a publie.",
+  "sujets": [
+    {
+      "slug": "procedure-simplifiee-recouvrement-creances",
+      "mot_cle": "procédure simplifiée de recouvrement",
+      "intention": "info",
+      "angle": "La procédure de recouvrement des créances commerciales non contestées annoncée en 2026 : ce qui change pour une TPE, ce qu'il faut attendre (décret d'application), et quoi faire en attendant.",
+      "priorite": 12,
+      "statut": "a_faire"
+    },
+    {
+      "slug": "facturation-electronique-tpe-2027",
+      "mot_cle": "facturation électronique TPE 2027",
+      "intention": "info",
+      "angle": "Depuis septembre 2026 toute entreprise doit pouvoir recevoir des factures électroniques ; en septembre 2027 les TPE devront les émettre. Ce que ça change concrètement pour la trésorerie (statuts de paiement, délais).",
+      "priorite": 14,
+      "statut": "a_faire"
+    },
+    {
+      "slug": "tresorerie-negative-que-faire",
+      "mot_cle": "trésorerie négative que faire",
+      "intention": "howto",
+      "angle": "Plan d'action en 7 jours quand le solde passe sous zéro : ordre des paiements, leviers d'encaissement, quoi négocier et avec qui.",
+      "priorite": 15,
+      "statut": "a_faire"
+    },
+    {
+      "slug": "balance-agee-clients",
+      "mot_cle": "balance âgée clients",
+      "intention": "howto",
+      "angle": "Lire sa balance âgée en 10 minutes et décider qui relancer en premier ; distinguer retard moyen et DSO (erreur fréquente).",
+      "priorite": 16,
+      "statut": "a_faire"
+    },
+    {
+      "slug": "encaisser-plus-vite-factures",
+      "mot_cle": "encaisser plus vite ses factures",
+      "intention": "howto",
+      "angle": "8 leviers pour raccourcir le délai d'encaissement (acompte, échéancier, paiement en ligne) rangés par effort/impact.",
+      "priorite": 28,
+      "statut": "a_faire"
+    },
+    {
+      "slug": "anticiper-tva-tresorerie",
+      "mot_cle": "anticiper la TVA à payer",
+      "intention": "howto",
+      "angle": "Pourquoi la TVA collectée n'est pas votre argent, et la méthode pour la provisionner sans y penser chaque trimestre.",
+      "priorite": 30,
+      "statut": "a_faire"
+    },
+    {
+      "slug": "tresorerie-auto-entrepreneur",
+      "mot_cle": "trésorerie auto-entrepreneur",
+      "intention": "info",
+      "angle": "Gérer sa trésorerie en micro-entreprise quand revenus et charges sont irréguliers : le compte à part, la règle des pourcentages.",
+      "priorite": 35,
+      "statut": "a_faire"
+    },
+    {
+      "slug": "logiciel-tresorerie-ou-excel",
+      "mot_cle": "logiciel de trésorerie ou Excel",
+      "intention": "compare",
+      "angle": "Quand Excel suffit et quand il devient dangereux : comparatif honnête, avec les seuils (nb de factures, comptes, TVA) qui font basculer.",
+      "priorite": 42,
+      "statut": "a_faire",
+      "note": "Proche de l'article publié plan-tresorerie-excel-limites : angle COMPARATIF (critères de choix, coût réel, pour qui), sans répéter les 5 limites d'Excel."
+    },
+    {
+      "slug": "affacturage-ou-decouvert-tpe",
+      "mot_cle": "affacturage ou découvert TPE",
+      "intention": "compare",
+      "angle": "Comparatif concret coût/souplesse affacturage vs découvert vs escompte pour une TPE, avec les vrais taux 2026.",
+      "priorite": 45,
+      "statut": "a_faire"
+    },
+    {
+      "slug": "gerer-decouvert-bancaire-professionnel",
+      "mot_cle": "gérer un découvert bancaire professionnel",
+      "intention": "howto",
+      "angle": "Négocier et sortir d'un découvert pro : coût réel (agios + commission), comment renégocier l'autorisation, plan de sortie.",
+      "priorite": 48,
+      "statut": "a_faire"
+    },
+    {
+      "slug": "delai-paiement-client-loi-lme",
+      "mot_cle": "délai de paiement client loi LME",
+      "intention": "info",
+      "angle": "Les 60 jours de la loi LME expliqués simplement + comment les faire respecter sans se fâcher avec le client.",
+      "priorite": 50,
+      "statut": "a_faire"
+    },
+    {
+      "slug": "tresorerie-restaurant-saisonnalite",
+      "mot_cle": "trésorerie restaurant saisonnalité",
+      "intention": "info",
+      "angle": "Piloter la trésorerie d'un CHR entre haute et basse saison : constituer un matelas, lisser les charges, éviter le trou de janvier.",
+      "priorite": 55,
+      "statut": "a_faire"
+    },
+    {
+      "slug": "plan-tresorerie-creation-entreprise",
+      "mot_cle": "plan de trésorerie création entreprise",
+      "intention": "howto",
+      "angle": "Le plan de trésorerie du business plan, version qui tient la route : hypothèses réalistes, point mort, et le mois où ça coince.",
+      "priorite": 60,
+      "statut": "a_faire"
+    },
+    {
+      "slug": "tresorerie-nette-definition",
+      "mot_cle": "trésorerie nette définition",
+      "intention": "info",
+      "angle": "Trésorerie nette, disponible, FRNG, BFR : les 4 notions démêlées en langage clair, avec un schéma mental simple.",
+      "priorite": 65,
+      "statut": "a_faire"
+    },
+    {
+      "slug": "echeancier-urssaf-tresorerie",
+      "mot_cle": "échéancier URSSAF trésorerie",
+      "intention": "howto",
+      "angle": "Demander un échéancier URSSAF sans stress : quand, comment, ce qu'ils acceptent, et l'impact réel sur le prévisionnel.",
+      "priorite": 70,
+      "statut": "a_faire"
+    },
+    {
+      "slug": "reduire-charges-fixes-tpe",
+      "mot_cle": "réduire ses charges fixes TPE",
+      "intention": "howto",
+      "angle": "Passer ses charges fixes au crible une fois par an : la checklist des postes qu'on paie sans y penser (abonnements, assurances, banque).",
+      "priorite": 75,
+      "statut": "a_faire"
+    },
+    {
+      "slug": "tableau-tresorerie-gratuit-modele",
+      "mot_cle": "tableau de trésorerie gratuit",
+      "intention": "howto",
+      "angle": "Un modèle simple à recopier + les colonnes qui comptent vraiment, et pourquoi un tableau statique décroche vite du réel.",
+      "priorite": 10,
+      "statut": "publie"
+    },
+    {
+      "slug": "calculer-bfr-tpe",
+      "mot_cle": "besoin en fonds de roulement TPE",
+      "intention": "howto",
+      "angle": "Calculer son BFR à la main en 10 minutes avec un exemple chiffré d'artisan, et ce que ça change sur la trésorerie disponible.",
+      "priorite": 20,
+      "statut": "publie"
+    },
+    {
+      "slug": "suivi-tresorerie-hebdomadaire",
+      "mot_cle": "suivi de trésorerie hebdomadaire",
+      "intention": "howto",
+      "angle": "La routine de 15 min du vendredi qui évite 90 % des mauvaises surprises : quoi regarder, dans quel ordre, quel réflexe.",
+      "priorite": 22,
+      "statut": "publie"
+    },
+    {
+      "slug": "relance-client-impaye-modele",
+      "mot_cle": "relance client impayé modèle mail",
+      "intention": "howto",
+      "angle": "La séquence de relance qui fait payer (J+1, J+8, J+30) avec 3 modèles de mail prêts à copier, ton ferme mais pro.",
+      "priorite": 25,
+      "statut": "publie"
+    },
+    {
+      "slug": "previsionnel-tresorerie-12-mois",
+      "mot_cle": "prévisionnel de trésorerie 12 mois",
+      "intention": "howto",
+      "angle": "Construire un prévisionnel glissant sur 12 mois qu'on met à jour en 5 min/semaine, sans usine à gaz Excel.",
+      "priorite": 40,
+      "statut": "publie"
+    }
+  ]
+}
