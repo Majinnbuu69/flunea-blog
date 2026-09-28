@@ -32,7 +32,7 @@ jobs:
     runs-on: ubuntu-latest
     timeout-minutes: 30
     steps:
-      - uses: actions/checkout@v4
+      - uses: actions/checkout@v5
         with:
           fetch-depth: 2
 
@@ -68,9 +68,15 @@ jobs:
 
       - name: Vérifier la clé servie par le site
         if: steps.urls.outputs.list != ''
+        # On attend (10 min max) : lancé à la main pendant un déploiement, le
+        # site peut encore servir l'ancienne version sans le fichier de clé.
         run: |
-          served=$(curl -fsS "$SITE/$INDEXNOW_KEY.txt")
-          [ "$served" = "$INDEXNOW_KEY" ] || { echo "::error::$SITE/$INDEXNOW_KEY.txt ne renvoie pas la clé"; exit 1; }
+          for i in $(seq 1 20); do
+            served=$(curl -fsS "$SITE/$INDEXNOW_KEY.txt?check=$i" || true)
+            if [ "$served" = "$INDEXNOW_KEY" ]; then echo "Clé servie."; exit 0; fi
+            echo "Clé pas encore servie (essai $i/20)"; sleep 30
+          done
+          echo "::error::$SITE/$INDEXNOW_KEY.txt ne renvoie pas la clé après 10 min"; exit 1
 
       - name: Envoyer à IndexNow
         if: steps.urls.outputs.list != ''
