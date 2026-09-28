@@ -16,6 +16,24 @@ alertes. N'attribue à Flunea **aucune autre fonction** : pas de facturation, pa
 relances automatiques, pas de suivi des stocks, pas de comptabilité. Ne cite aucun
 prix et ne dis jamais que Flunea est gratuit.
 
+## Équilibre éditorial : de la gestion, pas du droit
+
+Le lecteur veut savoir **quoi faire lundi matin** pour que son compte ne passe pas
+dans le rouge. Chaque article est d'abord une **méthode concrète de gestion** :
+anticiper, chiffrer, décider, négocier, relancer, organiser sa semaine.
+
+- Le droit et les statistiques ne sont qu'un **appui** : un ou deux faits sourcés
+  quand ils éclairent la méthode, jamais le sujet principal (sauf si le sujet de
+  `sujets.json` est lui-même juridique).
+- Chaque article contient une section **« Ce que ça change pour votre trésorerie »** :
+  un exemple chiffré en euros, semaine par semaine ou mois par mois, qui montre
+  l'effet sur le solde du compte et sur le point bas.
+- Quand le sujet s'y prête, un **tableau chiffré** (avant / après, scénario A / B,
+  calendrier des sorties d'argent) vaut mieux que trois paragraphes.
+- Les sources peuvent aussi être des guides pratiques officiels (Bpifrance Création,
+  fiches « gérer son entreprise » de Service Public, études de l'Insee ou de la
+  Banque de France), pas seulement des textes de loi.
+
 ## Déroulé d'une exécution
 
 1. Ouvre `sujets.json`. Prends le sujet `"statut": "a_faire"` qui a la plus petite

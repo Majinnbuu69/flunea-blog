@@ -2,23 +2,6 @@
   "_doc": "File des sujets du blog. La routine prend le premier statut=a_faire (priorite la plus basse), puis le passe a publie.",
   "sujets": [
     {
-      "slug": "procedure-simplifiee-recouvrement-creances",
-      "mot_cle": "procédure simplifiée de recouvrement",
-      "intention": "info",
-      "angle": "La procédure de recouvrement des créances commerciales non contestées annoncée en 2026 : ce qui change pour une TPE, ce qu'il faut attendre (décret d'application), et quoi faire en attendant.",
-      "priorite": 12,
-      "statut": "publie",
-      "publie_le": "2026-09-28"
-    },
-    {
-      "slug": "facturation-electronique-tpe-2027",
-      "mot_cle": "facturation électronique TPE 2027",
-      "intention": "info",
-      "angle": "Depuis septembre 2026 toute entreprise doit pouvoir recevoir des factures électroniques ; en septembre 2027 les TPE devront les émettre. Ce que ça change concrètement pour la trésorerie (statuts de paiement, délais).",
-      "priorite": 14,
-      "statut": "a_faire"
-    },
-    {
       "slug": "tresorerie-negative-que-faire",
       "mot_cle": "trésorerie négative que faire",
       "intention": "howto",
@@ -35,11 +18,51 @@
       "statut": "a_faire"
     },
     {
+      "slug": "chiffrer-une-embauche-tresorerie",
+      "mot_cle": "coût d'une embauche sur la trésorerie",
+      "intention": "howto",
+      "angle": "Avant de recruter : le vrai calendrier des sorties d'argent (salaire, charges, période d'essai, montée en charge) et le chiffre d'affaires qu'il faut avoir sécurisé.",
+      "priorite": 18,
+      "statut": "a_faire"
+    },
+    {
+      "slug": "negocier-delais-fournisseurs",
+      "mot_cle": "négocier ses délais fournisseurs",
+      "intention": "howto",
+      "angle": "Comment demander 45 ou 60 jours à un fournisseur sans abîmer la relation : quoi proposer en échange, à quel moment, et l'effet chiffré sur le point bas.",
+      "priorite": 20,
+      "statut": "a_faire"
+    },
+    {
+      "slug": "tresorerie-restaurant-saisonnalite",
+      "mot_cle": "trésorerie restaurant saisonnalité",
+      "intention": "info",
+      "angle": "Piloter la trésorerie d'un CHR entre haute et basse saison : constituer un matelas, lisser les charges, éviter le trou de janvier.",
+      "priorite": 26,
+      "statut": "a_faire"
+    },
+    {
+      "slug": "tresorerie-salon-de-coiffure",
+      "mot_cle": "trésorerie salon de coiffure",
+      "intention": "howto",
+      "angle": "Un salon encaisse tous les jours mais paie loyer, salaires et fournisseurs de produits en fin de mois : caler ses réserves, gérer le creux de janvier et d'août, chiffrer un recrutement ou une rénovation.",
+      "priorite": 27,
+      "statut": "a_faire"
+    },
+    {
       "slug": "encaisser-plus-vite-factures",
       "mot_cle": "encaisser plus vite ses factures",
       "intention": "howto",
       "angle": "8 leviers pour raccourcir le délai d'encaissement (acompte, échéancier, paiement en ligne) rangés par effort/impact.",
       "priorite": 28,
+      "statut": "a_faire"
+    },
+    {
+      "slug": "tresorerie-garage-automobile",
+      "mot_cle": "trésorerie garage automobile",
+      "intention": "howto",
+      "angle": "Pièces payées avant d'être refacturées, clients professionnels à 45 jours, stock qui dort : où part l'argent d'un garage et comment le récupérer.",
+      "priorite": 29,
       "statut": "a_faire"
     },
     {
@@ -51,11 +74,35 @@
       "statut": "a_faire"
     },
     {
+      "slug": "tresorerie-commerce-de-detail",
+      "mot_cle": "trésorerie commerce de détail",
+      "intention": "howto",
+      "angle": "Stock acheté avant la saison, soldes, TVA qui tombe au pire moment : construire le calendrier de trésorerie d'une boutique sur 12 mois.",
+      "priorite": 31,
+      "statut": "a_faire"
+    },
+    {
+      "slug": "tresorerie-profession-liberale",
+      "mot_cle": "trésorerie profession libérale",
+      "intention": "howto",
+      "angle": "Revenus irréguliers, charges sociales calculées sur l'année précédente, impôt à la source : se verser un revenu stable et ne jamais être pris de court par l'Urssaf.",
+      "priorite": 33,
+      "statut": "a_faire"
+    },
+    {
       "slug": "tresorerie-auto-entrepreneur",
       "mot_cle": "trésorerie auto-entrepreneur",
       "intention": "info",
       "angle": "Gérer sa trésorerie en micro-entreprise quand revenus et charges sont irréguliers : le compte à part, la règle des pourcentages.",
       "priorite": 35,
+      "statut": "a_faire"
+    },
+    {
+      "slug": "facturation-electronique-tpe-2027",
+      "mot_cle": "facturation électronique TPE 2027",
+      "intention": "info",
+      "angle": "Depuis septembre 2026 toute entreprise doit pouvoir recevoir des factures électroniques ; en septembre 2027 les TPE devront les émettre. Ce que ça change concrètement pour la trésorerie (statuts de paiement, délais).",
+      "priorite": 40,
       "statut": "a_faire"
     },
     {
@@ -88,15 +135,7 @@
       "mot_cle": "délai de paiement client loi LME",
       "intention": "info",
       "angle": "Les 60 jours de la loi LME expliqués simplement + comment les faire respecter sans se fâcher avec le client.",
-      "priorite": 50,
-      "statut": "a_faire"
-    },
-    {
-      "slug": "tresorerie-restaurant-saisonnalite",
-      "mot_cle": "trésorerie restaurant saisonnalité",
-      "intention": "info",
-      "angle": "Piloter la trésorerie d'un CHR entre haute et basse saison : constituer un matelas, lisser les charges, éviter le trou de janvier.",
-      "priorite": 55,
+      "priorite": 58,
       "statut": "a_faire"
     },
     {
@@ -138,6 +177,15 @@
       "angle": "Un modèle simple à recopier + les colonnes qui comptent vraiment, et pourquoi un tableau statique décroche vite du réel.",
       "priorite": 10,
       "statut": "publie"
+    },
+    {
+      "slug": "procedure-simplifiee-recouvrement-creances",
+      "mot_cle": "procédure simplifiée de recouvrement",
+      "intention": "info",
+      "angle": "La procédure de recouvrement des créances commerciales non contestées annoncée en 2026 : ce qui change pour une TPE, ce qu'il faut attendre (décret d'application), et quoi faire en attendant.",
+      "priorite": 12,
+      "statut": "publie",
+      "publie_le": "2026-09-28"
     },
     {
       "slug": "calculer-bfr-tpe",
