@@ -55,6 +55,23 @@ Vérifié le 2026-09-28.
 - Après l'échec du recouvrement amiable (relances, mise en demeure), le créancier peut déposer une requête en injonction de payer ; entre commerçants, c'est le tribunal de commerce (ou des activités économiques) du lieu du débiteur qui est compétent.
 - Le recours à un avocat n'est pas obligatoire pour une injonction de payer.
 
+## Loi n° 2026-307 du 23 avril 2026 sur la procédure simplifiée de recouvrement (Légifrance)
+
+https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000053934457  
+Vérifié le 2026-09-28.
+
+- La loi crée une procédure de recouvrement des créances commerciales incontestées confiée à un commissaire de justice, entrée en vigueur le 25 avril 2026.
+- L'application concrète est subordonnée à un décret en Conseil d'État qui doit fixer les modalités d'application (article renvoyant au décret).
+
+## Procédure simplifiée de recouvrement des créances commerciales incontestées (Bpifrance Création)
+
+https://bpifrance-creation.fr/encyclopedie/gerer-lentreprise/recouvrer-creance/procedure-simplifiee-recouvrement-creances  
+Vérifié le 2026-09-28.
+
+- La créance doit être certaine, liquide, exigible, incontestée et non prescrite (moins de 5 ans depuis l'exigibilité) ; aucun plafond de montant n'est fixé.
+- Déroulé : le commissaire de justice envoie un commandement de payer laissant un mois au débiteur pour payer ou contester ; sans réaction, il dresse un procès-verbal de non-contestation transmis au greffe du tribunal de commerce pour devenir un titre exécutoire.
+- Les frais de mise en œuvre de la procédure sont à la charge du débiteur. Le recours à un avocat n'est pas obligatoire.
+
 ## Points de vigilance
 
 - L'article L441-10 a une nouvelle version au 1er janvier 2027 (ordonnance n° 2026-671) : seul le renvoi pour les factures périodiques change (code des impositions sur les biens et services au lieu du CGI). Délais et pénalités identiques.
