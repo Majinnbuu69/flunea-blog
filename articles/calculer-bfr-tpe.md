@@ -21,53 +21,51 @@ Le matin du 12 mars, Marc, plombier à son compte, ouvre son agenda. Un client
 Le besoin en fonds de roulement (BFR) mesure l’argent que l’entreprise doit immobiliser pour couvrir le décalage entre ses dépenses et ses encaissements. Ignorer ce chiffre, c’est naviguer à vue. Un BFR sous‑estimé entraîne des découverts bancaires, des pénalités et parfois l’arrêt du chantier. Un BFR bien maîtrisé permet de négocier des délais de paiement plus longs avec les fournisseurs ou d’anticiper les périodes creuses.
 
 ## Les briques qui composent le BFR
-Le BFR se décompose en trois postes : stocks, créances clients et dettes fournisseurs. Chaque poste se calcule à partir d’une moyenne pondérée sur la période étudiée.
+Le BFR se calcule à partir de trois postes, tous relevés à la même date, par exemple le dernier jour du mois :
+- **Stocks** : matières premières, fournitures et produits en cours, à leur coût d'achat.
+- **Créances clients** : factures émises mais pas encore encaissées.
+- **Dettes fournisseurs** : factures reçues mais pas encore payées.
 
-- **Stocks** : valeur des matières premières et des produits en cours de fabrication.
-- **Créances clients** : factures émises mais non encore payées.
-- **Dettes fournisseurs** : factures à payer à vos fournisseurs.
+La formule : **BFR = Stocks + Créances clients − Dettes fournisseurs.** Le résultat est un montant en euros, pas un flux quotidien : c'est la somme que votre activité immobilise à cette date.
 
-La formule classique reste : BFR = Stocks + Créances – Dettes.
+## Calculer son BFR en 10 minutes, pas à pas
+1. **Choisir une date** : la fin du mois dernier, pour travailler sur des chiffres arrêtés.
+2. **Relever les trois montants** : l'inventaire rapide du stock, la liste des factures clients non réglées, la liste des factures fournisseurs non payées.
+3. **Appliquer la formule**, puis rapporter le résultat au chiffre d'affaires pour le lire en jours : BFR ÷ CA annuel HT × 365.
 
-## Calculer son BFR en 10 minutes, pas à pas
-1. **Rassembler les données** : extrait bancaire des 30 derniers jours, factures d’achat et de vente.
-2. **Déterminer les moyennes** : additionner chaque poste sur les 30 jours, diviser par 30.
-3. **Appliquer la formule**.
+Si vos factures sont classées, dix minutes suffisent.
 
-Le tout ne prend pas plus de dix minutes si les documents sont déjà classés.
+## Exemple chiffré d'un artisan plombier
+Fin avril, Marc a démarré le chantier de l'immeuble. Voici sa situation :
 
-## Exemple chiffré d’un artisan plombier
+| Poste | Montant au 30 avril |
+|-------|---------------------|
+| Stock de tuyaux et accessoires pas encore posés | 6 000 € |
+| Factures clients émises, non encaissées | 27 000 € |
+| Factures fournisseurs reçues, non payées | 9 000 € |
 
-| Poste | Montant total 30 jours | Moyenne quotidienne |
-|-------|-----------------------|----------------------|
-| Stocks de tuyaux et accessoires | 15 000 € | 500 € |
-| Factures clients (encours) | 27 000 € | 900 € |
-| Factures fournisseurs (à payer) | 9 000 € | 300 € |
+Calcul : BFR = 6 000 € + 27 000 € − 9 000 € = **24 000 €**.
 
-Calcul : BFR = 500 € + 900 € – 300 € = **1 100 €**.
+Avec un chiffre d'affaires annuel de 300 000 € HT, cela représente environ 29 jours de chiffre d'affaires (24 000 ÷ 300 000 × 365). Autrement dit, Marc doit financer un mois d'activité avant d'être payé.
 
-Concrètement, Marc doit disposer chaque jour d’un surplus de 1 100 € pour que le cycle d’exploitation ne crée pas de trou dans sa trésorerie. Si son compte bancaire ne dépasse jamais 2 000 €, il court le risque de tomber à découvert dès la deuxième semaine du chantier.
+### Ce que le BFR dit de votre compte bancaire
+Ces 24 000 € ne tombent pas du ciel : ils sortent de votre trésorerie. Marc n'avait que 8 000 € sur son compte. L'écart de 16 000 € explique à lui seul le passage à découvert décrit plus haut, alors même que le chantier est rentable.
 
-### L’effet sur la trésorerie disponible
-
-Trésorerie disponible = Banque – BFR.
-Marc possède 8 000 € en banque. Après prise en compte du BFR, il ne dispose réellement que 6 900 € de marge de manœuvre. Cette marge doit couvrir le loyer (1 200 €), les salaires (2 500 €) et la TVA (1 000 €) avant le premier paiement client. Le solde restant ne laisse que 2 200 €, insuffisant pour absorber une dépense imprévue.
+La règle à retenir : tant que votre BFR augmente plus vite que votre trésorerie, votre compte baisse, même quand vos marges sont bonnes. C'est pour cela qu'une période de forte croissance est souvent une période de tension.
 
 ### Que faire quand le BFR dépasse la trésorerie ?
+- **Encaisser plus tôt** : facturer à 30 jours au lieu de 45 réduit l'encours client d'un tiers, soit 27 000 € ramenés à 18 000 €.
+- **Payer plus tard, dans la limite légale** : passer de 30 à 60 jours chez les fournisseurs double les dettes fournisseurs, de 9 000 € à 18 000 €.
+- **Acheter au plus près du chantier** : commander les matériaux à la livraison ramène le stock de 6 000 € à 2 000 €.
 
-- Renégocier les délais de paiement avec les fournisseurs : obtenir 60 jours au lieu de 30 jours réduit la dette quotidienne de 300 € à 150 €, ce qui fait baisser le BFR de 150 €.
-- Facturer les clients à 30 jours au lieu de 45 jours : la moyenne des créances passe de 900 € à 600 €, un gain de 300 € quotidien.
-- Réduire les stocks en commandant les matériaux à la livraison du chantier : le stock moyen chute de 500 € à 200 €, économie de 300 €.
-
-Ces trois leviers, appliqués simultanément, font passer le BFR de 1 100 € à 350 €, libérant ainsi plus de 750 € de trésorerie chaque jour.
+Les trois leviers combinés font passer le BFR de 24 000 € à 2 000 € (2 000 + 18 000 − 18 000) : 22 000 € de trésorerie libérés, sans emprunter.
 
 ## Le suivi au quotidien, pas une opération ponctuelle
 
 Le calcul du BFR n’est pas un exercice annuel. Chaque fois qu’un nouveau devis arrive, que le stock change ou que les conditions de paiement évoluent, il faut actualiser le chiffre. Un tableau Excel partagé, mis à jour chaque vendredi, suffit à garder le cap.
 
-## Flunea, le compagnon qui garde le BFR à jour
-
-Flunea se connecte à vos comptes bancaires, récupère automatiquement les mouvements de stock, factures et dettes, puis recalibre votre besoin en fonds de roulement à chaque transaction. Vous voyez en temps réel ce qui reste réellement disponible, sans devoir refaire le calcul à la main.
+## Flunea, pour voir venir le creux
+Flunea se connecte à vos comptes bancaires en lecture seule et projette votre trésorerie à partir des encaissements et décaissements à venir. Vous voyez le creux que votre BFR va provoquer, et sa date, avant d'y tomber, sans refaire le calcul à la main.
 
 ## Questions fréquentes
 
