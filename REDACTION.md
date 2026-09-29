@@ -56,6 +56,32 @@ anticiper, chiffrer, décider, négocier, relancer, organiser sa semaine.
    `sources/faits-verifies.md` avec son URL et la date de vérification.
 8. Commite (`article: <slug>`) et pousse. **Ne modifie aucun autre fichier.**
 
+## Mode « mise à jour » (mardi et jeudi)
+
+Les mardis et jeudis, au lieu d'écrire un nouvel article, tu **remets à niveau un
+article existant** : un article plus complet et plus juste vaut mieux, pour Google
+comme pour les assistants IA, qu'un article de plus.
+
+1. Lance `node outils/verifier-article.mjs` sur chaque fichier de `articles/`.
+   Choisis l'article qui **échoue** et dont le champ `updated` est le plus ancien.
+   Si tous passent, prends celui dont `updated` a plus de 90 jours, le plus ancien.
+   Si aucun ne correspond, écris plutôt un nouvel article (déroulé normal).
+2. Garde le `slug`, la `date` et ce qui est bon dans le texte. Corrige toute erreur
+   de fond (chiffre faux, confusion, promesse inexacte sur Flunea) et mets l'article
+   au format actuel : paragraphe de réponse directe, encadré En bref, section « Ce que
+   ça change pour votre trésorerie », sources officielles ouvertes pendant la session,
+   FAQ de 3 à 5 questions, `## Sources` en dernier. Ne raccourcis pas l'article.
+3. Passe `updated` à la date du jour. Le vérificateur doit afficher OK.
+4. Commite (`maj: <slug>`) et pousse. Ne touche pas à `sujets.json` pour une mise à jour.
+
+## Réserve de sujets
+
+Si `sujets.json` compte **moins de 8 sujets** `a_faire` après ton travail, ajoutes-en
+5 nouveaux à la fin (sans rédiger d'article) : des questions concrètes que se posent
+les dirigeants de TPE sur leur trésorerie, trouvées avec WebSearch, qui ne recoupent
+aucun article ni aucun sujet existant. Même format que les autres entrées, avec un
+`angle` précis et une `priorite` supérieure à toutes les existantes.
+
 ## Comment écrire
 
 - **Premier paragraphe, 40 à 60 mots : la réponse directe** à la question que se pose

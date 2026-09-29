@@ -2,23 +2,6 @@
   "_doc": "File des sujets du blog. La routine prend le premier statut=a_faire (priorite la plus basse), puis le passe a publie.",
   "sujets": [
     {
-      "slug": "tresorerie-negative-que-faire",
-      "mot_cle": "trésorerie négative que faire",
-      "intention": "howto",
-      "angle": "Plan d'action en 7 jours quand le solde passe sous zéro : ordre des paiements, leviers d'encaissement, quoi négocier et avec qui.",
-      "priorite": 15,
-      "statut": "publie",
-      "publie_le": "2026-09-29"
-    },
-    {
-      "slug": "balance-agee-clients",
-      "mot_cle": "balance âgée clients",
-      "intention": "howto",
-      "angle": "Lire sa balance âgée en 10 minutes et décider qui relancer en premier ; distinguer retard moyen et DSO (erreur fréquente).",
-      "priorite": 16,
-      "statut": "a_faire"
-    },
-    {
       "slug": "chiffrer-une-embauche-tresorerie",
       "mot_cle": "coût d'une embauche sur la trésorerie",
       "intention": "howto",
@@ -132,6 +115,15 @@
       "statut": "a_faire"
     },
     {
+      "slug": "balance-agee-clients",
+      "mot_cle": "balance âgée clients",
+      "intention": "howto",
+      "angle": "Lire sa balance âgée en 10 minutes et décider qui relancer en premier ; distinguer retard moyen et DSO (erreur fréquente).",
+      "priorite": 50,
+      "statut": "a_faire",
+      "note": "BabyLoveGrowth a déjà publié « balance âgée clients » sur blog.flunea.fr : à traiter seulement si ce sous-domaine disparaît, sinon les deux pages se concurrencent."
+    },
+    {
       "slug": "delai-paiement-client-loi-lme",
       "mot_cle": "délai de paiement client loi LME",
       "intention": "info",
@@ -187,6 +179,15 @@
       "priorite": 12,
       "statut": "publie",
       "publie_le": "2026-09-28"
+    },
+    {
+      "slug": "tresorerie-negative-que-faire",
+      "mot_cle": "trésorerie négative que faire",
+      "intention": "howto",
+      "angle": "Plan d'action en 7 jours quand le solde passe sous zéro : ordre des paiements, leviers d'encaissement, quoi négocier et avec qui.",
+      "priorite": 15,
+      "statut": "publie",
+      "publie_le": "2026-09-29"
     },
     {
       "slug": "calculer-bfr-tpe",
