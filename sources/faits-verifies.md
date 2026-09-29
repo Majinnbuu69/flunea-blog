@@ -72,6 +72,24 @@ Vérifié le 2026-09-28.
 - Déroulé : le commissaire de justice envoie un commandement de payer laissant un mois au débiteur pour payer ou contester ; sans réaction, il dresse un procès-verbal de non-contestation transmis au greffe du tribunal de commerce pour devenir un titre exécutoire.
 - Les frais de mise en œuvre de la procédure sont à la charge du débiteur. Le recours à un avocat n'est pas obligatoire.
 
+## Délai de paiement des cotisations sociales, entrepreneur individuel (Service Public Entreprendre)
+
+https://entreprendre.service-public.gouv.fr/vosdroits/F38672  
+Vérifié le 2026-09-29.
+
+- Un entrepreneur individuel au régime réel, à jour de sa déclaration de revenus, peut demander un délai de paiement de ses cotisations sociales.
+- Réponse de l'Urssaf sous 48 heures pour une demande déposée en ligne (conditions d'octroi automatique réunies) ; sous 15 jours pour une demande par courrier ou téléphone.
+- La demande de délai inclut automatiquement une demande de remise des pénalités de retard, sans démarche séparée.
+
+## Difficultés passagères de paiement de l'impôt sur les sociétés (impots.gouv.fr)
+
+https://www.impots.gouv.fr/professionnel/questions/jai-des-difficultes-passageres-pour-payer-mon-solde-dimpot-sur-les-societes  
+Vérifié le 2026-09-29.
+
+- Un professionnel à jour de ses obligations déclaratives et de paiement peut demander, via son espace professionnel, un délai de paiement pour l'IS ou la TVA en cas de difficultés « passagères, exceptionnelles et imprévisibles ».
+- Les intérêts de retard continuent de courir pendant toute la durée du délai accordé ; l'administration peut demander des garanties.
+- Le délai est accordé à titre exceptionnel ; en cas de dette sociale associée, la commission des chefs des services financiers (CCSF) peut traiter dette fiscale et sociale ensemble.
+
 ## Points de vigilance
 
 - L'article L441-10 a une nouvelle version au 1er janvier 2027 (ordonnance n° 2026-671) : seul le renvoi pour les factures périodiques change (code des impositions sur les biens et services au lieu du CGI). Délais et pénalités identiques.

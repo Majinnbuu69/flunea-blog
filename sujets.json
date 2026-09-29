@@ -7,7 +7,8 @@
       "intention": "howto",
       "angle": "Plan d'action en 7 jours quand le solde passe sous zéro : ordre des paiements, leviers d'encaissement, quoi négocier et avec qui.",
       "priorite": 15,
-      "statut": "a_faire"
+      "statut": "publie",
+      "publie_le": "2026-09-29"
     },
     {
       "slug": "balance-agee-clients",
