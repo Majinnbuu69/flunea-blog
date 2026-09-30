@@ -7,7 +7,8 @@
       "intention": "info",
       "angle": "Page pilier : les 5 gestes qui suffisent à piloter la trésorerie d'une TPE (solde du jour, point bas à 13 semaines, encaissements en retard, calendrier des grosses sorties, seuil de sécurité), avec le temps à y consacrer chaque semaine. Chaque geste renvoie vers l'article détaillé correspondant du blog.",
       "priorite": 1,
-      "statut": "a_faire",
+      "statut": "publie",
+      "publie_le": "2026-09-30",
       "note": "Remplace l'article de BabyLoveGrowth publié à la même adresse sur blog.flunea.fr (abonnement arrêté, redirection 301 vers flunea.fr). Texte 100 % original : ne pas lire ni reprendre blog.flunea.fr."
     },
     {

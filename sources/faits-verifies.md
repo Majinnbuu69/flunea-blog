@@ -131,6 +131,14 @@ Vérifié le 2026-09-30 (page mise à jour le 13 juillet 2026).
 - La RGDU s'applique aux rémunérations inférieures à 3 Smic (2,9293 Smic à compter du 1er juin 2026) en métropole et dans les Drom (hors Mayotte) ; l'allègement est maximal au niveau du Smic et dégressif jusqu'à s'annuler à ce seuil.
 - Smic de référence au 1er janvier 2026 en métropole : 1 823,03 € bruts par mois.
 
+## Comment gérer et piloter au mieux mon entreprise (Bpifrance Création)
+
+https://bpifrance-creation.fr/moments-de-vie/comment-gerer-piloter-au-mieux-mon-entreprise  
+Vérifié le 2026-09-30.
+
+- Recommande de tenir sa comptabilité régulièrement et d'analyser les écarts chaque semaine ou chaque mois pour piloter l'entreprise.
+- Conseils qualitatifs (pas de chiffres ni de seuils précis) : à citer pour la méthode, pas pour un chiffre.
+
 ## Points de vigilance
 
 - L'article L441-10 a une nouvelle version au 1er janvier 2027 (ordonnance n° 2026-671) : seul le renvoi pour les factures périodiques change (code des impositions sur les biens et services au lieu du CGI). Délais et pénalités identiques.
