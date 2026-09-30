@@ -90,6 +90,47 @@ Vérifié le 2026-09-29.
 - Les intérêts de retard continuent de courir pendant toute la durée du délai accordé ; l'administration peut demander des garanties.
 - Le délai est accordé à titre exceptionnel ; en cas de dette sociale associée, la commission des chefs des services financiers (CCSF) peut traiter dette fiscale et sociale ensemble.
 
+## Période d'essai en CDI (Légifrance, Code du travail)
+
+https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000019071113 (article L1221-19)
+https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000019071109 (article L1221-21)
+Vérifié le 2026-09-30.
+
+- Durée maximale légale de la période d'essai initiale en CDI : 2 mois pour les ouvriers et employés, 3 mois pour les agents de maîtrise et techniciens, 4 mois pour les cadres.
+- Renouvelable une fois si un accord de branche étendu le prévoit ; durée totale maximale alors portée à 4 mois (ouvriers/employés), 6 mois (agents de maîtrise/techniciens) ou 8 mois (cadres).
+
+## DPAE - déclaration préalable à l'embauche (Urssaf.fr)
+
+https://www.urssaf.fr/accueil/employeur/embaucher-gerer-salaries/embaucher/declaration-prealable-embauche.html  
+Vérifié le 2026-09-30.
+
+- La DPAE doit être adressée à l'Urssaf compétente avant la prise de fonction ou le début de la période d'essai, au plus tôt dans les 8 jours précédant la date de l'embauche.
+- Elle est obligatoire pour tout salarié relevant du régime général (CDI, CDD, apprentissage, saisonnier), quel que soit le secteur.
+
+## Paiement des cotisations sociales par l'employeur (Urssaf.fr)
+
+https://www.urssaf.fr/accueil/employeur/gerer-entreprise/paiement-des-cotisations.html  
+Vérifié le 2026-09-30.
+
+- Pour les employeurs de moins de 50 salariés, les cotisations doivent être réglées au plus tard le 15 du mois suivant, quelle que soit la date de paiement des salaires.
+- Pour les employeurs de 50 salariés et plus : le 5 du mois suivant si les salaires du mois en cours sont payés dans le mois, sinon le 15 du mois de versement du salaire.
+
+## Taux de cotisations patronales, secteur privé (Urssaf.fr)
+
+https://www.urssaf.fr/accueil/outils-documentation/taux-baremes/taux-cotisations-secteur-prive.html  
+Vérifié le 2026-09-30 (page mise à jour au 1er janvier 2026).
+
+- Taux patronaux notamment : assurance maladie 13 % (taux plein) ou 7 % (taux réduit) ; assurance vieillesse 2,11 % sur la totalité + 8,55 % dans la limite du plafond ; allocations familiales 5,25 % (taux plein) ou 3,45 % (taux réduit) ; CSA 0,30 % ; assurance chômage 4,00 % ; AGS 0,25 % ; Fnal 0,10 % (moins de 50 salariés) ou 0,50 % (50 salariés et plus) ; formation professionnelle 0,55 % (moins de 11 salariés) ou 1 % (11 salariés et plus).
+- La cotisation accidents du travail a un taux notifié par la Carsat, variable selon l'activité et la taille de l'entreprise : elle n'est pas incluse dans les taux fixes ci-dessus.
+
+## Réduction générale dégressive unique - RGDU (Urssaf.fr)
+
+https://www.urssaf.fr/accueil/employeur/beneficier-exonerations/reduction-generale-cotisation.html  
+Vérifié le 2026-09-30 (page mise à jour le 13 juillet 2026).
+
+- La RGDU s'applique aux rémunérations inférieures à 3 Smic (2,9293 Smic à compter du 1er juin 2026) en métropole et dans les Drom (hors Mayotte) ; l'allègement est maximal au niveau du Smic et dégressif jusqu'à s'annuler à ce seuil.
+- Smic de référence au 1er janvier 2026 en métropole : 1 823,03 € bruts par mois.
+
 ## Points de vigilance
 
 - L'article L441-10 a une nouvelle version au 1er janvier 2027 (ordonnance n° 2026-671) : seul le renvoi pour les factures périodiques change (code des impositions sur les biens et services au lieu du CGI). Délais et pénalités identiques.
