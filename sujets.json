@@ -2,13 +2,31 @@
   "_doc": "File des sujets du blog. La routine prend le premier statut=a_faire (priorite la plus basse), puis le passe a publie.",
   "sujets": [
     {
-      "slug": "chiffrer-une-embauche-tresorerie",
-      "mot_cle": "coût d'une embauche sur la trésorerie",
+      "slug": "gestion-de-tresorerie-tpe",
+      "mot_cle": "gestion de trésorerie TPE",
+      "intention": "info",
+      "angle": "Page pilier : les 5 gestes qui suffisent à piloter la trésorerie d'une TPE (solde du jour, point bas à 13 semaines, encaissements en retard, calendrier des grosses sorties, seuil de sécurité), avec le temps à y consacrer chaque semaine. Chaque geste renvoie vers l'article détaillé correspondant du blog.",
+      "priorite": 1,
+      "statut": "a_faire",
+      "note": "Remplace l'article de BabyLoveGrowth publié à la même adresse sur blog.flunea.fr (abonnement arrêté, redirection 301 vers flunea.fr). Texte 100 % original : ne pas lire ni reprendre blog.flunea.fr."
+    },
+    {
+      "slug": "tresorerie-pme",
+      "mot_cle": "trésorerie PME",
+      "intention": "info",
+      "angle": "Ce qui change quand l'entreprise passe de 10 à 50 salariés : plusieurs comptes et plusieurs banques, masse salariale qui pèse, BFR qui grossit avec la croissance, reporting attendu par le banquier. Méthode et indicateurs pour garder la main.",
+      "priorite": 2,
+      "statut": "a_faire",
+      "note": "Remplace l'article de BabyLoveGrowth publié à la même adresse sur blog.flunea.fr (abonnement arrêté, redirection 301 vers flunea.fr). Texte 100 % original : ne pas lire ni reprendre blog.flunea.fr."
+    },
+    {
+      "slug": "balance-agee-clients",
+      "mot_cle": "balance âgée clients",
       "intention": "howto",
-      "angle": "Avant de recruter : le vrai calendrier des sorties d'argent (salaire, charges, période d'essai, montée en charge) et le chiffre d'affaires qu'il faut avoir sécurisé.",
-      "priorite": 18,
-      "statut": "publie",
-      "publie_le": "2026-09-30"
+      "angle": "Lire sa balance âgée en 10 minutes et décider qui relancer en premier ; distinguer retard moyen et DSO (erreur fréquente).",
+      "priorite": 3,
+      "statut": "a_faire",
+      "note": "Remplace l'article de BabyLoveGrowth publié à la même adresse sur blog.flunea.fr (abonnement arrêté, redirection 301 vers flunea.fr). Texte 100 % original : ne pas lire ni reprendre blog.flunea.fr."
     },
     {
       "slug": "negocier-delais-fournisseurs",
@@ -116,15 +134,6 @@
       "statut": "a_faire"
     },
     {
-      "slug": "balance-agee-clients",
-      "mot_cle": "balance âgée clients",
-      "intention": "howto",
-      "angle": "Lire sa balance âgée en 10 minutes et décider qui relancer en premier ; distinguer retard moyen et DSO (erreur fréquente).",
-      "priorite": 50,
-      "statut": "a_faire",
-      "note": "BabyLoveGrowth a déjà publié « balance âgée clients » sur blog.flunea.fr : à traiter seulement si ce sous-domaine disparaît, sinon les deux pages se concurrencent."
-    },
-    {
       "slug": "delai-paiement-client-loi-lme",
       "mot_cle": "délai de paiement client loi LME",
       "intention": "info",
@@ -189,6 +198,15 @@
       "priorite": 15,
       "statut": "publie",
       "publie_le": "2026-09-29"
+    },
+    {
+      "slug": "chiffrer-une-embauche-tresorerie",
+      "mot_cle": "coût d'une embauche sur la trésorerie",
+      "intention": "howto",
+      "angle": "Avant de recruter : le vrai calendrier des sorties d'argent (salaire, charges, période d'essai, montée en charge) et le chiffre d'affaires qu'il faut avoir sécurisé.",
+      "priorite": 18,
+      "statut": "publie",
+      "publie_le": "2026-09-30"
     },
     {
       "slug": "calculer-bfr-tpe",
