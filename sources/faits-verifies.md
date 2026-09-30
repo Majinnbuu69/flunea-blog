@@ -139,6 +139,22 @@ Vérifié le 2026-09-30.
 - Recommande de tenir sa comptabilité régulièrement et d'analyser les écarts chaque semaine ou chaque mois pour piloter l'entreprise.
 - Conseils qualitatifs (pas de chiffres ni de seuils précis) : à citer pour la méthode, pas pour un chiffre.
 
+## Seuils d'effectifs et dispositif de lissage (Service Public Entreprendre)
+
+https://entreprendre.service-public.gouv.fr/vosdroits/F31415  
+Vérifié le 2026-09-30.
+
+- Pour l'effectif « sécurité sociale », les effets liés au franchissement d'un seuil (11, 20, 50 salariés, etc.) ne s'appliquent qu'après 5 années civiles consécutives de dépassement.
+- Quand l'effectif repasse sous le seuil, les obligations liées à ce seuil cessent immédiatement dès l'année du franchissement à la baisse (le compteur des 5 ans repart à zéro).
+
+## Rehaussement du seuil de cotation des entreprises (Banque de France)
+
+https://www.banque-france.fr/fr/a-votre-service/entreprises/rehaussement-du-seuil-de-cotation  
+Vérifié le 2026-09-30.
+
+- Depuis le 12 janvier 2025, la Banque de France cote les entreprises non financières dont le chiffre d'affaires dépasse 1,25 million d'euros, contre 750 000 € auparavant (seuil inchangé depuis plus de 40 ans).
+- Ce relèvement de seuil permet de maintenir environ 300 000 entreprises cotées en 2025, contre moins de 260 000 cinq ans plus tôt.
+
 ## Points de vigilance
 
 - L'article L441-10 a une nouvelle version au 1er janvier 2027 (ordonnance n° 2026-671) : seul le renvoi pour les factures périodiques change (code des impositions sur les biens et services au lieu du CGI). Délais et pénalités identiques.
