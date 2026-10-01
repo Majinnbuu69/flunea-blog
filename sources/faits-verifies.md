@@ -155,6 +155,14 @@ Vérifié le 2026-09-30.
 - Depuis le 12 janvier 2025, la Banque de France cote les entreprises non financières dont le chiffre d'affaires dépasse 1,25 million d'euros, contre 750 000 € auparavant (seuil inchangé depuis plus de 40 ans).
 - Ce relèvement de seuil permet de maintenir environ 300 000 entreprises cotées en 2025, contre moins de 260 000 cinq ans plus tôt.
 
+## Le plan de trésorerie dans un projet de création d'entreprise (Bpifrance Création)
+
+https://bpifrance-creation.fr/encyclopedie/previsions-financieres-business-plan/previsions-financieres/plan-tresorerie-projet  
+Vérifié le 2026-10-01.
+
+- Le plan de trésorerie est une projection mensuelle des encaissements et décaissements prévus, mois par mois, sur les 12 premiers mois d'activité ; le solde doit rester positif chaque mois.
+- La plupart des disparitions d'entreprises qui interviennent pendant leur première année sont le fait de problèmes de trésorerie.
+
 ## Points de vigilance
 
 - L'article L441-10 a une nouvelle version au 1er janvier 2027 (ordonnance n° 2026-671) : seul le renvoi pour les factures périodiques change (code des impositions sur les biens et services au lieu du CGI). Délais et pénalités identiques.
