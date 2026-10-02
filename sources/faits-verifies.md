@@ -163,6 +163,14 @@ Vérifié le 2026-10-01.
 - Le plan de trésorerie est une projection mensuelle des encaissements et décaissements prévus, mois par mois, sur les 12 premiers mois d'activité ; le solde doit rester positif chaque mois.
 - La plupart des disparitions d'entreprises qui interviennent pendant leur première année sont le fait de problèmes de trésorerie.
 
+## Balance Âgée (Bpifrance Création)
+
+https://bpifrance-creation.fr/balance-agee  
+Vérifié le 2026-10-02.
+
+- La balance âgée est un document qui récapitule les comptes clients (et fournisseurs) pour donner une visibilité sur la trésorerie à venir de l'entreprise.
+- Pour les créances clients, elle distingue les créances échues et les créances à échoir, chacune détaillée en trois tranches : moins de 30 jours, moins de 60 jours, plus de 60 jours.
+
 ## Points de vigilance
 
 - L'article L441-10 a une nouvelle version au 1er janvier 2027 (ordonnance n° 2026-671) : seul le renvoi pour les factures périodiques change (code des impositions sur les biens et services au lieu du CGI). Délais et pénalités identiques.
