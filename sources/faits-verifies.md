@@ -171,6 +171,14 @@ Vérifié le 2026-10-02.
 - La balance âgée est un document qui récapitule les comptes clients (et fournisseurs) pour donner une visibilité sur la trésorerie à venir de l'entreprise.
 - Pour les créances clients, elle distingue les créances échues et les créances à échoir, chacune détaillée en trois tranches : moins de 30 jours, moins de 60 jours, plus de 60 jours.
 
+## Comment choisir vos fournisseurs ? (Bpifrance Création)
+
+https://bpifrance-creation.fr/encyclopedie/piloter-lentreprise/relations-commerciales/comment-choisir-vos-fournisseurs  
+Vérifié le 2026-10-05.
+
+- Négocier des délais de règlement avec ses fournisseurs facilite la gestion de la trésorerie.
+- Les délais de paiement restent souvent peu négociables avec un fournisseur pendant la première année de collaboration.
+
 ## Points de vigilance
 
 - L'article L441-10 a une nouvelle version au 1er janvier 2027 (ordonnance n° 2026-671) : seul le renvoi pour les factures périodiques change (code des impositions sur les biens et services au lieu du CGI). Délais et pénalités identiques.

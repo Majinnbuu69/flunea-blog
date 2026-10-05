@@ -37,7 +37,8 @@
       "intention": "howto",
       "angle": "Comment demander 45 ou 60 jours à un fournisseur sans abîmer la relation : quoi proposer en échange, à quel moment, et l'effet chiffré sur le point bas.",
       "priorite": 20,
-      "statut": "a_faire"
+      "statut": "publie",
+      "publie_le": "2026-10-05"
     },
     {
       "slug": "tresorerie-restaurant-saisonnalite",
