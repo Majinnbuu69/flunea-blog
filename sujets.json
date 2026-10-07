@@ -46,7 +46,8 @@
       "intention": "info",
       "angle": "Piloter la trésorerie d'un CHR entre haute et basse saison : constituer un matelas, lisser les charges, éviter le trou de janvier.",
       "priorite": 26,
-      "statut": "a_faire"
+      "statut": "publie",
+      "publie_le": "2026-10-07"
     },
     {
       "slug": "tresorerie-salon-de-coiffure",

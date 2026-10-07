@@ -179,6 +179,22 @@ Vérifié le 2026-10-05.
 - Négocier des délais de règlement avec ses fournisseurs facilite la gestion de la trésorerie.
 - Les délais de paiement restent souvent peu négociables avec un fournisseur pendant la première année de collaboration.
 
+## Travailleur saisonnier indépendant (Bpifrance Création)
+
+https://bpifrance-creation.fr/encyclopedie/structures-juridiques/statuts-particuliers/travailleur-saisonnier-independant
+Vérifié le 2026-10-07.
+
+- Le travail saisonnier se définit par des tâches qui se répètent chaque année, à des dates à peu près fixes, selon le rythme des saisons ou des modes de vie collectifs (tourisme notamment).
+- En nom propre (entreprise individuelle, micro-entreprise), un indépendant qui ferme plusieurs mois peut soit continuer à déclarer un chiffre d'affaires nul, soit demander une cessation temporaire d'activité via le guichet unique, d'un an maximum, renouvelable jusqu'à deux ans pour une activité commerciale.
+- Une déclaration de chiffre d'affaires nul pendant plus de 24 mois consécutifs expose à une radiation automatique ; la cessation temporaire d'activité suspend les droits à la retraite et aux droits sociaux pendant sa durée.
+
+## Les tableaux de bord de gestion (Bpifrance Création)
+
+https://bpifrance-creation.fr/encyclopedie/piloter-lentreprise/finance-pilotage-economique/tableaux-bord-gestion
+Vérifié le 2026-10-07.
+
+- En cas de forte saisonnalité, de tension de trésorerie ou de démarrage commercial incertain, certains indicateurs méritent un suivi hebdomadaire plutôt que mensuel : encaissements, décaissements, commandes, devis, retards de paiement.
+
 ## Points de vigilance
 
 - L'article L441-10 a une nouvelle version au 1er janvier 2027 (ordonnance n° 2026-671) : seul le renvoi pour les factures périodiques change (code des impositions sur les biens et services au lieu du CGI). Délais et pénalités identiques.
