@@ -3,7 +3,7 @@ title: "Plan de trésorerie sur Excel : 5 limites qui coûtent cher"
 description: "Excel reste l'outil de trésorerie le plus utilisé en TPE. Voici les cinq limites qui font perdre du temps et de l'argent, et comment y remédier concrètement."
 slug: "plan-tresorerie-excel-limites"
 date: "2026-09-12"
-updated: "2026-09-28"
+updated: "2026-10-08"
 author: "L'équipe Flunea"
 keywords:
   - "plan de trésorerie Excel"
@@ -14,9 +14,14 @@ cover: ""
 draft: false
 ---
 
-Excel est probablement le meilleur logiciel de trésorerie jamais écrit — et le pire à la fois. Le meilleur, parce qu'il ne vous impose rien : votre tableau ressemble à votre entreprise. Le pire, parce qu'il ne vous protège de rien : ni des erreurs, ni de l'oubli, ni du temps que vous y passez.
+Un plan de trésorerie sur Excel coûte en moyenne trois à quatre heures par mois pour mettre à jour deux comptes bancaires, et une seule formule mal recopiée suffit à fausser le point bas sans que rien ne l'affiche. Cinq limites expliquent pourquoi ce fichier, pratique au départ, devient risqué dès qu'il sert chaque semaine.
 
-Ce n'est pas un plaidoyer contre le tableur. Nous en utilisons tous les jours. C'est un constat sur ce qui casse, systématiquement, quand on pilote la trésorerie d'une entreprise avec un fichier.
+> **En bref**
+> - La mise à jour manuelle prend 3 à 4 heures par mois pour deux comptes bancaires.
+> - Une erreur de formule ne s'affiche jamais : le solde reste crédible mais faux.
+> - Un fichier Excel n'alerte jamais avant un prélèvement rejeté ou un seuil franchi.
+
+Excel reste le meilleur logiciel de trésorerie jamais écrit, et le pire à la fois : il ne vous impose rien, votre tableau ressemble à votre entreprise, mais il ne vous protège de rien, ni des erreurs ni de l'oubli. Ce n'est pas un plaidoyer contre le tableur, c'est un constat sur ce qui casse, systématiquement, quand on pilote sa trésorerie avec un fichier.
 
 ## Limite 1 — La saisie manuelle mange le bénéfice de l'outil
 
@@ -30,7 +35,7 @@ Le problème n'est pas seulement le temps perdu. C'est le rythme : parce que la 
 
 C'est la limite la plus coûteuse, parce qu'elle est silencieuse. Une plage étendue d'une ligne de trop, une somme qui s'arrête à novembre, une ligne insérée qui casse un cumul : le tableau continue d'afficher un chiffre parfaitement crédible.
 
-Les études sur les tableurs d'entreprise trouvent des erreurs dans la grande majorité des fichiers complexes, et les auteurs de ces fichiers sont presque toujours convaincus du contraire. Ce n'est pas une question de compétence : c'est la nature de l'outil. Aucune formule ne vous dit qu'elle est fausse.
+Ce n'est pas une question de compétence : c'est la nature de l'outil. Plus le fichier a d'onglets, de renvois entre feuilles et de formules recopiées, plus une erreur se cache facilement derrière un résultat qui a l'air normal. Aucune formule ne vous dit qu'elle est fausse.
 
 En trésorerie, le coût de l'erreur est immédiat : un point bas sous-estimé de 8 000 €, c'est un prélèvement rejeté, des frais, et une conversation désagréable avec votre banque.
 
@@ -60,6 +65,21 @@ Au début, le tableau tient sur un onglet. Puis vous ouvrez un second compte, un
 
 **Ce qu'il faut viser :** une source unique, accessible à deux ou trois personnes avec les bons droits, sauvegardée, et un historique de ce qui a changé.
 
+## Ce que ça change pour votre trésorerie
+
+[La plupart des disparitions d'entreprises qui surviennent pendant leur première année sont dues à des problèmes de trésorerie](https://bpifrance-creation.fr/encyclopedie/previsions-financieres-business-plan/previsions-financieres/plan-tresorerie-projet), pas à un manque de clients. Un fichier qui retarde la détection d'un point bas joue donc contre vous au pire moment.
+
+Prenons un exemple : un plombier artisan suit sa trésorerie sur un tableau mensuel. Une ligne insérée en semaine 10 décale la formule de cumul, sans que la cellule change de couleur ni d'apparence.
+
+| Semaine | Solde affiché par le fichier | Solde réel une fois l'erreur corrigée |
+| --- | --- | --- |
+| S9 | 11 200 € | 11 200 € |
+| S10 | 9 600 € | 9 600 € |
+| S11 (point bas réel) | 6 400 € | -1 900 € |
+| S12 | 7 800 € | 300 € |
+
+Sur le papier, la semaine 11 reste positive. Dans la réalité, le compte passe dans le rouge huit jours avant que l'artisan ne s'en rende compte, le temps de recevoir le relevé et de recalculer à la main. Un outil connecté aux comptes aurait affiché le même point bas dès la semaine 9.
+
 ## Quand Excel reste le bon choix
 
 Soyons honnêtes : le tableur garde des usages où rien ne le remplace.
@@ -72,7 +92,7 @@ La bascule se produit quand le fichier devient **récurrent**. Un tableau que vo
 
 ## Le test en trois questions
 
-Pour savoir si votre plan de trésorerie Excel vous coûte plus qu'il vous rapporte, répondez honnêtement :
+Bpifrance Création le résume en une phrase : il faut [tenir sa comptabilité de façon régulière et analyser les écarts chaque semaine ou chaque mois](https://bpifrance-creation.fr/moments-de-vie/comment-gerer-piloter-au-mieux-mon-entreprise) pour piloter l'entreprise sans mauvaise surprise. Pour savoir si votre plan de trésorerie Excel tient cette promesse, répondez honnêtement :
 
 1. **Combien de temps** passez-vous chaque mois à le mettre à jour ? Au-delà de deux heures, l'automatisation est rentable dès le premier mois.
 2. **Quelle est la date de votre dernière mise à jour ?** Si elle a plus de dix jours, vous ne pilotez pas, vous constatez.
@@ -97,3 +117,12 @@ Comptez trois à quatre heures par mois pour deux comptes bancaires : export des
 ### Quand faut-il abandonner Excel pour un logiciel de trésorerie ?
 
 Quand le fichier devient récurrent. S'il faut le rouvrir chaque semaine, qu'il couvre plus de deux comptes bancaires ou qu'il circule entre plusieurs personnes, le risque de travailler sur une version fausse devient réel. Excel reste imbattable pour une simulation ponctuelle, par exemple avant un rendez-vous bancaire.
+
+### Une erreur de formule Excel se voit-elle facilement ?
+
+Non. Le tableau continue d'afficher un solde cohérent même si une plage de calcul est mal étendue ou si une ligne insérée casse un cumul. C'est pour cela que l'erreur la plus coûteuse en trésorerie est aussi la plus silencieuse : rien ne vous avertit avant le rejet bancaire.
+
+## Sources
+
+- [Le plan de trésorerie dans un projet de création d'entreprise](https://bpifrance-creation.fr/encyclopedie/previsions-financieres-business-plan/previsions-financieres/plan-tresorerie-projet)
+- [Comment gérer et piloter au mieux mon entreprise](https://bpifrance-creation.fr/moments-de-vie/comment-gerer-piloter-au-mieux-mon-entreprise)
