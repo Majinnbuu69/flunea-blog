@@ -179,6 +179,15 @@ Vérifié le 2026-10-05.
 - Négocier des délais de règlement avec ses fournisseurs facilite la gestion de la trésorerie.
 - Les délais de paiement restent souvent peu négociables avec un fournisseur pendant la première année de collaboration.
 
+## Emploi à caractère saisonnier et CDD (Légifrance, Code du travail)
+
+https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000037312980 (article L1242-2)
+https://www.legifrance.gouv.fr/codes/id/LEGIARTI000006901222/2026-08-05 (articles L1243-8 à L1243-12)
+Vérifié le 2026-10-09.
+
+- L'article L1242-2, 3° du Code du travail autorise le recours à un CDD pour les emplois à caractère saisonnier, dont les tâches sont appelées à se répéter chaque année à des dates à peu près fixes, en fonction des saisons ou des modes de vie collectifs.
+- L'indemnité de fin de contrat (dite de précarité), égale en principe à 10 % de la rémunération totale brute (article L1243-8), n'est pas due pour un contrat conclu au titre de l'emploi à caractère saisonnier (article L1243-10, 1°), sauf disposition conventionnelle plus favorable.
+
 ## Points de vigilance
 
 - L'article L441-10 a une nouvelle version au 1er janvier 2027 (ordonnance n° 2026-671) : seul le renvoi pour les factures périodiques change (code des impositions sur les biens et services au lieu du CGI). Délais et pénalités identiques.
