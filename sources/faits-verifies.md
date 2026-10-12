@@ -179,6 +179,22 @@ Vérifié le 2026-10-05.
 - Négocier des délais de règlement avec ses fournisseurs facilite la gestion de la trésorerie.
 - Les délais de paiement restent souvent peu négociables avec un fournisseur pendant la première année de collaboration.
 
+## Article L1242-2 du Code du travail, emplois à caractère saisonnier (Légifrance)
+
+https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000037312980  
+Vérifié le 2026-10-12.
+
+- Le CDD ne peut être conclu que pour l'exécution d'une tâche précise et temporaire, dans les cas listés par l'article, dont les « emplois à caractère saisonnier, dont les tâches sont appelées à se répéter chaque année selon une périodicité à peu près fixe, en fonction du rythme des saisons ou des modes de vie collectifs ».
+- L'article couvre aussi, dans certains secteurs définis par décret ou par convention/accord collectif étendu, les emplois pour lesquels il est d'usage constant de ne pas recourir au CDI, en raison de la nature de l'activité et du caractère par nature temporaire de ces emplois.
+
+## Tourisme : Bpifrance a déployé 12 Md€ en faveur des entreprises du secteur (Bpifrance)
+
+https://presse.bpifrance.fr/tourisme-bpifrance-a-deploye-12-mdeur-en-faveur-des-entreprises-du-secteur-et-lance-la-french-experience-la-communaute-des-entrepreneurs-qui-faconnent-le-tourisme-de-demain/?lang=fra  
+Vérifié le 2026-10-12.
+
+- Depuis 2021, Bpifrance a mobilisé 12 milliards d'euros pour les entreprises du tourisme et des loisirs, et accompagné près de 60 000 entreprises.
+- Le Prêt Boost Saison Touristique (prêt sans garantie destiné au renforcement de trésorerie avant la saison) a bénéficié à plus de 1 640 entreprises, pour un montant supérieur à 73 millions d'euros.
+
 ## Points de vigilance
 
 - L'article L441-10 a une nouvelle version au 1er janvier 2027 (ordonnance n° 2026-671) : seul le renvoi pour les factures périodiques change (code des impositions sur les biens et services au lieu du CGI). Délais et pénalités identiques.
