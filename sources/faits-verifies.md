@@ -179,8 +179,25 @@ Vérifié le 2026-10-05.
 - Négocier des délais de règlement avec ses fournisseurs facilite la gestion de la trésorerie.
 - Les délais de paiement restent souvent peu négociables avec un fournisseur pendant la première année de collaboration.
 
+## Prime de précarité et contrat saisonnier (Service Public)
+
+https://www.service-public.gouv.fr/particuliers/vosdroits/F803  
+Vérifié le 2026-10-14.
+
+- Un salarié en CDD saisonnier n'a en principe pas droit à la prime de précarité (indemnité de fin de contrat), sauf si la convention collective applicable en dispose autrement.
+- Pour le cas général des CDD, la prime n'est pas due non plus en cas de faute grave du salarié, de rupture anticipée à l'initiative du salarié, de force majeure, ou de refus d'un CDI proposé par l'employeur en fin de CDD.
+
+## Congés payés dans le secteur privé (Service Public Entreprendre)
+
+https://entreprendre.service-public.gouv.fr/actualites/A15702  
+Vérifié le 2026-10-14.
+
+- Un salarié du secteur privé acquiert 2,5 jours ouvrables de congés payés par mois de travail effectif.
+- La période de référence peut être fixée par une convention ou un accord collectif ; à défaut, elle commence le 1er juin et se termine le 31 mai de l'année suivante.
+
 ## Points de vigilance
 
 - L'article L441-10 a une nouvelle version au 1er janvier 2027 (ordonnance n° 2026-671) : seul le renvoi pour les factures périodiques change (code des impositions sur les biens et services au lieu du CGI). Délais et pénalités identiques.
 - Le taux plancher des pénalités (3 fois le taux d'intérêt légal) change chaque semestre : toujours dater le chiffre.
 - Une procédure simplifiée de recouvrement des créances commerciales non contestées a été créée le 25 avril 2026 ; elle ne sera opérationnelle qu'après publication d'un décret (Service Public, fiche F38156, vérifiée le 2026-09-28).
+- Le 2026-10-14, legifrance.gouv.fr, impots.gouv.fr et economie.gouv.fr ont renvoyé des erreurs 403/404 à chaque tentative d'ouverture, et urssaf.fr une erreur 503 sur plusieurs pages différentes (y compris des pages déjà vérifiées avec succès en septembre). service-public.gouv.fr, entreprendre.service-public.gouv.fr, bpifrance-creation.fr et insee.fr restaient accessibles. Si ces domaines restent bloqués lors d'une prochaine exécution, privilégier service-public.gouv.fr, bpifrance-creation.fr, insee.fr et banque-france.fr pour les chiffres.
