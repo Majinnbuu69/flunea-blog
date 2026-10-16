@@ -55,7 +55,8 @@
       "intention": "howto",
       "angle": "Un salon encaisse tous les jours mais paie loyer, salaires et fournisseurs de produits en fin de mois : caler ses réserves, gérer le creux de janvier et d'août, chiffrer un recrutement ou une rénovation.",
       "priorite": 27,
-      "statut": "a_faire"
+      "statut": "publie",
+      "publie_le": "2026-10-16"
     },
     {
       "slug": "encaisser-plus-vite-factures",

@@ -195,9 +195,28 @@ Vérifié le 2026-10-14.
 - Un salarié du secteur privé acquiert 2,5 jours ouvrables de congés payés par mois de travail effectif.
 - La période de référence peut être fixée par une convention ou un accord collectif ; à défaut, elle commence le 1er juin et se termine le 31 mai de l'année suivante.
 
+## Le Smic revalorisé au 1er juin 2026 (Service-Public.fr)
+
+https://www.service-public.gouv.fr/particuliers/actualites/A18916  
+Vérifié le 2026-10-16.
+
+- Au 1er juin 2026, le Smic horaire brut passe à 12,31 € (contre 12,02 € auparavant) et le Smic mensuel brut pour un temps plein à 1 867,02 € (contre 1 823,03 €), en métropole et dans les Drom hors Mayotte.
+- Le Smic net mensuel correspondant est d'environ 1 477,93 €.
+- Ce montant de juin 2026 remplace celui du 1er janvier 2026 (1 823,03 € brut) utilisé dans des faits vérifiés plus anciens de ce fichier : préférer 1 867,02 € pour un chiffre à jour.
+
+## Obtenir un délai de paiement des cotisations sociales en tant qu'employeur (Service Public Entreprendre)
+
+https://entreprendre.service-public.gouv.fr/vosdroits/F38100  
+Vérifié le 2026-10-16.
+
+- Un employeur à jour de ses déclarations (DSN transmises, part salariale des cotisations versée) peut demander à l'Urssaf un délai de paiement.
+- Réponse sous 48 heures pour une demande en ligne depuis l'espace de l'entreprise ; sous 15 jours pour une demande par téléphone ou par courrier.
+- Si l'employeur remplit tous les critères du dispositif automatisé, le délai est accordé directement ; sinon la demande est étudiée par un gestionnaire de compte, qui propose un échéancier. Ce délai ne peut pas dépasser 12 mois.
+
 ## Points de vigilance
 
 - L'article L441-10 a une nouvelle version au 1er janvier 2027 (ordonnance n° 2026-671) : seul le renvoi pour les factures périodiques change (code des impositions sur les biens et services au lieu du CGI). Délais et pénalités identiques.
 - Le taux plancher des pénalités (3 fois le taux d'intérêt légal) change chaque semestre : toujours dater le chiffre.
 - Une procédure simplifiée de recouvrement des créances commerciales non contestées a été créée le 25 avril 2026 ; elle ne sera opérationnelle qu'après publication d'un décret (Service Public, fiche F38156, vérifiée le 2026-09-28).
 - Le 2026-10-14, legifrance.gouv.fr, impots.gouv.fr et economie.gouv.fr ont renvoyé des erreurs 403/404 à chaque tentative d'ouverture, et urssaf.fr une erreur 503 sur plusieurs pages différentes (y compris des pages déjà vérifiées avec succès en septembre). service-public.gouv.fr, entreprendre.service-public.gouv.fr, bpifrance-creation.fr et insee.fr restaient accessibles. Si ces domaines restent bloqués lors d'une prochaine exécution, privilégier service-public.gouv.fr, bpifrance-creation.fr, insee.fr et banque-france.fr pour les chiffres.
+- Le 2026-10-16, même constat : legifrance.gouv.fr (403) et urssaf.fr (503) sont restés inaccessibles sur toutes les pages testées, y compris des pages déjà vérifiées en septembre (taux de cotisations patronales, RGDU, DPAE, paiement des cotisations). info.gouv.fr a aussi renvoyé une erreur 403. service-public.gouv.fr, entreprendre.service-public.gouv.fr et bpifrance-creation.fr sont restés accessibles et ont permis de vérifier le Smic à jour et un délai de paiement Urssaf pour employeur. Les liens urssaf.fr et legifrance.gouv.fr déjà présents dans ce fichier (vérifiés en septembre) ont été réutilisés tels quels dans l'article du jour faute d'accès direct, sans modification de leur contenu rapporté.
