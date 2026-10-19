@@ -14,9 +14,9 @@ Vérifié le 2026-09-28.
 ## Délais de paiement entre professionnels et pénalités de retard (Service Public Entreprendre)
 
 https://entreprendre.service-public.gouv.fr/vosdroits/F23211  
-Vérifié le 2026-09-28.
+Vérifié le 2026-09-28, chiffres de taux réactualisés le 2026-10-19.
 
-- Le plancher des pénalités (3 fois le taux d'intérêt légal) correspondait à 8,25 % selon Service Public (page vérifiée en août 2026) ; ce taux est révisé chaque semestre.
+- Le plancher des pénalités (3 fois le taux d'intérêt légal) ne peut être inférieur à 8,25 % ; le taux réellement appliqué, révisé chaque semestre, est de 12,15 % pour le premier semestre 2026 et 12,40 % pour le second semestre 2026.
 - Une indemnité forfaitaire de 40 € pour frais de recouvrement s'applique à chaque facture payée en retard, une seule fois et non par jour de retard ; elle doit figurer dans les CGV et sur les factures.
 - Le non-respect des délais de paiement expose à une amende administrative pouvant atteindre 75 000 € pour une entreprise individuelle et 2 millions d'euros pour une société, montants doublés en cas de récidive dans les 2 ans.
 
@@ -201,3 +201,4 @@ Vérifié le 2026-10-14.
 - Le taux plancher des pénalités (3 fois le taux d'intérêt légal) change chaque semestre : toujours dater le chiffre.
 - Une procédure simplifiée de recouvrement des créances commerciales non contestées a été créée le 25 avril 2026 ; elle ne sera opérationnelle qu'après publication d'un décret (Service Public, fiche F38156, vérifiée le 2026-09-28).
 - Le 2026-10-14, legifrance.gouv.fr, impots.gouv.fr et economie.gouv.fr ont renvoyé des erreurs 403/404 à chaque tentative d'ouverture, et urssaf.fr une erreur 503 sur plusieurs pages différentes (y compris des pages déjà vérifiées avec succès en septembre). service-public.gouv.fr, entreprendre.service-public.gouv.fr, bpifrance-creation.fr et insee.fr restaient accessibles. Si ces domaines restent bloqués lors d'une prochaine exécution, privilégier service-public.gouv.fr, bpifrance-creation.fr, insee.fr et banque-france.fr pour les chiffres.
+- Le 2026-10-19, même constat : legifrance.gouv.fr a renvoyé une erreur 403 et urssaf.fr une erreur 503 sur des pages pourtant déjà vérifiées (DPAE, taux de cotisations, RGDU, période d'essai). entreprendre.service-public.gouv.fr restait accessible et a permis de réactualiser le taux de pénalités de retard ci-dessus. Les liens legifrance/urssaf déjà vérifiés ont été réutilisés tels quels dans l'article du jour, faute de pouvoir rouvrir les pages.
