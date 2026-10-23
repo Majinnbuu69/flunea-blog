@@ -124,8 +124,8 @@ aucun article ni aucun sujet existant. Même format que les autres entrées, ave
 
 ```markdown
 ---
-title: "<25 à 75 caractères, contient le mot-clé, concret>"
-description: "<100 à 175 caractères, contient le mot-clé, donne envie de cliquer>"
+title: "<25 à 51 caractères (Google coupe au-delà de 60 avec « — Flunea »), contient le mot-clé, concret>"
+description: "<100 à 155 caractères (Google coupe au-delà), contient le mot-clé, donne envie de cliquer>"
 slug: "<le slug du sujet>"
 date: "AAAA-MM-JJ"
 updated: "AAAA-MM-JJ"
