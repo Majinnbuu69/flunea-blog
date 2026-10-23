@@ -64,7 +64,8 @@
       "intention": "howto",
       "angle": "8 leviers pour raccourcir le délai d'encaissement (acompte, échéancier, paiement en ligne) rangés par effort/impact.",
       "priorite": 28,
-      "statut": "a_faire"
+      "statut": "publie",
+      "publie_le": "2026-10-23"
     },
     {
       "slug": "tresorerie-garage-automobile",

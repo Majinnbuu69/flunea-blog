@@ -205,6 +205,28 @@ Vérifié le 2026-10-21.
 - Effectif moyen des établissements employeurs : 2,36 personnes (hors alternants). Plus de la moitié des salons n'emploient aucun salarié.
 - Page de 2018 : si une donnée plus récente est nécessaire, chercher le dernier rapport de branche UNEC relayé par ce même site.
 
+## Mentions obligatoires sur une facture (Service Public Entreprendre, fiche F31808)
+
+https://entreprendre.service-public.gouv.fr/vosdroits/F31808  
+Vérifié le 2026-10-23.
+
+- La facture doit indiquer la date à laquelle le règlement doit intervenir, le taux des pénalités de retard et l'indemnité forfaitaire de 40 € pour frais de recouvrement (celle-ci n'est due que par un client professionnel).
+- Les conditions d'escompte pour paiement anticipé doivent figurer sur la facture ; en l'absence d'escompte, elle doit porter la mention « Escompte pour paiement anticipé : néant ».
+- La date de versement d'un acompte peut tenir lieu de date de vente ou de prestation. La page ne liste pas de moyen de paiement obligatoire pour les factures en général (hors cas particulier des associations agréées).
+
+## Guide des bonnes pratiques pour limiter les retards de paiement dans les relations interentreprises (Observatoire des délais de paiement, Banque de France, novembre 2024)
+
+https://www.banque-france.fr/system/files/2024-11/Guide_Bonnes_pratiques_ODP_V6.pdf  
+Vérifié le 2026-10-23.
+
+- Les factures doivent être émises dès la livraison des marchandises ou la réalisation des prestations et envoyées sans délai par les fournisseurs ; une facture type reprenant les mentions obligatoires accélère son traitement chez le client.
+- Une mention contractuelle ou légale manquante ou erronée sur une facture n'autorise pas le débiteur à régler avec retard dès lors que les mentions présentes permettent d'identifier la dette (avis n° 19-11 de la Commission d'examen des pratiques commerciales).
+- Les moyens de paiement dont la date d'encaissement est connue du fournisseur avant l'échéance (virement commercial, virement instantané) doivent être privilégiés ; la carte d'achat est également encouragée. Le chèque allonge le délai d'encaissement.
+- La pratique de l'escompte pour paiement comptant ou accéléré peut constituer un moyen d'accélérer les paiements.
+- Le versement automatique des intérêts moratoires (pénalités de retard, article L441-10 du Code de commerce) est une obligation légale dont la mise en œuvre effective encourage les clients à mieux respecter les échéances ; facturer ces pénalités séparément évite de retarder le paiement du montant principal.
+- En cas de difficultés financières liées à la saisonnalité, le recours à l'affacturage (y compris l'affacturage inversé) peut aider à accélérer le paiement de la prestation pour le fournisseur.
+- Les retards de paiement des entreprises se sont accrus en 2023 (12,6 jours, contre 11,7 en 2022), dégradation qui s'est poursuivie en 2024.
+
 ## Points de vigilance
 
 - L'article L441-10 a une nouvelle version au 1er janvier 2027 (ordonnance n° 2026-671) : seul le renvoi pour les factures périodiques change (code des impositions sur les biens et services au lieu du CGI). Délais et pénalités identiques.
