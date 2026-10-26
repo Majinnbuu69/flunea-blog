@@ -73,7 +73,8 @@
       "intention": "howto",
       "angle": "Pièces payées avant d'être refacturées, clients professionnels à 45 jours, stock qui dort : où part l'argent d'un garage et comment le récupérer.",
       "priorite": 29,
-      "statut": "a_faire"
+      "statut": "publie",
+      "publie_le": "2026-10-26"
     },
     {
       "slug": "anticiper-tva-tresorerie",

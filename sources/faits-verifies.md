@@ -16,7 +16,7 @@ Vérifié le 2026-09-28.
 https://entreprendre.service-public.gouv.fr/vosdroits/F23211  
 Vérifié le 2026-09-28.
 
-- Le plancher des pénalités (3 fois le taux d'intérêt légal) correspondait à 8,25 % selon Service Public (page vérifiée en août 2026) ; ce taux est révisé chaque semestre.
+- Le plancher des pénalités (3 fois le taux d'intérêt légal) correspondait à 8,25 % selon Service Public (page vérifiée en août 2026) ; ce taux est révisé chaque semestre. Vérifié à nouveau le 2026-10-26 : le taux recommandé (refinancement BCE + 10 points) est de 12,15 % pour le premier semestre 2026 et de 12,40 % pour le second semestre 2026.
 - Une indemnité forfaitaire de 40 € pour frais de recouvrement s'applique à chaque facture payée en retard, une seule fois et non par jour de retard ; elle doit figurer dans les CGV et sur les factures.
 - Le non-respect des délais de paiement expose à une amende administrative pouvant atteindre 75 000 € pour une entreprise individuelle et 2 millions d'euros pour une société, montants doublés en cas de récidive dans les 2 ans.
 
