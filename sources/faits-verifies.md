@@ -227,6 +227,46 @@ Vérifié le 2026-10-23.
 - En cas de difficultés financières liées à la saisonnalité, le recours à l'affacturage (y compris l'affacturage inversé) peut aider à accélérer le paiement de la prestation pour le fournisseur.
 - Les retards de paiement des entreprises se sont accrus en 2023 (12,6 jours, contre 11,7 en 2022), dégradation qui s'est poursuivie en 2024.
 
+## Régimes de TVA et échéances (impots.gouv.fr)
+
+https://www.impots.gouv.fr/professionnel/tva  
+Vérifié le 2026-10-28.
+
+- Réel simplifié : deux acomptes dans l'année (55 % de la TVA due l'année précédente en juillet, 40 % en décembre), puis déclaration annuelle CA12 qui régularise le solde, déposée le deuxième jour ouvré suivant le 1er mai. Dispense d'acomptes si la TVA due l'année précédente était inférieure à 1 000 €.
+- Réel normal : déclaration CA3 mensuelle (TVA exigible le mois précédent), ou trimestrielle si la TVA annuelle reste sous 4 000 €.
+- Paiement exclusivement dématérialisé depuis l'espace professionnel (EFI) ou via un partenaire EDI ; premier règlement soumis à un mandat de prélèvement SEPA transmis à la banque.
+
+## Franchise en base de TVA (Bpifrance Création)
+
+https://bpifrance-creation.fr/encyclopedie/fiscalite-lentreprise/tva/franchise-base-tva  
+Vérifié le 2026-10-28.
+
+- Seuils 2025-2026 : 85 000 € (ventes et hébergement) ou 37 500 € (autres prestations de services), avec un seuil majoré de 93 500 € et 41 250 € qui tolère un dépassement ponctuel l'année où il survient.
+- Si le seuil majoré est dépassé, la franchise cesse de s'appliquer dès la date du dépassement (et non à partir de l'année suivante ou du premier jour du mois).
+
+## Taux normal de TVA (BOI-TVA-LIQ-20, impots.gouv.fr)
+
+https://bofip.impots.gouv.fr/doctrine/BOI-TVA-LIQ-20  
+Vérifié le 2026-10-28.
+
+- Le taux normal de TVA est fixé à 20 % pour la France métropolitaine et la Corse (CGI, art. 278).
+
+## Majoration pour retard de paiement d'un impôt professionnel (BOI-REC-PRO-10-30-20, impots.gouv.fr)
+
+https://bofip.impots.gouv.fr/bofip/205-PGP.html/identifiant=BOI-REC-PRO-10-30-20-20120912  
+Vérifié le 2026-10-28.
+
+- Tout retard de paiement d'une somme due au titre d'un impôt professionnel (dont la TVA) entraîne une majoration de 5 % (article 1731 du CGI), sauf pour les impositions visées à l'article 1730 du CGI.
+- La majoration ne s'applique pas si la déclaration, déposée en retard, est accompagnée du paiement intégral des droits ; elle reste due sur la totalité des sommes si le paiement n'est que partiel.
+
+## Intérêt de retard applicable aux impôts (BOI-CF-INF-10-10-20, impots.gouv.fr)
+
+https://bofip.impots.gouv.fr/bofip/1458-PGP.html/identifiant=BOI-CF-INF-10-10-20-20210707  
+Vérifié le 2026-10-28.
+
+- Taux de l'intérêt de retard (article 1727 du CGI) : 0,20 % par mois, soit 2,4 % par an, applicable depuis le 1er janvier 2018.
+- Il court en principe à partir du premier jour du mois suivant celui où l'impôt devait être payé.
+
 ## Points de vigilance
 
 - L'article L441-10 a une nouvelle version au 1er janvier 2027 (ordonnance n° 2026-671) : seul le renvoi pour les factures périodiques change (code des impositions sur les biens et services au lieu du CGI). Délais et pénalités identiques.

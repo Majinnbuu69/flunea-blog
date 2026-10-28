@@ -82,7 +82,8 @@
       "intention": "howto",
       "angle": "Pourquoi la TVA collectée n'est pas votre argent, et la méthode pour la provisionner sans y penser chaque trimestre.",
       "priorite": 30,
-      "statut": "a_faire"
+      "statut": "publie",
+      "publie_le": "2026-10-28"
     },
     {
       "slug": "tresorerie-commerce-de-detail",
