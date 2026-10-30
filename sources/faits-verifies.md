@@ -267,6 +267,34 @@ Vérifié le 2026-10-28.
 - Taux de l'intérêt de retard (article 1727 du CGI) : 0,20 % par mois, soit 2,4 % par an, applicable depuis le 1er janvier 2018.
 - Il court en principe à partir du premier jour du mois suivant celui où l'impôt devait être payé.
 
+## Soldes : règles, dates et revente à perte (Service Public)
+
+https://www.service-public.gouv.fr/particuliers/vosdroits/F24037
+Vérifié le 2026-10-30.
+
+- Les soldes ont lieu deux fois par an, en hiver et en été, chaque période durant 4 semaines, avec des dates de début et de fin fixées par arrêté (référence : Code de commerce, article L310-3).
+- Les soldes d'hiver commencent le deuxième mercredi de janvier à 8 heures, ou le premier mercredi de janvier si le deuxième mercredi tombe après le 12 du mois. Les soldes d'été commencent le dernier mercredi de juin, ou l'avant-dernier mercredi si le dernier tombe après le 28 du mois. Ces dates valent pour la majorité des départements ; certains départements et collectivités appliquent des dates différentes.
+- Tableau comparatif de la page : la revente à perte est autorisée pendant les soldes, alors qu'elle reste interdite, sauf exceptions, pour les promotions ordinaires en dehors des soldes.
+- Point de vigilance : le texte intégral de l'article L310-3 n'a pas pu être ouvert sur legifrance.gouv.fr lors de cette vérification (404 puis mauvais identifiant d'article) ; ne citer que via cette page de Service Public, pas comme une citation directe de Légifrance.
+
+## Le besoin en fonds de roulement (BFR) et la rotation des stocks (Bpifrance Création)
+
+https://bpifrance-creation.fr/encyclopedie/previsions-financieres-business-plan/previsions-financieres/besoin-fonds-roulement-bfr
+Vérifié le 2026-10-30.
+
+- Le BFR est défini comme le décalage de trésorerie issu de l'activité courante de l'entreprise ; formule : BFR = Stocks moyens + Encours moyen « Créances clients » − Encours moyen « Dettes fournisseurs ». Pour une entreprise de services, les stocks sont remplacés par les travaux en cours et les dettes fournisseurs par les acomptes clients.
+- Un stock excédentaire augmente mécaniquement le BFR, parce qu'il immobilise de la trésorerie sans la rendre.
+- Ratio de rotation des stocks proposé par la page : stock moyen rapporté au coût d'achat des marchandises vendues (ou au coût de production pour une entreprise industrielle), multiplié par 365 jours ; à apprécier en tenant compte de la nature et de la saisonnalité de l'activité.
+
+## Activité du commerce de détail, habillement-chaussures (Insee)
+
+https://www.insee.fr/fr/statistiques/2015073
+Vérifié le 2026-10-30.
+
+- En 2025 (données provisoires), les ventes de l'ensemble du commerce de détail et de l'artisanat commercial augmentent de 2,3 % en volume.
+- Secteur habillement-chaussures en 2025 : volume des ventes en baisse de 1,4 %, chiffre d'affaires de 35,3 milliards d'euros, en baisse de 0,5 % en valeur.
+- Point de vigilance : economie.gouv.fr a renvoyé une erreur 403 sur toutes les pages testées concernant les dates de soldes et la revente à perte lors de cette vérification (2026-10-30) ; privilégier service-public.gouv.fr pour ces sujets si le blocage persiste.
+
 ## Points de vigilance
 
 - L'article L441-10 a une nouvelle version au 1er janvier 2027 (ordonnance n° 2026-671) : seul le renvoi pour les factures périodiques change (code des impositions sur les biens et services au lieu du CGI). Délais et pénalités identiques.

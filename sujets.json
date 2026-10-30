@@ -91,7 +91,8 @@
       "intention": "howto",
       "angle": "Stock acheté avant la saison, soldes, TVA qui tombe au pire moment : construire le calendrier de trésorerie d'une boutique sur 12 mois.",
       "priorite": 31,
-      "statut": "a_faire"
+      "statut": "publie",
+      "publie_le": "2026-10-30"
     },
     {
       "slug": "tresorerie-profession-liberale",
