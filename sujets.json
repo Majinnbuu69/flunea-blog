@@ -32,6 +32,36 @@
       "note": "Remplace l'article de BabyLoveGrowth publié à la même adresse sur blog.flunea.fr (abonnement arrêté, redirection 301 vers flunea.fr). Texte 100 % original : ne pas lire ni reprendre blog.flunea.fr."
     },
     {
+      "slug": "prevision-tresorerie-tpe",
+      "mot_cle": "prévision de trésorerie",
+      "intention": "howto",
+      "angle": "La méthode en 5 étapes pour construire une prévision de trésorerie fiable en TPE, sans être comptable et sans y passer ses dimanches.",
+      "priorite": 4,
+      "statut": "publie",
+      "publie_le": "2026-09-10",
+      "note": "Ajouté rétroactivement à sujets.json le 2026-10-31 (audit de pertinence) : l'article existait mais manquait du fichier de suivi. Angle très proche de previsionnel-tresorerie-12-mois (même méthode, exemple différent) : à trancher avant toute nouvelle rédaction sur ce thème, fusion ou différenciation nette à décider par un humain."
+    },
+    {
+      "slug": "plan-tresorerie-excel-limites",
+      "mot_cle": "plan de trésorerie Excel",
+      "intention": "compare",
+      "angle": "Les cinq limites structurelles d'Excel pour piloter sa trésorerie (saisie manuelle, erreurs de formule invisibles, absence de vision multi-comptes, etc.) et ce qu'il faut viser pour y remédier.",
+      "priorite": 5,
+      "statut": "publie",
+      "publie_le": "2026-09-12",
+      "note": "Ajouté rétroactivement à sujets.json le 2026-10-31 (audit de pertinence) : l'article existait mais manquait du fichier de suivi. Catégorie d'outil (tableur), pas de marque concurrente : cohérent avec la règle « Articles comparatifs » de REDACTION.md."
+    },
+    {
+      "slug": "tresorerie-artisans-btp-decalages-paiement",
+      "mot_cle": "trésorerie BTP",
+      "intention": "howto",
+      "angle": "Retenue de garantie, situations mensuelles, sous-traitance : pourquoi la trésorerie du BTP se tend même quand les chantiers sont rentables, et comment l'anticiper.",
+      "priorite": 6,
+      "statut": "publie",
+      "publie_le": "2026-09-14",
+      "note": "Ajouté rétroactivement à sujets.json le 2026-10-31 (audit de pertinence) : l'article existait mais manquait du fichier de suivi."
+    },
+    {
       "slug": "negocier-delais-fournisseurs",
       "mot_cle": "négocier ses délais fournisseurs",
       "intention": "howto",
@@ -148,7 +178,8 @@
       "intention": "info",
       "angle": "Les 60 jours de la loi LME expliqués simplement + comment les faire respecter sans se fâcher avec le client.",
       "priorite": 58,
-      "statut": "a_faire"
+      "statut": "a_faire",
+      "note": "Audit du 2026-10-31 : l'article L441-10 (délais 30/45/60 j, pénalités) est déjà expliqué dans encaisser-plus-vite-factures, negocier-delais-fournisseurs, tresorerie-garage-automobile et tresorerie-artisans-btp-decalages-paiement. Avant de rédiger, resserrer l'angle sur ce qui est vraiment neuf (faire respecter sans fâcher le client) ou fusionner dans un article existant plutôt que répéter la règle légale."
     },
     {
       "slug": "plan-tresorerie-creation-entreprise",
@@ -156,7 +187,8 @@
       "intention": "howto",
       "angle": "Le plan de trésorerie du business plan, version qui tient la route : hypothèses réalistes, point mort, et le mois où ça coince.",
       "priorite": 60,
-      "statut": "a_faire"
+      "statut": "a_faire",
+      "note": "Audit du 2026-10-31 : bien distinguer de prevision-tresorerie-tpe et previsionnel-tresorerie-12-mois (méthode générique de prévisionnel déjà traitée deux fois). Angle propre à tenir : création d'entreprise, hypothèses de business plan, point mort — pas une 3e version de la méthode générique."
     },
     {
       "slug": "tresorerie-nette-definition",
