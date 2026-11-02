@@ -267,6 +267,16 @@ Vérifié le 2026-10-28.
 - Taux de l'intérêt de retard (article 1727 du CGI) : 0,20 % par mois, soit 2,4 % par an, applicable depuis le 1er janvier 2018.
 - Il court en principe à partir du premier jour du mois suivant celui où l'impôt devait être payé.
 
+## Soldes : règles à respecter (Service Public Entreprendre)
+
+https://entreprendre.service-public.gouv.fr/vosdroits/F20566  
+Vérifié le 2026-11-02.
+
+- Chaque période de soldes dure 4 semaines, 2 fois par an (hiver et été).
+- Seules les marchandises proposées à la vente depuis au moins 1 mois avant le début des soldes peuvent être soldées ; solder un stock plus récent est puni d'une amende de 15 000 € pour un entrepreneur individuel et de 75 000 € pour une société.
+- Le réapprovisionnement est interdit pendant toute la période de soldes.
+- La revente à perte est autorisée pendant les soldes, alors qu'elle reste en principe interdite en dehors de cette période.
+
 ## Points de vigilance
 
 - L'article L441-10 a une nouvelle version au 1er janvier 2027 (ordonnance n° 2026-671) : seul le renvoi pour les factures périodiques change (code des impositions sur les biens et services au lieu du CGI). Délais et pénalités identiques.
