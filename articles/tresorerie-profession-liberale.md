@@ -5,6 +5,8 @@ slug: "tresorerie-profession-liberale"
 date: "2026-11-04"
 updated: "2026-11-04"
 author: "L'équipe Flunea"
+rubrique: "Par métier"
+sous_rubrique: "Services et libéraux"
 keywords:
   - "trésorerie profession libérale"
   - "cotisations sociales profession libérale"

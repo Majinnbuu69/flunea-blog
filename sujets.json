@@ -131,7 +131,9 @@
       "angle": "Revenus irréguliers, charges sociales calculées sur l'année précédente, impôt à la source : se verser un revenu stable et ne jamais être pris de court par l'Urssaf.",
       "priorite": 33,
       "statut": "publie",
-      "publie_le": "2026-11-04"
+      "publie_le": "2026-11-04",
+      "rubrique": "Par métier",
+      "sous_rubrique": "Services et libéraux"
     },
     {
       "slug": "tresorerie-auto-entrepreneur",
@@ -139,7 +141,9 @@
       "intention": "info",
       "angle": "Gérer sa trésorerie en micro-entreprise quand revenus et charges sont irréguliers : le compte à part, la règle des pourcentages.",
       "priorite": 35,
-      "statut": "a_faire"
+      "statut": "a_faire",
+      "rubrique": "Par métier",
+      "sous_rubrique": "Indépendants et micro-entrepreneurs"
     },
     {
       "slug": "facturation-electronique-tpe-2027",
@@ -147,7 +151,9 @@
       "intention": "info",
       "angle": "Depuis septembre 2026 toute entreprise doit pouvoir recevoir des factures électroniques ; en septembre 2027 les TPE devront les émettre. Ce que ça change concrètement pour la trésorerie (statuts de paiement, délais).",
       "priorite": 40,
-      "statut": "a_faire"
+      "statut": "a_faire",
+      "rubrique": "Encaisser et relancer",
+      "sous_rubrique": "Facturation"
     },
     {
       "slug": "logiciel-tresorerie-ou-excel",
@@ -156,7 +162,9 @@
       "angle": "Quand Excel suffit et quand il devient dangereux : comparatif honnête, avec les seuils (nb de factures, comptes, TVA) qui font basculer.",
       "priorite": 42,
       "statut": "a_faire",
-      "note": "Proche de l'article publié plan-tresorerie-excel-limites : angle COMPARATIF (critères de choix, coût réel, pour qui), sans répéter les 5 limites d'Excel."
+      "note": "Proche de l'article publié plan-tresorerie-excel-limites : angle COMPARATIF (critères de choix, coût réel, pour qui), sans répéter les 5 limites d'Excel.",
+      "rubrique": "Outils et comparatifs",
+      "sous_rubrique": "Tableur ou logiciel"
     },
     {
       "slug": "affacturage-ou-decouvert-tpe",
@@ -164,7 +172,9 @@
       "intention": "compare",
       "angle": "Comparatif concret coût/souplesse affacturage vs découvert vs escompte pour une TPE, avec les vrais taux 2026.",
       "priorite": 45,
-      "statut": "a_faire"
+      "statut": "a_faire",
+      "rubrique": "Financer son activité",
+      "sous_rubrique": "Affacturage et alternatives"
     },
     {
       "slug": "gerer-decouvert-bancaire-professionnel",
@@ -172,7 +182,9 @@
       "intention": "howto",
       "angle": "Négocier et sortir d'un découvert pro : coût réel (agios + commission), comment renégocier l'autorisation, plan de sortie.",
       "priorite": 48,
-      "statut": "a_faire"
+      "statut": "a_faire",
+      "rubrique": "Financer son activité",
+      "sous_rubrique": "Banque et découvert"
     },
     {
       "slug": "delai-paiement-client-loi-lme",
@@ -181,7 +193,9 @@
       "angle": "Les 60 jours de la loi LME expliqués simplement + comment les faire respecter sans se fâcher avec le client.",
       "priorite": 58,
       "statut": "a_faire",
-      "note": "Audit du 2026-10-31 : l'article L441-10 (délais 30/45/60 j, pénalités) est déjà expliqué dans encaisser-plus-vite-factures, negocier-delais-fournisseurs, tresorerie-garage-automobile et tresorerie-artisans-btp-decalages-paiement. Avant de rédiger, resserrer l'angle sur ce qui est vraiment neuf (faire respecter sans fâcher le client) ou fusionner dans un article existant plutôt que répéter la règle légale."
+      "note": "Audit du 2026-10-31 : l'article L441-10 (délais 30/45/60 j, pénalités) est déjà expliqué dans encaisser-plus-vite-factures, negocier-delais-fournisseurs, tresorerie-garage-automobile et tresorerie-artisans-btp-decalages-paiement. Avant de rédiger, resserrer l'angle sur ce qui est vraiment neuf (faire respecter sans fâcher le client) ou fusionner dans un article existant plutôt que répéter la règle légale.",
+      "rubrique": "Encaisser et relancer",
+      "sous_rubrique": "Délais de paiement"
     },
     {
       "slug": "plan-tresorerie-creation-entreprise",
@@ -190,7 +204,9 @@
       "angle": "Le plan de trésorerie du business plan, version qui tient la route : hypothèses réalistes, point mort, et le mois où ça coince.",
       "priorite": 60,
       "statut": "a_faire",
-      "note": "Audit du 2026-10-31 : bien distinguer de prevision-tresorerie-tpe et previsionnel-tresorerie-12-mois (méthode générique de prévisionnel déjà traitée deux fois). Angle propre à tenir : création d'entreprise, hypothèses de business plan, point mort — pas une 3e version de la méthode générique."
+      "note": "Audit du 2026-10-31 : bien distinguer de prevision-tresorerie-tpe et previsionnel-tresorerie-12-mois (méthode générique de prévisionnel déjà traitée deux fois). Angle propre à tenir : création d'entreprise, hypothèses de business plan, point mort — pas une 3e version de la méthode générique.",
+      "rubrique": "Diriger son entreprise",
+      "sous_rubrique": "Créer et lancer"
     },
     {
       "slug": "tresorerie-nette-definition",
@@ -198,7 +214,9 @@
       "intention": "info",
       "angle": "Trésorerie nette, disponible, FRNG, BFR : les 4 notions démêlées en langage clair, avec un schéma mental simple.",
       "priorite": 65,
-      "statut": "a_faire"
+      "statut": "a_faire",
+      "rubrique": "Piloter sa trésorerie",
+      "sous_rubrique": "Notions clés"
     },
     {
       "slug": "echeancier-urssaf-tresorerie",
@@ -206,7 +224,9 @@
       "intention": "howto",
       "angle": "Demander un échéancier URSSAF sans stress : quand, comment, ce qu'ils acceptent, et l'impact réel sur le prévisionnel.",
       "priorite": 70,
-      "statut": "a_faire"
+      "statut": "a_faire",
+      "rubrique": "Payer et négocier",
+      "sous_rubrique": "Échéanciers"
     },
     {
       "slug": "reduire-charges-fixes-tpe",
@@ -214,7 +234,9 @@
       "intention": "howto",
       "angle": "Passer ses charges fixes au crible une fois par an : la checklist des postes qu'on paie sans y penser (abonnements, assurances, banque).",
       "priorite": 75,
-      "statut": "a_faire"
+      "statut": "a_faire",
+      "rubrique": "Diriger son entreprise",
+      "sous_rubrique": "Rentabilité et charges"
     },
     {
       "slug": "tableau-tresorerie-gratuit-modele",
@@ -282,6 +304,126 @@
       "angle": "Construire un prévisionnel glissant sur 12 mois qu'on met à jour en 5 min/semaine, sans usine à gaz Excel.",
       "priorite": 40,
       "statut": "publie"
+    },
+    {
+      "slug": "appli-bancaire-ou-logiciel-tresorerie",
+      "mot_cle": "appli bancaire ou logiciel de trésorerie",
+      "intention": "compare",
+      "angle": "Objection n°1 des dirigeants : « mon appli bancaire suffit ». Ce que montre l'appli (le passé, le solde du jour, parfois des catégories) face à une prévision (le point bas à venir, l'effet d'un client qui paie en retard). Dire honnêtement quand l'appli suffit (une seule activité régulière, peu de factures clients).",
+      "priorite": 36,
+      "statut": "a_faire",
+      "rubrique": "Outils et comparatifs",
+      "sous_rubrique": "Appli bancaire ou prévision"
+    },
+    {
+      "slug": "remuneration-dirigeant-tpe-tresorerie",
+      "mot_cle": "rémunération du dirigeant TPE",
+      "intention": "howto",
+      "angle": "Combien se verser chaque mois sans fragiliser la trésorerie : partir du point bas des 13 prochaines semaines, garder un matelas, lisser sa rémunération sur l'année. Exemple chiffré d'un artisan en entreprise individuelle et d'un gérant de SARL.",
+      "priorite": 37,
+      "statut": "a_faire",
+      "rubrique": "Diriger son entreprise",
+      "sous_rubrique": "Rémunération du dirigeant"
+    },
+    {
+      "slug": "logiciel-tresorerie-tpe-comment-choisir",
+      "mot_cle": "logiciel de trésorerie TPE",
+      "intention": "compare",
+      "angle": "Comment choisir un logiciel de trésorerie quand on dirige une TPE : les critères qui comptent (connexion bancaire, prévision, point bas, temps par semaine, public visé). Concurrents nommables selon les règles « Articles comparatifs » : Agicap, Cadrio, et les prévisions intégrées des banques en ligne (Qonto, Shine), uniquement avec des faits lus sur leur propre site pendant la session.",
+      "priorite": 39,
+      "statut": "a_faire",
+      "rubrique": "Outils et comparatifs",
+      "sous_rubrique": "Logiciels de trésorerie"
+    },
+    {
+      "slug": "tableau-de-bord-dirigeant-tpe",
+      "mot_cle": "tableau de bord dirigeant TPE",
+      "intention": "howto",
+      "angle": "Les 5 chiffres qu'un dirigeant de TPE regarde chaque lundi (solde, point bas et sa date, encours clients en retard, grosses sorties à venir, marge du mois) et ce qu'il décide avec chacun. Une routine de 15 minutes, pas un outil de grand groupe.",
+      "priorite": 41,
+      "statut": "a_faire",
+      "rubrique": "Diriger son entreprise",
+      "sous_rubrique": "Tableau de bord du dirigeant"
+    },
+    {
+      "slug": "logiciel-comptable-ou-logiciel-tresorerie",
+      "mot_cle": "logiciel comptable ou logiciel de trésorerie",
+      "intention": "compare",
+      "angle": "La comptabilité regarde le passé (bilan, TVA, déclarations), la trésorerie regarde les semaines à venir. Répond à l'objection « mon comptable s'en occupe » : ce que fait l'expert-comptable, ce qu'il ne voit pas au jour le jour, comment travailler avec lui.",
+      "priorite": 43,
+      "statut": "a_faire",
+      "rubrique": "Outils et comparatifs",
+      "sous_rubrique": "Comptabilité ou trésorerie"
+    },
+    {
+      "slug": "risque-client-tpe",
+      "mot_cle": "risque client TPE",
+      "intention": "howto",
+      "angle": "Repérer avant de signer le client qui paiera en retard : signaux simples (taille de la commande, historique, conditions demandées), acompte, plafond d'encours, et l'effet chiffré d'un gros client défaillant sur le point bas. Recherche déjà vue en Search Console.",
+      "priorite": 44,
+      "statut": "a_faire",
+      "rubrique": "Encaisser et relancer",
+      "sous_rubrique": "Risque client"
+    },
+    {
+      "slug": "investir-sans-assecher-tresorerie",
+      "mot_cle": "investir sans mettre sa trésorerie en danger",
+      "intention": "howto",
+      "angle": "Acheter un véhicule, une machine ou du matériel : comptant, crédit ou location. Comparer l'effet de chaque option sur le solde mois par mois et sur le point bas, avec un exemple chiffré, et la question à se poser avant de signer.",
+      "priorite": 46,
+      "statut": "a_faire",
+      "rubrique": "Diriger son entreprise",
+      "sous_rubrique": "Investir"
+    },
+    {
+      "slug": "fixer-ses-prix-marge-tresorerie",
+      "mot_cle": "fixer ses prix TPE",
+      "intention": "howto",
+      "angle": "Fixer ses prix pour gagner de l'argent et pas seulement du chiffre d'affaires : coût de revient, marge, délai de paiement intégré au prix, acompte. Montrer qu'une remise de 10 % ou un délai de 60 jours coûte en trésorerie, chiffres à l'appui.",
+      "priorite": 47,
+      "statut": "a_faire",
+      "rubrique": "Diriger son entreprise",
+      "sous_rubrique": "Prix et marge"
+    },
+    {
+      "slug": "gestion-stock-tpe-tresorerie",
+      "mot_cle": "gestion des stocks TPE",
+      "intention": "howto",
+      "angle": "Le stock, c'est de la trésorerie immobilisée : calculer combien dort sur les étagères, repérer les références qui ne tournent pas, commander au bon rythme. Flunea ne gère pas les stocks : l'article parle de leur effet sur la trésorerie. Recherche déjà vue en Search Console.",
+      "priorite": 49,
+      "statut": "a_faire",
+      "rubrique": "Diriger son entreprise",
+      "sous_rubrique": "Stock"
+    },
+    {
+      "slug": "preparer-rendez-vous-banquier",
+      "mot_cle": "rendez-vous banquier entreprise",
+      "intention": "howto",
+      "angle": "Préparer un rendez-vous avec son banquier pour un découvert, une facilité de caisse ou un prêt : les documents, le plan de trésorerie à 13 semaines, les questions qu'il posera, ce qu'on peut négocier.",
+      "priorite": 50,
+      "statut": "a_faire",
+      "rubrique": "Financer son activité",
+      "sous_rubrique": "Banque et découvert"
+    },
+    {
+      "slug": "suivi-factures-clients-tpe",
+      "mot_cle": "suivi des factures clients TPE",
+      "intention": "howto",
+      "angle": "Organiser le suivi de ses factures clients sans logiciel de facturation de grand groupe : une liste unique, trois statuts, une routine hebdomadaire, quoi faire à chaque échéance. Angle différent d'« encaisser plus vite ses factures » (leviers) : ici, l'organisation. Recherche vue en Search Console : « comment mieux gérer les factures d'une TPE ».",
+      "priorite": 52,
+      "statut": "a_faire",
+      "rubrique": "Encaisser et relancer",
+      "sous_rubrique": "Facturation"
+    },
+    {
+      "slug": "seuil-de-rentabilite-tpe",
+      "mot_cle": "seuil de rentabilité TPE",
+      "intention": "info",
+      "angle": "Le seuil de rentabilité expliqué avec un exemple chiffré d'artisan : charges fixes, marge sur coûts variables, date à laquelle l'année devient rentable, et pourquoi être rentable ne veut pas dire avoir de la trésorerie.",
+      "priorite": 54,
+      "statut": "a_faire",
+      "rubrique": "Diriger son entreprise",
+      "sous_rubrique": "Rentabilité et charges"
     }
   ]
 }
