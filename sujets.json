@@ -100,7 +100,8 @@
       "intention": "howto",
       "angle": "Revenus irréguliers, charges sociales calculées sur l'année précédente, impôt à la source : se verser un revenu stable et ne jamais être pris de court par l'Urssaf.",
       "priorite": 33,
-      "statut": "a_faire"
+      "statut": "publie",
+      "publie_le": "2026-11-04"
     },
     {
       "slug": "tresorerie-auto-entrepreneur",

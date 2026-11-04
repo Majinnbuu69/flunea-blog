@@ -277,6 +277,24 @@ Vérifié le 2026-11-02.
 - Le réapprovisionnement est interdit pendant toute la période de soldes.
 - La revente à perte est autorisée pendant les soldes, alors qu'elle reste en principe interdite en dehors de cette période.
 
+## Les principes de calcul et de paiement des cotisations sociales des indépendants (Bpifrance Création)
+
+https://bpifrance-creation.fr/encyclopedie/statut-social-fiscal-lentrepreneur/regime-social-independants/principes-calcul  
+Vérifié le 2026-11-04.
+
+- Les cotisations provisionnelles de l'année N sont d'abord calculées sur les revenus de l'année N-2 ; pendant les 2 premières années d'activité, elles reposent sur des bases forfaitaires, faute de référence.
+- Une fois la déclaration de revenus de l'année N-1 déposée (volet social ajouté automatiquement sur impots.gouv.fr), l'administration fiscale transmet le revenu à l'Urssaf, qui calcule la cotisation définitive de N-1 et ajuste les provisionnelles restantes de l'année N.
+- Paiement par défaut : 12 mensualités égales, prélevées le 5 ou le 20 du mois au choix. Option trimestrielle aux 5 février, 5 mai, 5 août et 5 novembre. La périodicité ne se change qu'une fois par année civile, via l'espace en ligne Urssaf, qui propose aussi un téléservice de modulation en temps réel.
+
+## Impôt sur le revenu : peut-on payer par acomptes ? (Service-Public.fr)
+
+https://www.service-public.gouv.fr/particuliers/vosdroits/F3119  
+Vérifié le 2026-11-04.
+
+- Pour un indépendant, les acomptes d'impôt sur le revenu sont calculés automatiquement par l'administration fiscale à partir de la dernière situation connue de ses services.
+- Par défaut, les prélèvements sont mensuels, à partir du 15 janvier. Une option trimestrielle existe depuis l'espace personnel sur impots.gouv.fr, avec un premier prélèvement le 15 février.
+- L'option trimestrielle vaut pour l'année entière et se reconduit automatiquement d'une année sur l'autre, sauf modification demandée par le contribuable.
+
 ## Points de vigilance
 
 - L'article L441-10 a une nouvelle version au 1er janvier 2027 (ordonnance n° 2026-671) : seul le renvoi pour les factures périodiques change (code des impositions sur les biens et services au lieu du CGI). Délais et pénalités identiques.
