@@ -34,6 +34,25 @@ anticiper, chiffrer, décider, négocier, relancer, organiser sa semaine.
   fiches « gérer son entreprise » de Service Public, études de l'Insee ou de la
   Banque de France), pas seulement des textes de loi.
 
+## Articles comparatifs
+
+Pour un sujet `"intention": "compare"`, compare des **catégories d'outils ou de solutions de
+gestion** (tableur/Excel, carnet papier, logiciel de comptabilité générale, affacturage vs
+découvert, logiciel spécialisé vs généraliste, etc.), **jamais une marque de logiciel de
+trésorerie concurrente nommée**. Une comparaison factuelle avec un concurrent nommé, sans
+lien ni source vérifiable (aucun site de concurrent ne figure dans les domaines de sources
+autorisés plus bas), expose à un risque de publicité comparative illicite ou de dénigrement.
+Reste sur ce que permet ou ne permet pas chaque catégorie, jamais sur ce qu'une marque précise
+promet ou facture.
+
+Même structure que les autres articles, avec une section supplémentaire juste avant le
+paragraphe de rattachement à Flunea : un paragraphe ou un tableau qui positionne clairement
+Flunea dans la catégorie « logiciel de trésorerie prévisionnelle », en listant ce qu'il fait
+réellement (connexion bancaire en lecture seule ou import CSV, classement des opérations,
+solde prévisionnel, point bas et sa date, alertes). Comme pour le reste de l'article : aucun
+prix, jamais le mot « gratuit », et aucune fonction non vérifiée (pas de facturation, pas de
+relances automatiques, pas de suivi des stocks, pas de comptabilité).
+
 ## Déroulé d'une exécution
 
 1. Ouvre `sujets.json`. Prends le sujet `"statut": "a_faire"` qui a la plus petite
