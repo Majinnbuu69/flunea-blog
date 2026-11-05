@@ -63,6 +63,15 @@ Vérifié le 2026-09-28.
 - La loi crée une procédure de recouvrement des créances commerciales incontestées confiée à un commissaire de justice, entrée en vigueur le 25 avril 2026.
 - L'application concrète est subordonnée à un décret en Conseil d'État qui doit fixer les modalités d'application (article renvoyant au décret).
 
+## Décret n° 2026-967 du 20 octobre 2026 sur la procédure de recouvrement des créances commerciales (Légifrance)
+
+https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000055002571  
+Vérifié le 2026-11-05.
+
+- Le décret, pris pour l'application de la loi n° 2026-307 du 23 avril 2026, fixe les modalités pratiques : commissaire de justice compétent (celui du ressort de la cour d'appel du domicile du débiteur), contenu obligatoire du commandement de payer et du procès-verbal de non-contestation, contrôle du greffier avant délivrance du titre exécutoire.
+- Délais : un mois pour contester après le commandement de payer ; trois mois pour déposer la requête au greffe après le procès-verbal de non-contestation (à peine de caducité) ; un mois d'opposition après signification du titre exécutoire, avec consignation des frais d'opposition dans les quinze jours.
+- Entrée en vigueur : à une date fixée par arrêté du ministre de la Justice, au plus tard le 31 décembre 2026. Tant que cet arrêté n'est pas publié, la procédure n'est pas utilisable.
+
 ## Procédure simplifiée de recouvrement des créances commerciales incontestées (Bpifrance Création)
 
 https://bpifrance-creation.fr/encyclopedie/gerer-lentreprise/recouvrer-creance/procedure-simplifiee-recouvrement-creances  
@@ -299,6 +308,6 @@ Vérifié le 2026-11-04.
 
 - L'article L441-10 a une nouvelle version au 1er janvier 2027 (ordonnance n° 2026-671) : seul le renvoi pour les factures périodiques change (code des impositions sur les biens et services au lieu du CGI). Délais et pénalités identiques.
 - Le taux plancher des pénalités (3 fois le taux d'intérêt légal) change chaque semestre : toujours dater le chiffre.
-- Une procédure simplifiée de recouvrement des créances commerciales non contestées a été créée le 25 avril 2026 ; elle ne sera opérationnelle qu'après publication d'un décret (Service Public, fiche F38156, vérifiée le 2026-09-28).
+- Une procédure simplifiée de recouvrement des créances commerciales non contestées a été créée le 25 avril 2026 ; son décret d'application (n° 2026-967) est paru le 20 octobre 2026, mais la procédure n'entrera en vigueur qu'à une date fixée par arrêté du ministre de la Justice, au plus tard le 31 décembre 2026 (Légifrance, vérifié le 2026-11-05).
 - Le 2026-10-14, legifrance.gouv.fr, impots.gouv.fr et economie.gouv.fr ont renvoyé des erreurs 403/404 à chaque tentative d'ouverture, et urssaf.fr une erreur 503 sur plusieurs pages différentes (y compris des pages déjà vérifiées avec succès en septembre). service-public.gouv.fr, entreprendre.service-public.gouv.fr, bpifrance-creation.fr et insee.fr restaient accessibles. Si ces domaines restent bloqués lors d'une prochaine exécution, privilégier service-public.gouv.fr, bpifrance-creation.fr, insee.fr et banque-france.fr pour les chiffres.
 - Le 2026-10-21, economie.gouv.fr renvoyait encore une erreur 403 (toutes pages testées) et urssaf.fr une erreur 503 sur la page de paiement des cotisations ; artisanat.fr (sous-domaine veille.artisanat.fr) restait accessible.
