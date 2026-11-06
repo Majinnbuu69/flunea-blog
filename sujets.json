@@ -312,7 +312,8 @@
       "intention": "compare",
       "angle": "Objection n°1 des dirigeants : « mon appli bancaire suffit ». Ce que montre l'appli (le passé, le solde du jour, parfois des catégories) face à une prévision (le point bas à venir, l'effet d'un client qui paie en retard). Dire honnêtement quand l'appli suffit (une seule activité régulière, peu de factures clients).",
       "priorite": 36,
-      "statut": "a_faire",
+      "statut": "publie",
+      "publie_le": "2026-11-06",
       "rubrique": "Outils et comparatifs",
       "sous_rubrique": "Appli bancaire ou prévision"
     },
