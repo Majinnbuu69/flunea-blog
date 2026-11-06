@@ -304,6 +304,31 @@ Vérifié le 2026-11-04.
 - Par défaut, les prélèvements sont mensuels, à partir du 15 janvier. Une option trimestrielle existe depuis l'espace personnel sur impots.gouv.fr, avec un premier prélèvement le 15 février.
 - L'option trimestrielle vaut pour l'année entière et se reconduit automatiquement d'une année sur l'autre, sauf modification demandée par le contribuable.
 
+## Le régime social du micro-entrepreneur (Bpifrance Création)
+
+https://bpifrance-creation.fr/encyclopedie/micro-entreprise-regime-auto-entrepreneur/fiscal-social-comptable/regime-social-du  
+Vérifié le 2026-11-06 (page publiée en juillet 2026).
+
+- Taux globaux de cotisations sociales sur le chiffre d'affaires encaissé : 12,30 % pour l'achat-revente de marchandises, 21,20 % pour les prestations de services commerciales et artisanales (BIC), 25,60 % pour les autres prestations de services (BNC), 23,20 % pour les professions libérales réglementées relevant de la Cipav, 6 % pour la location de meublés de tourisme classés.
+- Taux réduits ACRE (selon la date de début d'activité) : vente 6,2 % (jusqu'au 30/06/2026) ou 9,3 % (à partir du 01/07/2026) ; services BIC 10,6 % ou 15,9 % ; autres services BNC 12,8 % ou 19,2 % ; professions libérales Cipav 13,4 % ou 17,4 %.
+
+## Le régime micro-social (Bpifrance Création)
+
+https://bpifrance-creation.fr/encyclopedie/statut-social-fiscal-lentrepreneur/regime-social-independants/regime-micro-social  
+Vérifié le 2026-11-06.
+
+- Base de calcul : le chiffre d'affaires effectivement encaissé sur la période, pas le bénéfice. Une contribution à la formation professionnelle (CFP) s'ajoute à part : 0,3 % pour l'artisanat, 0,1 % pour le commerce, 0,2 % pour le libéral.
+- Déclaration mensuelle : payée au plus tard le dernier jour du mois suivant. Déclaration trimestrielle, sur option : échéances au 31 janvier, 30 avril, 31 juillet et 31 octobre. Première déclaration 90 jours après le début d'activité.
+- Sans chiffre d'affaires, aucune cotisation minimale n'est due (sauf option contraire), mais la déclaration à 0 € reste obligatoire. Chaque déclaration manquante entraîne une pénalité de 1,5 % du plafond mensuel de la Sécurité sociale. Deux années civiles consécutives sans chiffre d'affaires ni déclaration peuvent entraîner une radiation d'office.
+
+## Le versement libératoire (impots.gouv.fr)
+
+https://www.impots.gouv.fr/professionnel/le-versement-liberatoire  
+Vérifié le 2026-11-06.
+
+- Taux appliqués au chiffre d'affaires HT, en plus des cotisations sociales forfaitaires : 1 % pour la vente ou la fourniture de logement, 1,7 % pour les prestations de services BIC, 2,2 % pour les professions libérales BNC.
+- Condition de revenu fiscal de référence (RFR) du foyer, apprécié en N-2, et condition de chiffre d'affaires de l'année précédente : 188 700 € maximum pour la vente ou la fourniture de logement, 77 700 € pour les prestations de services (BIC ou BNC). En cas d'activité mixte, les deux plafonds s'appliquent. Ce sont des plafonds propres au régime micro-fiscal, distincts des seuils de franchise de TVA (nettement plus bas : voir la fiche franchise en base de TVA).
+
 ## Points de vigilance
 
 - L'article L441-10 a une nouvelle version au 1er janvier 2027 (ordonnance n° 2026-671) : seul le renvoi pour les factures périodiques change (code des impositions sur les biens et services au lieu du CGI). Délais et pénalités identiques.
