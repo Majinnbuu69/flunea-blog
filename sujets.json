@@ -323,7 +323,8 @@
       "intention": "howto",
       "angle": "Combien se verser chaque mois sans fragiliser la trésorerie : partir du point bas des 13 prochaines semaines, garder un matelas, lisser sa rémunération sur l'année. Exemple chiffré d'un artisan en entreprise individuelle et d'un gérant de SARL.",
       "priorite": 37,
-      "statut": "a_faire",
+      "statut": "publie",
+      "publie_le": "2026-11-09",
       "rubrique": "Diriger son entreprise",
       "sous_rubrique": "Rémunération du dirigeant"
     },

@@ -329,6 +329,24 @@ Vérifié le 2026-11-06.
 - Taux appliqués au chiffre d'affaires HT, en plus des cotisations sociales forfaitaires : 1 % pour la vente ou la fourniture de logement, 1,7 % pour les prestations de services BIC, 2,2 % pour les professions libérales BNC.
 - Condition de revenu fiscal de référence (RFR) du foyer, apprécié en N-2, et condition de chiffre d'affaires de l'année précédente : 188 700 € maximum pour la vente ou la fourniture de logement, 77 700 € pour les prestations de services (BIC ou BNC). En cas d'activité mixte, les deux plafonds s'appliquent. Ce sont des plafonds propres au régime micro-fiscal, distincts des seuils de franchise de TVA (nettement plus bas : voir la fiche franchise en base de TVA).
 
+## Entrepreneur individuel (EI) : ce qu'il faut savoir (Service Public Entreprendre)
+
+https://entreprendre.service-public.gouv.fr/vosdroits/F37396  
+Vérifié le 2026-11-09.
+
+- Sous l'impôt sur le revenu (régime par défaut de l'EI), la rémunération du dirigeant dépend directement du résultat fiscal de l'entreprise : il n'y a pas de distinction entre le bénéfice et sa rémunération.
+- Les cotisations sociales versées à l'Urssaf représentent environ 45 % du revenu d'activité déclaré ; un montant minimal reste dû même les années sans bénéfice, pour conserver la protection sociale.
+- L'EI peut opter pour l'impôt sur les sociétés (assimilation à une EURL) : l'entrepreneur perçoit alors une rémunération fixe déductible du résultat, et peut aussi percevoir des dividendes. L'option doit être demandée par écrit au service des impôts des entreprises dans les 3 premiers mois de l'exercice concerné, et reste réversible pendant 5 ans.
+
+## Revenus du dirigeant d'une société (Service Public Entreprendre)
+
+https://www.service-public.gouv.fr/entreprendre/vosdroits/F36065  
+Vérifié le 2026-11-09.
+
+- La rémunération du gérant d'une SARL est fixée dans les statuts ou, le plus souvent, par une assemblée générale ordinaire ; le dirigeant ne peut pas la décider seul. Elle peut être fixe, proportionnelle ou mixte, et doit correspondre à un travail effectif pour rester déductible.
+- Un gérant est majoritaire s'il détient plus de 50 % des parts sociales (seul ou avec son conjoint et ses enfants mineurs) ; il relève alors du régime des travailleurs non salariés et y cotise même sans rémunération versée. Un gérant égalitaire (50 %) ou minoritaire est assimilé-salarié, affilié au régime général, sans cotisation ni droit à l'assurance chômage au titre du mandat.
+- Les dividendes sont imposés au prélèvement forfaitaire unique de 31,4 % (12,8 % d'impôt sur le revenu, 18,6 % de prélèvements sociaux), avec option possible pour le barème de l'IR après abattement de 40 %. Le gérant majoritaire de SARL n'est pas soumis aux cotisations sociales sur ses dividendes tant qu'ils ne dépassent pas 10 % du capital social ; au-delà, la part excédentaire est soumise aux cotisations des indépendants.
+
 ## Points de vigilance
 
 - L'article L441-10 a une nouvelle version au 1er janvier 2027 (ordonnance n° 2026-671) : seul le renvoi pour les factures périodiques change (code des impositions sur les biens et services au lieu du CGI). Délais et pénalités identiques.
