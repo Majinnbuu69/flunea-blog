@@ -106,6 +106,13 @@ sans dénigrer ni tromper (Code de la consommation, article L122-1). D'où ces r
   alertes). Comme partout : aucun prix de Flunea, jamais le mot « gratuit », aucune
   fonction non vérifiée.
 
+**Exception validée par l'équipe (10/11/2026)** : l'article `logiciel-tresorerie-pas-cher-comparatif`
+affiche les prix des concurrents et de Flunea, datés et tirés des sites officiels, car c'est la question
+posée par le lecteur. En mode « mise à jour », si tu choisis cet article, rouvre la page tarifs de chaque
+éditeur avec WebFetch, corrige chaque prix et chaque fait, retire un concurrent dont la page est
+inaccessible, et remplace la date « consulté le » par la date du jour. Cette exception ne vaut pour
+aucun autre article.
+
 ## Déroulé d'une exécution
 
 1. Ouvre `sujets.json`. Prends le sujet `"statut": "a_faire"` qui a la plus petite
