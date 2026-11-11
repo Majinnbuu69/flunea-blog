@@ -334,7 +334,8 @@
       "intention": "compare",
       "angle": "Comment choisir un logiciel de trésorerie quand on dirige une TPE : les critères qui comptent (connexion bancaire, prévision, point bas, temps par semaine, public visé). Concurrents nommables selon les règles « Articles comparatifs » : Agicap, Cadrio, et les prévisions intégrées des banques en ligne (Qonto, Shine), uniquement avec des faits lus sur leur propre site pendant la session.",
       "priorite": 39,
-      "statut": "a_faire",
+      "statut": "publie",
+      "publie_le": "2026-11-11",
       "rubrique": "Outils et comparatifs",
       "sous_rubrique": "Logiciels de trésorerie"
     },
