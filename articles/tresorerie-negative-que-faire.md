@@ -1,10 +1,12 @@
 ---
 title: "Trésorerie négative : le plan d'action en 7 jours"
-description: "Le plan concret pour sortir d'une trésorerie négative en 7 jours : chiffrer le trou, l'ordre des paiements, qui relancer, et quoi négocier avec la banque ou l'Urssaf."
+description: "Trésorerie négative : le plan en 7 jours pour chiffrer le trou, payer dans l'ordre, relancer les impayés et négocier avec la banque ou l'Urssaf."
 slug: "tresorerie-negative-que-faire"
 date: "2026-09-29"
-updated: "2026-09-29"
+updated: "2026-11-12"
 author: "L'équipe Flunea"
+rubrique: "Piloter sa trésorerie"
+sous_rubrique: "Prévision et point bas"
 keywords:
   - "trésorerie négative que faire"
   - "solde compte négatif entreprise"
@@ -28,7 +30,7 @@ Karim est plombier, deux salariés, un découvert autorisé de 3 000 €. Mardi 
 
 La première chose à faire n'est pas de payer, ni de relancer, ni d'appeler la banque. C'est de savoir exactement combien manque, et à quelle date le trou sera le plus profond. Listez sur les quatre semaines qui viennent tout ce qui doit sortir (salaires, charges sociales, TVA, loyer, fournisseurs) et tout ce qui doit rentrer (factures déjà émises, encaissements réguliers). Le solde le plus bas de cette projection, avec sa date, c'est votre vrai problème : pas le -1 800 € du jour, mais le -4 200 € attendu dans dix jours si rien ne bouge.
 
-Ce chiffrage change tout le reste. Un trou de 400 € qui se résorbe seul dans trois jours ne demande ni relance agressive ni coup de fil à la banque. Un trou de 4 000 € qui s'aggrave chaque semaine impose d'agir sur plusieurs leviers à la fois, dès aujourd'hui.
+Ce chiffrage change tout le reste. Un trou de 400 € qui se résorbe seul dans trois jours ne demande ni relance agressive ni coup de fil à la banque. Un trou de 4 000 € qui s'aggrave chaque semaine impose d'agir sur plusieurs leviers à la fois, dès aujourd'hui. C'est le même exercice qu'une prévision de trésorerie classique, en version accélérée : au lieu de regarder treize semaines, on se concentre sur les quatre qui viennent.
 
 ## Jours 1 et 2 : l'ordre des paiements qui protège l'activité
 
