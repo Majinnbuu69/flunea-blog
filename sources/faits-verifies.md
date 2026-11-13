@@ -347,6 +347,24 @@ Vérifié le 2026-11-09.
 - Un gérant est majoritaire s'il détient plus de 50 % des parts sociales (seul ou avec son conjoint et ses enfants mineurs) ; il relève alors du régime des travailleurs non salariés et y cotise même sans rémunération versée. Un gérant égalitaire (50 %) ou minoritaire est assimilé-salarié, affilié au régime général, sans cotisation ni droit à l'assurance chômage au titre du mandat.
 - Les dividendes sont imposés au prélèvement forfaitaire unique de 31,4 % (12,8 % d'impôt sur le revenu, 18,6 % de prélèvements sociaux), avec option possible pour le barème de l'IR après abattement de 40 %. Le gérant majoritaire de SARL n'est pas soumis aux cotisations sociales sur ses dividendes tant qu'ils ne dépassent pas 10 % du capital social ; au-delà, la part excédentaire est soumise aux cotisations des indépendants.
 
+## Facturation - numérique : calendrier de la réforme (Service Public Entreprendre)
+
+https://entreprendre.service-public.gouv.fr/actualites/A15683
+Vérifié le 2026-11-13.
+
+- Toutes les entreprises doivent pouvoir recevoir des factures électroniques depuis le 1er septembre 2026.
+- Émission de factures électroniques et nouvelles mentions obligatoires : 1er septembre 2026 pour les grandes entreprises et les ETI ; 1er septembre 2027 pour les PME et les micro-entreprises.
+- La réforme couvre les opérations entre entreprises établies en France et assujetties à la TVA (y compris les acomptes liés), Guadeloupe, Martinique et La Réunion incluses ; plusieurs autres territoires d'outre-mer ne sont pas concernés.
+- La page ne mentionne aucune sanction propre à la réforme de la facturation électronique.
+
+## J'approfondis mes connaissances sur la réforme (impots.gouv.fr)
+
+https://www.impots.gouv.fr/japprofondis-mes-connaissances-sur-la-reforme
+Vérifié le 2026-11-13.
+
+- Pour les prestations de services soumises à la TVA sur encaissement (sans option pour la TVA sur les débits, ni autoliquidation), l'entreprise doit transmettre à la plateforme un statut « encaissée » par facture : la date du paiement et le montant encaissé, ventilé par taux de TVA.
+- Au 1er septembre 2026, les grandes entreprises et les ETI doivent émettre leurs factures via une plateforme agréée, et toutes les entreprises doivent être en capacité de recevoir une facture électronique.
+
 ## Points de vigilance
 
 - L'article L441-10 a une nouvelle version au 1er janvier 2027 (ordonnance n° 2026-671) : seul le renvoi pour les factures périodiques change (code des impositions sur les biens et services au lieu du CGI). Délais et pénalités identiques.

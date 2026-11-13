@@ -152,7 +152,8 @@
       "intention": "info",
       "angle": "Depuis septembre 2026 toute entreprise doit pouvoir recevoir des factures électroniques ; en septembre 2027 les TPE devront les émettre. Ce que ça change concrètement pour la trésorerie (statuts de paiement, délais).",
       "priorite": 40,
-      "statut": "a_faire",
+      "statut": "publie",
+      "publie_le": "2026-11-13",
       "rubrique": "Encaisser et relancer",
       "sous_rubrique": "Facturation"
     },
