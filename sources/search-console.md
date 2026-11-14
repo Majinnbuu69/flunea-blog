@@ -7,6 +7,26 @@ niveau peut gagner le plus).
 
 ## Articles « à pousser » (mode mise à jour, dans cet ordre)
 
+Priorités de l'audit mots-clés du 2026-11-13 (à traiter avant la liste numérotée plus bas,
+dans cet ordre, même si le champ `updated` a moins de 30 jours) :
+
+- A. `previsionnel-tresorerie-12-mois` → viser « plan de trésorerie » (1 000 recherches par
+  mois ; variantes « plan de trésorerie prévisionnel », « exemple plan de trésorerie ») : en
+  faire l'article de référence, avec un exemple complet sur 12 mois en tableau.
+- B. `relance-client-impaye-modele` → viser « relance facture impayée » (880 ; variantes
+  « lettre de relance », « relance impayé ») : Google attend des modèles prêts à copier, un
+  par étape (rappel, relance ferme, dernière relance).
+- C. `balance-agee-clients` → viser « balance âgée » (1 300 ; position 8 sur 1 affichage) :
+  définition nette en tête, tableau d'exemple, lecture ligne par ligne.
+- D. `logiciel-tresorerie-pas-cher-comparatif` → viser « logiciel gestion de trésorerie »
+  (390 ; variantes « logiciel trésorerie », « logiciel de trésorerie »), en gardant les
+  règles de l'exception du 10/11 (prix datés, sites officiels rouverts).
+- E. `anticiper-tva-tresorerie` → ajouter une section sur les acomptes de juillet et de
+  décembre et sur la fin du régime simplifié au 1er janvier 2027 (faits dans
+  `faits-verifies.md`). Corriger aussi le passage sur le délai de paiement : la page des
+  impôts citée ne parle que de l'impôt sur les sociétés, pas de la TVA (vérifié le
+  2026-11-14) ; le retirer ou trouver une page officielle qui couvre la TVA.
+
 1. `procedure-simplifiee-recouvrement-creances` → viser « recouvrement de créances
    commerciales » (5 formulations proches, 28 impressions, positions 38 à 75). Le
    décret d'application serait paru (décret n° 2026-967 du 20 octobre 2026, à vérifier
