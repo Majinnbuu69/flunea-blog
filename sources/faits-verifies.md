@@ -365,6 +365,33 @@ Vérifié le 2026-11-13.
 - Pour les prestations de services soumises à la TVA sur encaissement (sans option pour la TVA sur les débits, ni autoliquidation), l'entreprise doit transmettre à la plateforme un statut « encaissée » par facture : la date du paiement et le montant encaissé, ventilé par taux de TVA.
 - Au 1er septembre 2026, les grandes entreprises et les ETI doivent émettre leurs factures via une plateforme agréée, et toutes les entreprises doivent être en capacité de recevoir une facture électronique.
 
+## Fin du régime simplifié de TVA au 1er janvier 2027 (impots.gouv.fr)
+
+https://www.impots.gouv.fr/actualite/le-regime-simplifie-dimposition-la-tva-est-supprime-compter-du-1er-janvier-2027
+Vérifié le 2026-11-14 (page publiée le 22/09/2026).
+
+- L'article 38 de la loi de finances pour 2025 supprime le régime simplifié de TVA au 1er janvier 2027 ; passage automatique au réel normal, sans démarche. Le régime simplifié agricole n'est pas concerné.
+- Déclaration trimestrielle si le chiffre d'affaires (plus acquisitions taxables) ne dépasse pas 1 000 000 € l'année précédente et 1 100 000 € l'année en cours ; mensuelle au-delà ou sur option.
+- Première déclaration du nouveau régime : janvier 2027 ou premier trimestre 2027 pour un exercice civil.
+- Dernière déclaration annuelle (CA12) : au plus tard le 4 mai 2027 pour un exercice clos le 31 décembre 2026.
+- Acompte de juillet 2027 : non dû pour les exercices civils ni pour ceux clos de janvier à juin 2027. Acompte de décembre 2027 : dû par personne.
+
+## Acomptes de TVA du régime simplifié (impots.gouv.fr et BOFiP)
+
+https://www.impots.gouv.fr/professionnel/les-regimes-dimposition-la-tva
+https://www.impots.gouv.fr/pro-15122026-tva-regime-simplifie
+https://www.impots.gouv.fr/sites/default/files/media/3_Documentation/fiches_focus/declarer_payer_tva_3514.pdf
+https://www.impots.gouv.fr/professionnel/questions/je-suis-soumis-au-regime-simplifie-dimposition-la-tva-quelle-date-dois-je
+https://bofip.impots.gouv.fr/bofip/2421-PGP.html/identifiant=BOI-TVA-DECLA-20-20-30-20-20150805
+Vérifié le 2026-11-14.
+
+- Régime simplifié : chiffre d'affaires HT jusqu'à 840 000 € (ventes, hébergement) ou 254 000 € (services), et TVA due inférieure à 15 000 €. Le seuil bas des services diffère entre deux pages des impôts (35 000 € ou 37 500 €) : ne pas le citer.
+- Acompte de décembre 2026 : télépaiement entre le 15 et le 24 décembre 2026, à la date limite affichée dans l'espace professionnel (compte fiscal, « TVA et taxes assimilées », « Échéancier »).
+- Un télépaiement enregistré en avance n'est prélevé qu'à l'échéance (fiche FOCUS 3514, mise à jour le 22/10/2026).
+- Exercice de création : chaque acompte doit atteindre au moins 80 % de la TVA réellement due pour le semestre, sinon majoration de 5 % (article 1731 du CGI).
+- BOFiP (version en vigueur depuis le 05/08/2015) : l'acompte peut être réduit si la TVA due pour le semestre, après imputation de la TVA sur immobilisations, est inférieure d'au moins 10 % à l'acompte réclamé (§ 290) ; les versements peuvent être suspendus si les acomptes déjà versés couvrent la TVA finalement due (§ 260) ; ils peuvent être relevés si la TVA finale sera supérieure d'au moins 10 % (§ 270).
+- La page « difficultés passagères » des impôts (délai de paiement) ne traite que de l'impôt sur les sociétés, pas de la TVA : ne pas la citer pour la TVA.
+
 ## Points de vigilance
 
 - L'article L441-10 a une nouvelle version au 1er janvier 2027 (ordonnance n° 2026-671) : seul le renvoi pour les factures périodiques change (code des impositions sur les biens et services au lieu du CGI). Délais et pénalités identiques.

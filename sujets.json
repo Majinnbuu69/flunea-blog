@@ -429,6 +429,51 @@
       "statut": "a_faire",
       "rubrique": "Diriger son entreprise",
       "sous_rubrique": "Rentabilité et charges"
+    },
+    {
+      "slug": "acompte-tva-decembre",
+      "mot_cle": "acompte TVA décembre",
+      "intention": "info",
+      "angle": "L'acompte de TVA de décembre 2026 : calcul (40 %), date, réduction possible, et la fin du régime simplifié au 1er janvier 2027.",
+      "priorite": 32,
+      "statut": "publie",
+      "publie_le": "2026-11-14",
+      "rubrique": "Payer et négocier",
+      "sous_rubrique": "TVA",
+      "note": "Article de saison écrit par l'équipe (audit mots-clés du 13/11). À mettre à jour début 2027 : première déclaration trimestrielle et dernière CA12 du 4 mai 2027."
+    },
+    {
+      "slug": "mise-en-demeure-de-payer-modele",
+      "mot_cle": "mise en demeure de payer",
+      "intention": "howto",
+      "angle": "Quand envoyer une mise en demeure de payer après les relances restées sans réponse, ce qu'elle doit contenir pour être valable, et un modèle de lettre complet à copier (texte dans l'article, pas de fichier à télécharger). Ce qu'elle déclenche (intérêts, suite judiciaire) et l'effet sur le plan de trésorerie tant que la facture n'est pas payée. Suite logique de l'article sur la relance d'un client impayé et de celui sur la procédure simplifiée de recouvrement.",
+      "priorite": 34,
+      "statut": "a_faire",
+      "rubrique": "Encaisser et relancer",
+      "sous_rubrique": "Relances et recouvrement",
+      "note": "Audit mots-clés du 13/11 : 1 600 recherches par mois, peu disputé. Mots-clés proches à placer dans les sections : « modèle mise en demeure de payer », « mise en demeure facture impayée ». Sujet juridique : chaque règle vient d'une page officielle ouverte pendant la session."
+    },
+    {
+      "slug": "retenue-de-garantie-btp-tresorerie",
+      "mot_cle": "retenue de garantie",
+      "intention": "info",
+      "angle": "La retenue de garantie expliquée à un artisan du BTP : combien le client retient, pendant combien de temps, comment la remplacer par une caution bancaire, et ce que ces sommes bloquées changent au point bas de trésorerie quand plusieurs chantiers se suivent. Exemple chiffré sur trois chantiers, avec la situation de travaux.",
+      "priorite": 38,
+      "statut": "a_faire",
+      "rubrique": "Par métier",
+      "sous_rubrique": "BTP et artisans",
+      "note": "Audit mots-clés du 13/11 : 1 000 recherches par mois, peu disputé. Variante à placer : « situation de travaux ». Chiffres légaux (taux, durée) uniquement depuis une page officielle ouverte pendant la session."
+    },
+    {
+      "slug": "facilite-de-caisse-decouvert-ou-pret",
+      "mot_cle": "facilité de caisse",
+      "intention": "compare",
+      "angle": "Facilité de caisse, découvert autorisé ou prêt de trésorerie : ce que chacun couvre (quelques jours, quelques semaines, plusieurs mois), ce que la banque demande, et lequel choisir pour passer un creux d'activité. Tableau comparatif puis « Quel choix selon votre situation », avec un exemple chiffré de creux de 6 semaines.",
+      "priorite": 24,
+      "statut": "a_faire",
+      "rubrique": "Financer son activité",
+      "sous_rubrique": "Prêts et facilités de caisse",
+      "note": "Audit mots-clés du 13/11 : 880 recherches par mois ; Google affiche déjà le site sur « facilité de caisse ou prêt de trésorerie pour passer un creux d'activité » (position 11) : reprendre cette formulation dans une section. Aucun taux inventé : seulement des chiffres de pages officielles ouvertes pendant la session. Ne pas doublonner les sujets « affacturage-ou-decouvert-tpe » et « gerer-decouvert-bancaire-professionnel »."
     }
   ]
 }
