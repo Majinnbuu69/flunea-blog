@@ -470,7 +470,8 @@
       "intention": "compare",
       "angle": "Facilité de caisse, découvert autorisé ou prêt de trésorerie : ce que chacun couvre (quelques jours, quelques semaines, plusieurs mois), ce que la banque demande, et lequel choisir pour passer un creux d'activité. Tableau comparatif puis « Quel choix selon votre situation », avec un exemple chiffré de creux de 6 semaines.",
       "priorite": 24,
-      "statut": "a_faire",
+      "statut": "publie",
+      "publie_le": "2026-11-16",
       "rubrique": "Financer son activité",
       "sous_rubrique": "Prêts et facilités de caisse",
       "note": "Audit mots-clés du 13/11 : 880 recherches par mois ; Google affiche déjà le site sur « facilité de caisse ou prêt de trésorerie pour passer un creux d'activité » (position 11) : reprendre cette formulation dans une section. Aucun taux inventé : seulement des chiffres de pages officielles ouvertes pendant la session. Ne pas doublonner les sujets « affacturage-ou-decouvert-tpe » et « gerer-decouvert-bancaire-professionnel »."

@@ -392,6 +392,27 @@ Vérifié le 2026-11-14.
 - BOFiP (version en vigueur depuis le 05/08/2015) : l'acompte peut être réduit si la TVA due pour le semestre, après imputation de la TVA sur immobilisations, est inférieure d'au moins 10 % à l'acompte réclamé (§ 290) ; les versements peuvent être suspendus si les acomptes déjà versés couvrent la TVA finalement due (§ 260) ; ils peuvent être relevés si la TVA finale sera supérieure d'au moins 10 % (§ 270).
 - La page « difficultés passagères » des impôts (délai de paiement) ne traite que de l'impôt sur les sociétés, pas de la TVA : ne pas la citer pour la TVA.
 
+## Répondre à un besoin rapide de trésorerie par le financement bancaire (Service Public Entreprendre)
+
+https://entreprendre.service-public.gouv.fr/vosdroits/F22316  
+Vérifié le 2026-11-16.
+
+- La facilité de caisse ne peut être accordée que pour une durée ponctuelle (par exemple un décalage d'un règlement client) ; le découvert autorisé porte sur un montant déterminé et convient à un besoin ponctuel mais récurrent, généralement signé pour un an.
+- Pour un financement plus important (emprunt bancaire), l'entreprise constitue un dossier sur sa situation financière ; la banque compare taux d'intérêt, frais de dossier et durée de remboursement, et demande généralement des garanties (caution, nantissement, etc.).
+- Un établissement de crédit n'est pas obligé d'accorder un financement, mais doit motiver un refus. Sans réponse 15 jours ouvrés après un dossier complet, l'entreprise peut saisir le Médiateur du crédit, qui prend contact sous 48 heures et laisse 5 jours ouvrés à la banque pour revoir sa position (60 jours pour saisir la médiation après une dénonciation de découvert ou d'une autre ligne de crédit).
+- Cette page ne concerne pas les micro-entrepreneurs.
+
+## Crédits bancaires à court terme (Bpifrance Création)
+
+https://bpifrance-creation.fr/encyclopedie/financements/credits-a-court-terme/credits-bancaires-a-court-terme  
+Vérifié le 2026-11-16.
+
+- Crédits à court terme : durée inférieure ou égale à un an, destinés à équilibrer la trésorerie.
+- Facilité de caisse : découvert limité dans le temps pour des décalages ponctuels et de faibles montants ; le contrat doit fixer une durée inférieure à 15 jours. Coût : agios proportionnels au montant et à la durée, à taux généralement variable, plus frais et commissions.
+- Découvert autorisé : découvert sur une période définie, de quelques semaines à un an, pour des décalages réguliers ; intérêts décomptés trimestriellement. La banque peut résilier un contrat à durée indéterminée en motivant sa décision et en respectant un préavis de 60 jours (loi n° 2009-1225 du 19 octobre 2009).
+- Crédit de campagne : prêt pour activités saisonnières, de l'ordre de 9 mois ou plus ; jugé risqué par la banque car reposant sur des ventes futures, qui peut demander le nantissement du stock de marchandises.
+- Escompte et cession Dailly (mobilisation de créances) : avance immédiate sur une créance client, avec intérêts et commissions ; la cession Dailly ne nécessite pas l'intervention du client et convient aux entreprises qui ne peuvent pas émettre d'effets de commerce.
+
 ## Points de vigilance
 
 - L'article L441-10 a une nouvelle version au 1er janvier 2027 (ordonnance n° 2026-671) : seul le renvoi pour les factures périodiques change (code des impositions sur les biens et services au lieu du CGI). Délais et pénalités identiques.
