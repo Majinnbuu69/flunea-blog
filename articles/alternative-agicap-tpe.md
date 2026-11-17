@@ -3,7 +3,7 @@ title: "Alternative à Agicap pour une TPE : 5 options"
 description: "Alternative à Agicap pour une TPE : quels logiciels de trésorerie conviennent à une petite structure, sans engagement annuel ni fonctions de PME."
 slug: "alternative-agicap-tpe"
 date: "2026-11-10"
-updated: "2026-11-10"
+updated: "2026-11-17"
 author: "L'équipe Flunea"
 rubrique: "Outils et comparatifs"
 sous_rubrique: "Logiciels de trésorerie"
@@ -18,6 +18,8 @@ draft: false
 ---
 
 Une alternative à Agicap s'impose quand l'entreprise est une TPE : selon son site, Agicap s'adresse aux directions financières de PME et d'ETI, avec un engagement de 12 mois minimum. Une petite structure a surtout besoin de voir son solde des prochaines semaines. Cadrio, Trezy, Alticash, Okimia et Flunea répondent à ce besoin, avec des formules sans engagement.
+
+Pour voir toutes les offres côte à côte, lisez notre comparatif du logiciel de trésorerie pas cher. Vous hésitez aussi avec un autre outil ? Voyez notre page alternative à Cadrio ou alternative à Trezy.
 
 > **En bref**
 > - Agicap vise les PME et ETI, avec un engagement annuel minimum.

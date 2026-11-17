@@ -3,7 +3,7 @@ title: "Logiciel de trésorerie pas cher : comparatif 2026"
 description: "Logiciel de trésorerie pas cher pour TPE : prix, essai, nombre de banques et type de prévision de Cadrio, Trezy, Alticash, Okimia, Agicap et Flunea."
 slug: "logiciel-tresorerie-pas-cher-comparatif"
 date: "2026-11-10"
-updated: "2026-11-10"
+updated: "2026-11-17"
 author: "L'équipe Flunea"
 rubrique: "Outils et comparatifs"
 sous_rubrique: "Logiciels de trésorerie"
@@ -18,6 +18,8 @@ draft: false
 ---
 
 Un logiciel de trésorerie pas cher coûte entre 7,50 € et 30 € par mois en 2026 pour une TPE. Le prix affiché ne suffit pas pour comparer : il faut regarder le nombre de banques connectées, l'engagement, la carte demandée à l'essai et le type de prévision, au mois ou à la semaine. Ce comparatif met six outils sur les mêmes critères.
+
+Si vous regardez déjà un outil précis, nos guides détaillent chaque cas : une alternative à Agicap, une alternative à Cadrio ou une alternative à Trezy, selon celui que vous comparez.
 
 > **En bref**
 > - Sous 30 € par mois, les écarts portent sur les banques incluses et l'engagement.
