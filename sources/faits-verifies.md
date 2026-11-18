@@ -413,6 +413,19 @@ Vérifié le 2026-11-16.
 - Crédit de campagne : prêt pour activités saisonnières, de l'ordre de 9 mois ou plus ; jugé risqué par la banque car reposant sur des ventes futures, qui peut demander le nantissement du stock de marchandises.
 - Escompte et cession Dailly (mobilisation de créances) : avance immédiate sur une créance client, avec intérêts et commissions ; la cession Dailly ne nécessite pas l'intervention du client et convient aux entreprises qui ne peuvent pas émettre d'effets de commerce.
 
+## Recouvrement amiable : relance et mise en demeure de payer (Service Public Entreprendre)
+
+https://entreprendre.service-public.gouv.fr/vosdroits/F38586
+Vérifié le 2026-11-18 (page vérifiée le 27 novembre 2024).
+
+- Le recouvrement amiable se fait en deux étapes non obligatoires, la relance puis la mise en demeure ; la relance n'est pas un préalable obligatoire à l'envoi d'une mise en demeure ou d'une assignation en paiement.
+- Délai de paiement : immédiat (paiement comptant) pour un particulier ; entre 30 et 60 jours selon le secteur pour un professionnel, le paiement n'étant exigible qu'à l'issue de ce délai.
+- La mise en demeure n'est obligatoire que dans des cas particuliers : un sous-traitant doit mettre en demeure l'entrepreneur principal (copie au maître d'ouvrage) et ne peut réclamer le paiement directement au maître d'ouvrage que si l'entrepreneur ne paie pas un mois après cette mise en demeure.
+- Trois formes possibles : la sommation (acte de commissaire de justice, payante) ; la lettre recommandée avec accusé de réception portant une « interpellation suffisante » (termes clairs et formels) ; ou, si le contrat le prévoit, la seule exigibilité du paiement.
+- Entre professionnels, les pénalités de retard sont dues dès la date à laquelle le paiement aurait dû être effectué (ex. date de facture), sans attendre la mise en demeure. Celle-ci « permet de mettre un terme aux intérêts qui ont commencé à courir à partir du défaut de paiement ».
+- En cas d'échec du recouvrement amiable : recouvrement judiciaire via injonction de payer, référé-provision (avance, audience avec les deux parties) ou assignation en paiement (procédure classique, plus longue et plus onéreuse).
+- Références légales citées par la page : Code civil, articles 1344 à 1345-3.
+
 ## Points de vigilance
 
 - L'article L441-10 a une nouvelle version au 1er janvier 2027 (ordonnance n° 2026-671) : seul le renvoi pour les factures périodiques change (code des impositions sur les biens et services au lieu du CGI). Délais et pénalités identiques.

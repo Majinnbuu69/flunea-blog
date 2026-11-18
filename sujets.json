@@ -448,7 +448,8 @@
       "intention": "howto",
       "angle": "Quand envoyer une mise en demeure de payer après les relances restées sans réponse, ce qu'elle doit contenir pour être valable, et un modèle de lettre complet à copier (texte dans l'article, pas de fichier à télécharger). Ce qu'elle déclenche (intérêts, suite judiciaire) et l'effet sur le plan de trésorerie tant que la facture n'est pas payée. Suite logique de l'article sur la relance d'un client impayé et de celui sur la procédure simplifiée de recouvrement.",
       "priorite": 34,
-      "statut": "a_faire",
+      "statut": "publie",
+      "publie_le": "2026-11-18",
       "rubrique": "Encaisser et relancer",
       "sous_rubrique": "Relances et recouvrement",
       "note": "Audit mots-clés du 13/11 : 1 600 recherches par mois, peu disputé. Mots-clés proches à placer dans les sections : « modèle mise en demeure de payer », « mise en demeure facture impayée ». Sujet juridique : chaque règle vient d'une page officielle ouverte pendant la session."
