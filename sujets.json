@@ -497,7 +497,7 @@
       "statut": "a_faire",
       "rubrique": "Diriger son entreprise",
       "sous_rubrique": "Prix et marge",
-      "note": "Plan d'acquisition du 19/11 : cible n°1 = artisans du bâtiment (1 à 10 salariés), jusqu'à fin janvier. Chiffres légaux (taux, délais, seuils) uniquement depuis une page officielle ouverte pendant la session."
+      "note": "Plan d'acquisition du 19/11 : cible n°1 = artisans du bâtiment (1 à 10 salariés), jusqu'à fin janvier. Chiffres légaux (taux, délais, seuils) uniquement depuis une page officielle ouverte pendant la session. Ne pas reprendre l'angle général de « fixer-ses-prix-marge-tresorerie » (TPE) : rester sur le devis de chantier."
     },
     {
       "slug": "acompte-devis-artisan",
@@ -522,14 +522,14 @@
       "note": "Plan d'acquisition du 19/11 : cible n°1 = artisans du bâtiment (1 à 10 salariés), jusqu'à fin janvier. Chiffres légaux (taux, délais, seuils) uniquement depuis une page officielle ouverte pendant la session."
     },
     {
-      "slug": "embaucher-premier-salarie-artisan",
-      "mot_cle": "embaucher un premier salarié artisan",
+      "slug": "tresorerie-installation-artisan",
+      "mot_cle": "s'installer artisan à son compte",
       "intention": "info",
-      "angle": "Ce que coûte vraiment le premier salarié d'un artisan (salaire, charges, équipement, véhicule, période de montée en charge), les aides à vérifier, et comment savoir si la trésorerie tiendra les trois premiers mois avant que les chantiers supplémentaires ne paient.",
+      "angle": "S'installer artisan à son compte : la trésorerie qu'il faut avant le premier chantier payé (outillage, véhicule, assurance décennale, stock de départ, premiers mois sans encaissement), comment la chiffrer et les erreurs qui vident le compte la première année. Exemple chiffré d'un plombier qui démarre seul.",
       "priorite": 31,
       "statut": "a_faire",
       "rubrique": "Diriger son entreprise",
-      "sous_rubrique": "Embaucher",
+      "sous_rubrique": "Créer et lancer",
       "note": "Plan d'acquisition du 19/11 : cible n°1 = artisans du bâtiment (1 à 10 salariés), jusqu'à fin janvier. Chiffres légaux (taux, délais, seuils) uniquement depuis une page officielle ouverte pendant la session."
     },
     {
@@ -541,7 +541,7 @@
       "statut": "a_faire",
       "rubrique": "Encaisser et relancer",
       "sous_rubrique": "Relances et recouvrement",
-      "note": "Plan d'acquisition du 19/11 : cible n°1 = artisans du bâtiment (1 à 10 salariés), jusqu'à fin janvier. Chiffres légaux (taux, délais, seuils) uniquement depuis une page officielle ouverte pendant la session."
+      "note": "Plan d'acquisition du 19/11 : cible n°1 = artisans du bâtiment (1 à 10 salariés), jusqu'à fin janvier. Chiffres légaux (taux, délais, seuils) uniquement depuis une page officielle ouverte pendant la session. Les modèles de relance sont déjà dans « relance-client-impaye-modele » : ici, les étapes après la relance."
     },
     {
       "slug": "achat-materiaux-tresorerie-artisan",
@@ -577,14 +577,14 @@
       "note": "Plan d'acquisition du 19/11 : cible n°1 = artisans du bâtiment (1 à 10 salariés), jusqu'à fin janvier. Chiffres légaux (taux, délais, seuils) uniquement depuis une page officielle ouverte pendant la session."
     },
     {
-      "slug": "salaire-dirigeant-artisan",
-      "mot_cle": "combien se verser artisan",
+      "slug": "rentabilite-chantier-artisan",
+      "mot_cle": "rentabilité d'un chantier",
       "intention": "info",
-      "angle": "Combien un artisan peut se verser chaque mois sans mettre la trésorerie à sec : partir du point bas des 3 prochains mois, garder une réserve pour la TVA et l'URSSAF, lisser les mois creux. Méthode et exemple chiffré.",
+      "angle": "Après le chantier : comparer le devis au réel (heures passées, matériaux, déplacements, reprises) pour savoir quels chantiers rapportent vraiment. Méthode simple en fin de chantier, exemple chiffré, et ce que ça change pour les prochains devis.",
       "priorite": 36,
       "statut": "a_faire",
       "rubrique": "Diriger son entreprise",
-      "sous_rubrique": "Rémunération du dirigeant",
+      "sous_rubrique": "Rentabilité et charges",
       "note": "Plan d'acquisition du 19/11 : cible n°1 = artisans du bâtiment (1 à 10 salariés), jusqu'à fin janvier. Chiffres légaux (taux, délais, seuils) uniquement depuis une page officielle ouverte pendant la session."
     },
     {
