@@ -1,10 +1,12 @@
 ---
-title: "Balance âgée clients : la lire en 10 minutes pour bien relancer"
-description: "La balance âgée clients classe vos factures impayées par ancienneté. Apprenez à la lire en 10 minutes pour savoir qui relancer en premier et protéger votre trésorerie."
+title: "Balance âgée clients : qui relancer en premier"
+description: "La balance âgée clients trie vos factures par ancienneté pour savoir qui relancer en premier. Méthode de lecture en 10 minutes et tableau d'exemple inclus."
 slug: "balance-agee-clients"
 date: "2026-10-02"
-updated: "2026-10-02"
+updated: "2026-11-19"
 author: "L'équipe Flunea"
+rubrique: "Encaisser et relancer"
+sous_rubrique: "Relances et recouvrement"
 keywords:
   - "balance âgée clients"
   - "lire sa balance âgée"
@@ -45,6 +47,8 @@ Le classement par ancienneté répond déjà à la question dans la plupart des 
 - l'historique du client enfin : un client qui paie toujours avec 5 jours de retard n'a pas le même traitement qu'un client qui ne répond plus depuis trois semaines.
 
 Le promoteur de Karim, à 50 jours, passe devant le particulier à 3 jours même si le montant du particulier tombe plus vite en trésorerie. C'est la créance la plus ancienne qui risque de ne jamais être payée, pas la plus récente.
+
+Une fois l'ordre fixé, chaque ligne appelle une action précise plutôt qu'un rappel générique : une créance à moins de 30 jours se traite avec un simple mail de courtoisie, une créance entre 30 et 60 jours justifie une relance client impayé plus ferme avec date de paiement demandée, et une créance au-delà de 60 jours doit passer en mise en demeure si deux relances sont restées sans réponse.
 
 ## Retard moyen, DSO, balance âgée : ne pas confondre
 
