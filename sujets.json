@@ -459,7 +459,7 @@
       "mot_cle": "retenue de garantie",
       "intention": "info",
       "angle": "La retenue de garantie expliquée à un artisan du BTP : combien le client retient, pendant combien de temps, comment la remplacer par une caution bancaire, et ce que ces sommes bloquées changent au point bas de trésorerie quand plusieurs chantiers se suivent. Exemple chiffré sur trois chantiers, avec la situation de travaux.",
-      "priorite": 38,
+      "priorite": 26,
       "statut": "a_faire",
       "rubrique": "Par métier",
       "sous_rubrique": "BTP et artisans",
@@ -476,6 +476,127 @@
       "rubrique": "Financer son activité",
       "sous_rubrique": "Prêts et facilités de caisse",
       "note": "Audit mots-clés du 13/11 : 880 recherches par mois ; Google affiche déjà le site sur « facilité de caisse ou prêt de trésorerie pour passer un creux d'activité » (position 11) : reprendre cette formulation dans une section. Aucun taux inventé : seulement des chiffres de pages officielles ouvertes pendant la session. Ne pas doublonner les sujets « affacturage-ou-decouvert-tpe » et « gerer-decouvert-bancaire-professionnel »."
+    },
+    {
+      "slug": "echeances-fiscales-sociales-artisan-janvier",
+      "mot_cle": "échéances fiscales artisan janvier",
+      "intention": "info",
+      "angle": "Les grosses sorties d'un artisan entre mi-décembre et fin janvier (CFE, TVA, URSSAF, acompte d'impôt, congés et primes de fin d'année), dans l'ordre du calendrier, avec un exemple chiffré d'électricien à 3 salariés et la méthode pour les voir venir 8 semaines avant.",
+      "priorite": 27,
+      "statut": "a_faire",
+      "rubrique": "Payer et négocier",
+      "sous_rubrique": "Charges sociales et impôts",
+      "note": "Plan d'acquisition du 19/11 : cible n°1 = artisans du bâtiment (1 à 10 salariés), jusqu'à fin janvier. Chiffres légaux (taux, délais, seuils) uniquement depuis une page officielle ouverte pendant la session."
+    },
+    {
+      "slug": "prix-chantier-marge-artisan",
+      "mot_cle": "calculer le prix d'un chantier",
+      "intention": "info",
+      "angle": "Comment un artisan calcule le prix d'un chantier pour garder une marge réelle : matériaux, heures, frais de déplacement, part des charges fixes, aléas. Exemple chiffré sur une salle de bains, et l'effet d'un devis sous-évalué sur la trésorerie trois mois plus tard.",
+      "priorite": 28,
+      "statut": "a_faire",
+      "rubrique": "Diriger son entreprise",
+      "sous_rubrique": "Prix et marge",
+      "note": "Plan d'acquisition du 19/11 : cible n°1 = artisans du bâtiment (1 à 10 salariés), jusqu'à fin janvier. Chiffres légaux (taux, délais, seuils) uniquement depuis une page officielle ouverte pendant la session."
+    },
+    {
+      "slug": "acompte-devis-artisan",
+      "mot_cle": "acompte devis artisan",
+      "intention": "info",
+      "angle": "Combien d'acompte demander sur un devis d'artisan, à quel moment, ce qu'il faut écrire sur le devis et la facture d'acompte, la différence entre acompte et arrhes, et comment l'acompte couvre l'achat des matériaux avant le début du chantier.",
+      "priorite": 29,
+      "statut": "a_faire",
+      "rubrique": "Encaisser et relancer",
+      "sous_rubrique": "Facturation",
+      "note": "Plan d'acquisition du 19/11 : cible n°1 = artisans du bâtiment (1 à 10 salariés), jusqu'à fin janvier. Chiffres légaux (taux, délais, seuils) uniquement depuis une page officielle ouverte pendant la session."
+    },
+    {
+      "slug": "autoliquidation-tva-sous-traitance-btp",
+      "mot_cle": "autoliquidation TVA sous-traitance BTP",
+      "intention": "info",
+      "angle": "L'autoliquidation de la TVA en sous-traitance dans le BTP expliquée simplement : qui déclare la TVA, les mentions sur la facture, et pourquoi un sous-traitant encaisse moins mais ne reverse plus de TVA : l'effet réel sur sa trésorerie, avec un exemple chiffré.",
+      "priorite": 30,
+      "statut": "a_faire",
+      "rubrique": "Payer et négocier",
+      "sous_rubrique": "TVA",
+      "note": "Plan d'acquisition du 19/11 : cible n°1 = artisans du bâtiment (1 à 10 salariés), jusqu'à fin janvier. Chiffres légaux (taux, délais, seuils) uniquement depuis une page officielle ouverte pendant la session."
+    },
+    {
+      "slug": "embaucher-premier-salarie-artisan",
+      "mot_cle": "embaucher un premier salarié artisan",
+      "intention": "info",
+      "angle": "Ce que coûte vraiment le premier salarié d'un artisan (salaire, charges, équipement, véhicule, période de montée en charge), les aides à vérifier, et comment savoir si la trésorerie tiendra les trois premiers mois avant que les chantiers supplémentaires ne paient.",
+      "priorite": 31,
+      "statut": "a_faire",
+      "rubrique": "Diriger son entreprise",
+      "sous_rubrique": "Embaucher",
+      "note": "Plan d'acquisition du 19/11 : cible n°1 = artisans du bâtiment (1 à 10 salariés), jusqu'à fin janvier. Chiffres légaux (taux, délais, seuils) uniquement depuis une page officielle ouverte pendant la session."
+    },
+    {
+      "slug": "impaye-fin-chantier-artisan",
+      "mot_cle": "client qui ne paie pas artisan",
+      "intention": "info",
+      "angle": "Un client ne paie pas la facture de fin de chantier : les étapes dans l'ordre pour un artisan (relance, mise en demeure, injonction de payer), les délais, ce que ça coûte, et comment éviter que l'impayé fasse plonger le compte (acompte, situations intermédiaires, réserves à la réception).",
+      "priorite": 32,
+      "statut": "a_faire",
+      "rubrique": "Encaisser et relancer",
+      "sous_rubrique": "Relances et recouvrement",
+      "note": "Plan d'acquisition du 19/11 : cible n°1 = artisans du bâtiment (1 à 10 salariés), jusqu'à fin janvier. Chiffres légaux (taux, délais, seuils) uniquement depuis une page officielle ouverte pendant la session."
+    },
+    {
+      "slug": "achat-materiaux-tresorerie-artisan",
+      "mot_cle": "délai de paiement fournisseur artisan",
+      "intention": "info",
+      "angle": "Matériaux payés avant d'être facturés au client : comment un artisan réduit ce décalage (délais négociés au négoce, comptes pro, acomptes clients, commandes au fil du chantier), avec le calcul de l'argent immobilisé sur un chantier type.",
+      "priorite": 33,
+      "statut": "a_faire",
+      "rubrique": "Payer et négocier",
+      "sous_rubrique": "Fournisseurs",
+      "note": "Plan d'acquisition du 19/11 : cible n°1 = artisans du bâtiment (1 à 10 salariés), jusqu'à fin janvier. Chiffres légaux (taux, délais, seuils) uniquement depuis une page officielle ouverte pendant la session."
+    },
+    {
+      "slug": "vehicule-utilitaire-achat-ou-location-artisan",
+      "mot_cle": "utilitaire achat ou LOA artisan",
+      "intention": "compare",
+      "angle": "Camionnette d'artisan : acheter comptant, à crédit, en LOA ou en crédit-bail. Comparatif sur 5 ans du coût total et de l'effet sur la trésorerie mois par mois, et dans quel cas chaque formule convient.",
+      "priorite": 34,
+      "statut": "a_faire",
+      "rubrique": "Diriger son entreprise",
+      "sous_rubrique": "Investir",
+      "note": "Plan d'acquisition du 19/11 : cible n°1 = artisans du bâtiment (1 à 10 salariés), jusqu'à fin janvier. Chiffres légaux (taux, délais, seuils) uniquement depuis une page officielle ouverte pendant la session."
+    },
+    {
+      "slug": "conges-payes-intemperies-btp",
+      "mot_cle": "caisse congés payés BTP",
+      "intention": "info",
+      "angle": "Les caisses de congés payés et d'intempéries du BTP vues par un petit patron : qui cotise, quand, combien, et pourquoi ces cotisations pèsent sur la trésorerie à des moments précis de l'année. Exemple chiffré pour une entreprise de 3 salariés.",
+      "priorite": 35,
+      "statut": "a_faire",
+      "rubrique": "Par métier",
+      "sous_rubrique": "BTP et artisans",
+      "note": "Plan d'acquisition du 19/11 : cible n°1 = artisans du bâtiment (1 à 10 salariés), jusqu'à fin janvier. Chiffres légaux (taux, délais, seuils) uniquement depuis une page officielle ouverte pendant la session."
+    },
+    {
+      "slug": "salaire-dirigeant-artisan",
+      "mot_cle": "combien se verser artisan",
+      "intention": "info",
+      "angle": "Combien un artisan peut se verser chaque mois sans mettre la trésorerie à sec : partir du point bas des 3 prochains mois, garder une réserve pour la TVA et l'URSSAF, lisser les mois creux. Méthode et exemple chiffré.",
+      "priorite": 36,
+      "statut": "a_faire",
+      "rubrique": "Diriger son entreprise",
+      "sous_rubrique": "Rémunération du dirigeant",
+      "note": "Plan d'acquisition du 19/11 : cible n°1 = artisans du bâtiment (1 à 10 salariés), jusqu'à fin janvier. Chiffres légaux (taux, délais, seuils) uniquement depuis une page officielle ouverte pendant la session."
+    },
+    {
+      "slug": "delai-paiement-marches-publics-artisan",
+      "mot_cle": "délai de paiement marché public",
+      "intention": "info",
+      "angle": "Travailler pour une mairie ou un bailleur social : le délai de paiement maximal, les intérêts moratoires et l'indemnité de recouvrement dus en cas de retard, comment les réclamer, et les avances possibles au démarrage.",
+      "priorite": 37,
+      "statut": "a_faire",
+      "rubrique": "Encaisser et relancer",
+      "sous_rubrique": "Délais de paiement",
+      "note": "Plan d'acquisition du 19/11 : cible n°1 = artisans du bâtiment (1 à 10 salariés), jusqu'à fin janvier. Chiffres légaux (taux, délais, seuils) uniquement depuis une page officielle ouverte pendant la session."
     }
   ]
 }
