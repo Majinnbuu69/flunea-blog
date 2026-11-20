@@ -460,10 +460,10 @@
       "intention": "info",
       "angle": "La retenue de garantie expliquée à un artisan du BTP : combien le client retient, pendant combien de temps, comment la remplacer par une caution bancaire, et ce que ces sommes bloquées changent au point bas de trésorerie quand plusieurs chantiers se suivent. Exemple chiffré sur trois chantiers, avec la situation de travaux.",
       "priorite": 26,
-      "statut": "a_faire",
+      "statut": "a_revoir",
       "rubrique": "Par métier",
       "sous_rubrique": "BTP et artisans",
-      "note": "Audit mots-clés du 13/11 : 1 000 recherches par mois, peu disputé. Variante à placer : « situation de travaux ». Chiffres légaux (taux, durée) uniquement depuis une page officielle ouverte pendant la session."
+      "note": "Audit mots-clés du 13/11 : 1 000 recherches par mois, peu disputé. Variante à placer : « situation de travaux ». Chiffres légaux (taux, durée) uniquement depuis une page officielle ouverte pendant la session. Tentative du 2026-11-20 : legifrance.gouv.fr (loi n° 71-584 du 16/07/1971, y compris la page d'accueil) et economie.gouv.fr (guide du Médiateur des entreprises sur la trésorerie des marchés privés) ont renvoyé 403 toute la session ; impots.gouv.fr était en maintenance et urssaf.fr en 503. Seules des pages service-public.gouv.fr sur les marchés PUBLICS (régime et pourcentages différents) étaient accessibles, donc pas de source fiable pour le plafond de 5 % ni le délai d'un an en marché privé. À repasser en a_faire quand legifrance.gouv.fr ou economie.gouv.fr seront accessibles."
     },
     {
       "slug": "facilite-de-caisse-decouvert-ou-pret",
