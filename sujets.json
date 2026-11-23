@@ -483,7 +483,8 @@
       "intention": "info",
       "angle": "Les grosses sorties d'un artisan entre mi-décembre et fin janvier (CFE, TVA, URSSAF, acompte d'impôt, congés et primes de fin d'année), dans l'ordre du calendrier, avec un exemple chiffré d'électricien à 3 salariés et la méthode pour les voir venir 8 semaines avant.",
       "priorite": 27,
-      "statut": "a_faire",
+      "statut": "publie",
+      "publie_le": "2026-11-23",
       "rubrique": "Payer et négocier",
       "sous_rubrique": "Charges sociales et impôts",
       "note": "Plan d'acquisition du 19/11 : cible n°1 = artisans du bâtiment (1 à 10 salariés), jusqu'à fin janvier. Chiffres légaux (taux, délais, seuils) uniquement depuis une page officielle ouverte pendant la session."
