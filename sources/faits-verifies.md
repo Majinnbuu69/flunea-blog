@@ -426,6 +426,17 @@ Vérifié le 2026-11-18 (page vérifiée le 27 novembre 2024).
 - En cas d'échec du recouvrement amiable : recouvrement judiciaire via injonction de payer, référé-provision (avance, audience avec les deux parties) ou assignation en paiement (procédure classique, plus longue et plus onéreuse).
 - Références légales citées par la page : Code civil, articles 1344 à 1345-3.
 
+## Délais de paiement et remises gracieuses (impots.gouv.fr)
+
+https://www.impots.gouv.fr/professionnel/delais-de-paiement
+https://www.impots.gouv.fr/professionnel/remises-ou-moderations
+Vérifié le 2026-11-24.
+
+- Un délai de paiement peut être demandé pour l'ensemble des dettes fiscales d'une entreprise (TVA comprise) auprès du service des impôts des entreprises qui gère son dossier, en cas de difficultés passagères, exceptionnelles et imprévisibles ; le plan ne dépasse pas deux ans et suppose en général des garanties, un acompte pouvant être demandé.
+- La demande doit être à jour de ses obligations déclaratives, inclure un échéancier de paiement précis et des pièces justifiant les difficultés.
+- La TVA (comme les droits d'enregistrement) ne peut jamais donner lieu à une remise gracieuse (annulation) ; seules les pénalités et l'intérêt de retard peuvent, dans certains cas, être réduits.
+- La page « difficultés passagères pour payer mon solde d'impôt sur les sociétés » (déjà citée plus haut) ne couvre que l'IS : pour un article sur la TVA, citer plutôt ces deux pages.
+
 ## Points de vigilance
 
 - L'article L441-10 a une nouvelle version au 1er janvier 2027 (ordonnance n° 2026-671) : seul le renvoi pour les factures périodiques change (code des impositions sur les biens et services au lieu du CGI). Délais et pénalités identiques.
