@@ -437,6 +437,15 @@ Vérifié le 2026-11-24.
 - La TVA (comme les droits d'enregistrement) ne peut jamais donner lieu à une remise gracieuse (annulation) ; seules les pénalités et l'intérêt de retard peuvent, dans certains cas, être réduits.
 - La page « difficultés passagères pour payer mon solde d'impôt sur les sociétés » (déjà citée plus haut) ne couvre que l'IS : pour un article sur la TVA, citer plutôt ces deux pages.
 
+## Taux de TVA pour les travaux de rénovation d'un logement (Service Public Entreprendre)
+
+https://entreprendre.service-public.gouv.fr/vosdroits/F23568  
+Vérifié le 2026-11-25.
+
+- Pour un logement achevé depuis plus de 2 ans, deux taux réduits existent, selon la nature exacte des travaux : 10 % pour les travaux d'amélioration, de transformation, d'aménagement ou d'entretien ; 5,5 % pour la rénovation ou l'amélioration énergétique. Les équipements ménagers, le mobilier et les gros équipements ne bénéficient pas du taux réduit.
+- Les locaux non destinés à l'habitation, ainsi que les surélévations ou constructions achevées depuis moins de 2 ans, restent au taux normal de 20 %.
+- Le client doit certifier sur le devis ou la facture que les conditions du taux réduit sont remplies ; le document est établi en 2 exemplaires (un pour l'entreprise, un pour le client).
+
 ## Points de vigilance
 
 - L'article L441-10 a une nouvelle version au 1er janvier 2027 (ordonnance n° 2026-671) : seul le renvoi pour les factures périodiques change (code des impositions sur les biens et services au lieu du CGI). Délais et pénalités identiques.

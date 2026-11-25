@@ -495,7 +495,8 @@
       "intention": "info",
       "angle": "Comment un artisan calcule le prix d'un chantier pour garder une marge réelle : matériaux, heures, frais de déplacement, part des charges fixes, aléas. Exemple chiffré sur une salle de bains, et l'effet d'un devis sous-évalué sur la trésorerie trois mois plus tard.",
       "priorite": 28,
-      "statut": "a_faire",
+      "statut": "publie",
+      "publie_le": "2026-11-25",
       "rubrique": "Diriger son entreprise",
       "sous_rubrique": "Prix et marge",
       "note": "Plan d'acquisition du 19/11 : cible n°1 = artisans du bâtiment (1 à 10 salariés), jusqu'à fin janvier. Chiffres légaux (taux, délais, seuils) uniquement depuis une page officielle ouverte pendant la session. Ne pas reprendre l'angle général de « fixer-ses-prix-marge-tresorerie » (TPE) : rester sur le devis de chantier."
