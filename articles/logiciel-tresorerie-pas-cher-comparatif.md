@@ -1,9 +1,9 @@
 ---
 title: "Logiciel de trésorerie pas cher : comparatif 2026"
-description: "Logiciel de trésorerie pas cher pour TPE : prix, essai, nombre de banques et type de prévision de Cadrio, Trezy, Alticash, Okimia, Agicap et Flunea."
+description: "Logiciel de trésorerie pas cher pour TPE : prix, essai, nombre de banques et type de prévision de Cadrio, Trezy, Okimia, Agicap et Flunea."
 slug: "logiciel-tresorerie-pas-cher-comparatif"
 date: "2026-11-10"
-updated: "2026-11-17"
+updated: "2026-11-26"
 author: "L'équipe Flunea"
 rubrique: "Outils et comparatifs"
 sous_rubrique: "Logiciels de trésorerie"
@@ -17,7 +17,7 @@ cover: ""
 draft: false
 ---
 
-Un logiciel de trésorerie pas cher coûte entre 7,50 € et 30 € par mois en 2026 pour une TPE. Le prix affiché ne suffit pas pour comparer : il faut regarder le nombre de banques connectées, l'engagement, la carte demandée à l'essai et le type de prévision, au mois ou à la semaine. Ce comparatif met six outils sur les mêmes critères.
+Un logiciel de trésorerie pas cher coûte entre 7,50 € et 29 € par mois en 2026 pour une TPE. Le prix affiché ne suffit pas pour comparer : il faut regarder le nombre de banques connectées, l'engagement, la carte demandée à l'essai et le public visé par chaque formule. Ce comparatif met cinq outils sur les mêmes critères.
 
 Si vous regardez déjà un outil précis, nos guides détaillent chaque cas : une alternative à Agicap, une alternative à Cadrio ou une alternative à Trezy, selon celui que vous comparez.
 
@@ -42,18 +42,17 @@ La quatrième, la plus utile pour la trésorerie : la prévision est-elle au moi
 
 ## Comparatif des prix et des fonctions (novembre 2026)
 
-Chaque information vient du site officiel de l'éditeur, consulté le 10/11/2026. Les prix changent : vérifiez-les sur la page tarifs de chaque éditeur avant de choisir.
+Chaque information vient du site officiel de l'éditeur, consulté le 26/11/2026. Alticash ne figure plus dans ce comparatif : son site renvoyait une erreur à chaque tentative d'ouverture ce jour-là. Les prix changent : vérifiez-les sur la page tarifs de chaque éditeur avant de choisir.
 
-| Critère | Cadrio Pro | Trezy Starter | Alticash | Okimia Starter | Agicap | Flunea |
-| --- | --- | --- | --- | --- | --- | --- |
-| Prix affiché | 19 € HT/mois | 7,50 €/mois facturé 90 €/an (HT ou TTC non précisé) | 25 € HT/mois avec engagement 12 mois, 29 € HT/mois sans | 69 € HT/mois | Non affiché, sur mesure | 9,90 € HT/mois (50 places fondateurs), puis 14,90 € HT/mois |
-| Engagement | Sans engagement, pas d'offre annuelle | Annuel au tarif affiché | Au choix | Non précisé | 12 mois minimum | Sans engagement (ou 99 € HT/an) |
-| Essai | 14 jours, carte demandée | 7 jours | Offre d'accès sans connecteur bancaire | 7 jours | « Quelques jours » | 30 jours sans carte bancaire |
-| Banques connectées | Illimitées | 1 seule (illimitées en Premium) | Connecteur bancaire inclus dans les offres payantes | 2 | Selon devis | Plusieurs banques, ou import d'un relevé CSV |
-| Prévision | Au mois, horizon sans limite | Prévisions avec scénarios | Fonctions de trésorerie complètes | Prévisionnel avec 3 scénarios | Sur devis | Jusqu'à 12 mois, au mois et à la semaine, point bas et alertes |
-| Utilisateurs ou public | 1 utilisateur | Non précisé | Non précisé | 1 utilisateur, jusqu'à 2 M€ de chiffre d'affaires | Pages dédiées aux PME et ETI | TPE, artisans, indépendants |
+| Critère | Cadrio Pro | Trezy Starter | Okimia Starter | Agicap | Flunea |
+| --- | --- | --- | --- | --- | --- |
+| Prix affiché | 19 € HT/mois | 7,50 €/mois facturé 90 €/an, ou 9 €/mois sans engagement | 69 € HT/mois en facturation annuelle (remise de 30 % par rapport au mensuel) | Non affiché, sur devis | 9,90 € HT/mois (50 places fondateurs), puis 14,90 € HT/mois |
+| Engagement | Sans engagement, résiliable à tout moment | Sans contrat, changement de formule possible sans pénalité | Non précisé sur la page tarifs | Non précisé sur la page tarifs | Sans engagement (ou 99 € HT/an) |
+| Essai | 14 jours, carte demandée, rien n'est prélevé pendant l'essai | 7 jours sur les formules payantes, sans carte bancaire | 7 jours gratuits, sans engagement | Essai gratuit proposé, conditions non précisées sur le site | 30 jours sans carte bancaire |
+| Banques connectées | Synchronisées illimitées, via Bridge en lecture seule | 1 seule (illimitées en Premium) | 2 banques (4 en Pro, illimitées en Entreprise) | Couverture bancaire mondiale incluse, nombre non précisé | Plusieurs banques, ou import d'un relevé CSV |
+| Public visé | Indépendants et TPE établis en France | Freelances et TPE (Starter), PME et groupes multi-entités (Premium) | TPE et start-ups jusqu'à 2 M€ de chiffre d'affaires (Starter), PME jusqu'à 5 M€ (Pro) | PME et ETI selon le site, plus de 8 000 clients revendiqués | TPE, artisans, indépendants |
 
-Deux remarques. Trezy propose aussi une formule sans abonnement limitée à une vue des prévisions, et une formule Premium à 32,50 € par mois sur facturation annuelle pour les banques illimitées, selon son site. Okimia (ex-Fygr) indique un essai de 7 jours et des formules plus complètes à partir de 104 € HT par mois.
+Deux remarques. Trezy propose aussi une formule Free gratuite limitée à un compte bancaire, et une offre pour les experts-comptables externes gérant plusieurs sociétés à partir de 20 € par mois, selon son site. Okimia (ex-Fygr) propose, en plus de Starter et Pro, une formule Entreprise sur devis pour les PME multi-entités ou au-delà de 5 M€ de chiffre d'affaires.
 
 ## Ce que ça change pour votre trésorerie
 
@@ -63,7 +62,6 @@ Prenons l'exemple d'une entreprise de rénovation avec deux comptes bancaires, q
 | --- | --- |
 | Flunea, tarif fondateur au mois | 118,80 € HT (99 € HT en annuel) |
 | Cadrio Pro | 228 € HT |
-| Alticash avec engagement (nombre de comptes non précisé) | 300 € HT |
 | Trezy Premium (banques illimitées) | 390 € |
 | Okimia Starter | 828 € HT |
 
@@ -92,7 +90,7 @@ Oui, certains éditeurs proposent une formule sans abonnement, mais limitée : u
 
 ### Combien coûte un logiciel de trésorerie pour une TPE ?
 
-Entre 7,50 € et 30 € par mois pour les offres d'entrée relevées en novembre 2026, et davantage pour les outils destinés aux PME, souvent sur devis avec un engagement de 12 mois.
+Entre 7,50 € et 29 € par mois pour les offres d'entrée relevées en novembre 2026, et davantage pour les outils destinés aux PME, souvent sur devis.
 
 ### Faut-il connecter sa banque à un logiciel de trésorerie ?
 
