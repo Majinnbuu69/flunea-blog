@@ -446,6 +446,26 @@ Vérifié le 2026-11-25.
 - Les locaux non destinés à l'habitation, ainsi que les surélévations ou constructions achevées depuis moins de 2 ans, restent au taux normal de 20 %.
 - Le client doit certifier sur le devis ou la facture que les conditions du taux réduit sont remplies ; le document est établi en 2 exemplaires (un pour l'entreprise, un pour le client).
 
+## Acompte, avance, arrhes et avoir (Service Public)
+
+https://www.service-public.gouv.fr/particuliers/vosdroits/F31187  
+Vérifié le 2026-11-27.
+
+- Toute somme versée d'avance est considérée comme des arrhes si le contrat ne précise rien. Au-delà de 3 mois après le versement, la somme produit des intérêts jusqu'à la vente, la prestation ou le remboursement.
+- Acompte : premier paiement sur l'achat, montant fixé librement par le vendeur et négociable avant signature. Engagement ferme : en cas d'annulation par le client, le professionnel peut exiger le solde ou l'exécution judiciaire de la vente ; en cas d'annulation par le professionnel, il doit le rembourser (et peut devoir des dommages et intérêts).
+- Arrhes et avance : chaque partie peut se dédire. Le client qui annule perd la somme ; le professionnel qui annule doit la rembourser au double.
+- Références légales citées par la page : article 1590 du Code civil (annulation de la vente, arrhes) et articles L214-1 à L214-3 du Code de la consommation (distinction arrhes/acompte).
+
+## Devis obligatoire : activités concernées (Service Public Entreprendre)
+
+https://entreprendre.service-public.gouv.fr/vosdroits/F31144  
+Vérifié le 2026-11-27.
+
+- Pour les travaux et dépannages du bâtiment, le devis préalable est obligatoire quel que soit le montant des travaux (aucun seuil, contrairement à d'autres activités citées sur la même page).
+- Mentions obligatoires du devis : date de rédaction, identité et adresse de l'entreprise, nom du client, lieu d'exécution, nature exacte des travaux, décompte détaillé des prestations et produits (prix unitaire, quantité), taux horaire de main-d'œuvre TTC, frais de déplacement éventuels, montant global HT et TTC avec le taux de TVA, durée de validité de l'offre, et l'indication que le devis est gratuit ou payant.
+- Le devis est une offre de contrat qui engage le professionnel dès acceptation du client ; le client n'est engagé qu'après l'avoir signé avec la mention « bon pour travaux » ou « bon pour accord ».
+- L'absence de devis pour des travaux du bâtiment expose à une amende administrative pouvant atteindre 3 000 € pour un entrepreneur individuel et 15 000 € pour une société.
+
 ## Points de vigilance
 
 - L'article L441-10 a une nouvelle version au 1er janvier 2027 (ordonnance n° 2026-671) : seul le renvoi pour les factures périodiques change (code des impositions sur les biens et services au lieu du CGI). Délais et pénalités identiques.

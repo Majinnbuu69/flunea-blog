@@ -507,7 +507,8 @@
       "intention": "info",
       "angle": "Combien d'acompte demander sur un devis d'artisan, à quel moment, ce qu'il faut écrire sur le devis et la facture d'acompte, la différence entre acompte et arrhes, et comment l'acompte couvre l'achat des matériaux avant le début du chantier.",
       "priorite": 29,
-      "statut": "a_faire",
+      "statut": "publie",
+      "publie_le": "2026-11-27",
       "rubrique": "Encaisser et relancer",
       "sous_rubrique": "Facturation",
       "note": "Plan d'acquisition du 19/11 : cible n°1 = artisans du bâtiment (1 à 10 salariés), jusqu'à fin janvier. Chiffres légaux (taux, délais, seuils) uniquement depuis une page officielle ouverte pendant la session."
